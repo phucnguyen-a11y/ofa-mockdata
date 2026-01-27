@@ -5,7 +5,7 @@
   "main": "mock/generate-data.js",
   "scripts": {
     "mock:generate": "node mock/generate-data.js",
-    "mock:server": "json-server mock/db.json --port ${PORT:-3000} --host 0.0.0.0",
+    "mock:server": "json-server mock/db.json --port ${PORT:-3000} --host 0.0.0.0 --no-static",
     "mock:dev": "npm run mock:generate && npm run mock:server"
   },
   "keywords": [
