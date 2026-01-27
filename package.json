@@ -1,0 +1,23 @@
+{
+  "name": "ofa-mockdata",
+  "version": "1.0.0",
+  "description": "Mock data server for e-commerce frontend development",
+  "main": "mock/generate-data.js",
+  "scripts": {
+    "mock:generate": "node mock/generate-data.js",
+    "mock:server": "json-server mock/db.json --port ${PORT:-3001} --host 0.0.0.0 --watch",
+    "mock:dev": "npm run mock:generate && npm run mock:server"
+  },
+  "keywords": [
+    "mock",
+    "json-server",
+    "e-commerce",
+    "fake-data"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@faker-js/faker": "^9.3.0",
+    "json-server": "^1.0.0-beta.3"
+  }
+}
