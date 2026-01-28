@@ -56,10 +56,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/vang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/den.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/1-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/1-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/1-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/1-4.png"
       ],
       "name": "VENTO S",
       "price": 30000000,
@@ -111,7 +111,7 @@
         ]
       ],
       "slug": "vento-s",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/vang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/1-1.png",
       "originalPrice": 32967033,
       "discount": 9,
       "rating": 4.1,
@@ -135,10 +135,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/vang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/xam.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/den.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/2-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/2-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/2-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/2-4.png"
       ],
       "name": "VENTO NEO",
       "price": 32000000,
@@ -191,7 +191,7 @@
         ]
       ],
       "slug": "vento-neo",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/vang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/2-1.png",
       "originalPrice": 47761194,
       "discount": 33,
       "rating": 4.5,
@@ -3608,8 +3608,8 @@
       "images": [],
       "helpful": 20,
       "verified": true,
-      "createdAt": "2025-04-04T18:12:12.141Z",
-      "updatedAt": "2026-01-27T07:47:11.968Z"
+      "createdAt": "2025-04-04T23:22:04.578Z",
+      "updatedAt": "2026-01-27T12:57:04.405Z"
     },
     {
       "id": 2,
@@ -3620,8 +3620,8 @@
       "images": [],
       "helpful": 22,
       "verified": true,
-      "createdAt": "2025-07-27T08:15:25.859Z",
-      "updatedAt": "2026-01-27T13:47:44.424Z"
+      "createdAt": "2025-07-27T13:25:18.295Z",
+      "updatedAt": "2026-01-27T18:57:36.860Z"
     },
     {
       "id": 3,
@@ -3632,8 +3632,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-09-08T20:31:54.265Z",
-      "updatedAt": "2026-01-27T06:28:15.309Z"
+      "createdAt": "2025-09-09T01:41:46.701Z",
+      "updatedAt": "2026-01-27T11:38:07.745Z"
     },
     {
       "id": 4,
@@ -3647,8 +3647,8 @@
       ],
       "helpful": 31,
       "verified": true,
-      "createdAt": "2025-12-01T14:29:43.384Z",
-      "updatedAt": "2026-01-27T05:34:21.076Z"
+      "createdAt": "2025-12-01T19:39:35.820Z",
+      "updatedAt": "2026-01-27T10:44:13.512Z"
     },
     {
       "id": 5,
@@ -3659,8 +3659,8 @@
       "images": [],
       "helpful": 30,
       "verified": true,
-      "createdAt": "2025-03-27T04:03:44.291Z",
-      "updatedAt": "2026-01-27T07:14:58.252Z"
+      "createdAt": "2025-03-27T09:13:36.727Z",
+      "updatedAt": "2026-01-27T12:24:50.688Z"
     },
     {
       "id": 6,
@@ -3674,8 +3674,8 @@
       ],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-11-02T11:29:40.206Z",
-      "updatedAt": "2026-01-27T17:48:43.006Z"
+      "createdAt": "2025-11-02T16:39:32.642Z",
+      "updatedAt": "2026-01-27T22:58:35.442Z"
     },
     {
       "id": 7,
@@ -3689,8 +3689,8 @@
       ],
       "helpful": 43,
       "verified": true,
-      "createdAt": "2025-12-06T00:34:45.905Z",
-      "updatedAt": "2026-01-27T12:48:42.715Z"
+      "createdAt": "2025-12-06T05:44:38.341Z",
+      "updatedAt": "2026-01-27T17:58:35.151Z"
     },
     {
       "id": 8,
@@ -3701,8 +3701,8 @@
       "images": [],
       "helpful": 46,
       "verified": true,
-      "createdAt": "2025-05-14T21:46:58.942Z",
-      "updatedAt": "2026-01-27T16:03:21.470Z"
+      "createdAt": "2025-05-15T02:56:51.378Z",
+      "updatedAt": "2026-01-27T21:13:13.906Z"
     },
     {
       "id": 9,
@@ -3715,8 +3715,8 @@
       ],
       "helpful": 27,
       "verified": true,
-      "createdAt": "2025-05-16T12:04:34.231Z",
-      "updatedAt": "2026-01-28T01:50:15.464Z"
+      "createdAt": "2025-05-16T17:14:26.667Z",
+      "updatedAt": "2026-01-28T07:00:07.900Z"
     },
     {
       "id": 10,
@@ -3727,8 +3727,8 @@
       "images": [],
       "helpful": 39,
       "verified": true,
-      "createdAt": "2025-05-20T00:15:02.947Z",
-      "updatedAt": "2026-01-27T19:32:31.039Z"
+      "createdAt": "2025-05-20T05:24:55.383Z",
+      "updatedAt": "2026-01-28T00:42:23.475Z"
     },
     {
       "id": 11,
@@ -3739,8 +3739,8 @@
       "images": [],
       "helpful": 17,
       "verified": false,
-      "createdAt": "2025-10-29T03:51:23.685Z",
-      "updatedAt": "2026-01-27T17:21:11.654Z"
+      "createdAt": "2025-10-29T09:01:16.121Z",
+      "updatedAt": "2026-01-27T22:31:04.090Z"
     },
     {
       "id": 12,
@@ -3755,8 +3755,8 @@
       ],
       "helpful": 0,
       "verified": true,
-      "createdAt": "2026-01-03T07:18:04.403Z",
-      "updatedAt": "2026-01-27T17:32:52.491Z"
+      "createdAt": "2026-01-03T12:27:56.839Z",
+      "updatedAt": "2026-01-27T22:42:44.927Z"
     },
     {
       "id": 13,
@@ -3767,8 +3767,8 @@
       "images": [],
       "helpful": 24,
       "verified": true,
-      "createdAt": "2025-08-14T05:03:59.126Z",
-      "updatedAt": "2026-01-27T05:10:42.358Z"
+      "createdAt": "2025-08-14T10:13:51.562Z",
+      "updatedAt": "2026-01-27T10:20:34.794Z"
     },
     {
       "id": 14,
@@ -3783,8 +3783,8 @@
       ],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-11-11T20:05:43.032Z",
-      "updatedAt": "2026-01-27T13:27:12.282Z"
+      "createdAt": "2025-11-12T01:15:35.468Z",
+      "updatedAt": "2026-01-27T18:37:04.718Z"
     },
     {
       "id": 15,
@@ -3795,8 +3795,8 @@
       "images": [],
       "helpful": 46,
       "verified": true,
-      "createdAt": "2025-07-16T09:10:24.981Z",
-      "updatedAt": "2026-01-27T15:37:44.102Z"
+      "createdAt": "2025-07-16T14:20:17.417Z",
+      "updatedAt": "2026-01-27T20:47:36.538Z"
     },
     {
       "id": 16,
@@ -3807,8 +3807,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-09-13T18:02:44.518Z",
-      "updatedAt": "2026-01-27T03:42:32.230Z"
+      "createdAt": "2025-09-13T23:12:36.954Z",
+      "updatedAt": "2026-01-27T08:52:24.666Z"
     },
     {
       "id": 17,
@@ -3819,8 +3819,8 @@
       "images": [],
       "helpful": 36,
       "verified": true,
-      "createdAt": "2025-04-07T20:47:48.266Z",
-      "updatedAt": "2026-01-28T02:47:43.654Z"
+      "createdAt": "2025-04-08T01:57:40.702Z",
+      "updatedAt": "2026-01-28T07:57:36.090Z"
     },
     {
       "id": 18,
@@ -3833,8 +3833,8 @@
       ],
       "helpful": 32,
       "verified": true,
-      "createdAt": "2025-06-09T09:07:12.685Z",
-      "updatedAt": "2026-01-27T03:43:06.568Z"
+      "createdAt": "2025-06-09T14:17:05.121Z",
+      "updatedAt": "2026-01-27T08:52:59.004Z"
     },
     {
       "id": 19,
@@ -3845,8 +3845,8 @@
       "images": [],
       "helpful": 39,
       "verified": true,
-      "createdAt": "2025-10-14T15:55:27.203Z",
-      "updatedAt": "2026-01-28T02:52:50.529Z"
+      "createdAt": "2025-10-14T21:05:19.639Z",
+      "updatedAt": "2026-01-28T08:02:42.965Z"
     },
     {
       "id": 20,
@@ -3860,8 +3860,8 @@
       ],
       "helpful": 0,
       "verified": true,
-      "createdAt": "2025-04-20T10:56:30.759Z",
-      "updatedAt": "2026-01-28T00:34:42.998Z"
+      "createdAt": "2025-04-20T16:06:23.195Z",
+      "updatedAt": "2026-01-28T05:44:35.434Z"
     },
     {
       "id": 21,
@@ -3872,8 +3872,8 @@
       "images": [],
       "helpful": 28,
       "verified": true,
-      "createdAt": "2025-01-29T10:31:04.914Z",
-      "updatedAt": "2026-01-27T15:07:01.445Z"
+      "createdAt": "2025-01-29T15:40:57.350Z",
+      "updatedAt": "2026-01-27T20:16:53.881Z"
     },
     {
       "id": 22,
@@ -3887,8 +3887,8 @@
       ],
       "helpful": 41,
       "verified": true,
-      "createdAt": "2025-06-04T17:46:33.330Z",
-      "updatedAt": "2026-01-27T12:55:57.857Z"
+      "createdAt": "2025-06-04T22:56:25.766Z",
+      "updatedAt": "2026-01-27T18:05:50.293Z"
     },
     {
       "id": 23,
@@ -3901,8 +3901,8 @@
       ],
       "helpful": 12,
       "verified": true,
-      "createdAt": "2025-05-18T00:48:11.516Z",
-      "updatedAt": "2026-01-27T07:03:43.754Z"
+      "createdAt": "2025-05-18T05:58:03.952Z",
+      "updatedAt": "2026-01-27T12:13:36.190Z"
     },
     {
       "id": 24,
@@ -3913,8 +3913,8 @@
       "images": [],
       "helpful": 28,
       "verified": true,
-      "createdAt": "2025-08-14T08:09:26.816Z",
-      "updatedAt": "2026-01-27T20:13:52.698Z"
+      "createdAt": "2025-08-14T13:19:19.252Z",
+      "updatedAt": "2026-01-28T01:23:45.134Z"
     },
     {
       "id": 25,
@@ -3928,8 +3928,8 @@
       ],
       "helpful": 10,
       "verified": true,
-      "createdAt": "2025-11-19T10:05:56.994Z",
-      "updatedAt": "2026-01-27T19:46:35.473Z"
+      "createdAt": "2025-11-19T15:15:49.430Z",
+      "updatedAt": "2026-01-28T00:56:27.909Z"
     },
     {
       "id": 26,
@@ -3940,8 +3940,8 @@
       "images": [],
       "helpful": 23,
       "verified": true,
-      "createdAt": "2026-01-03T15:42:23.196Z",
-      "updatedAt": "2026-01-27T11:07:12.755Z"
+      "createdAt": "2026-01-03T20:52:15.632Z",
+      "updatedAt": "2026-01-27T16:17:05.191Z"
     },
     {
       "id": 27,
@@ -3955,8 +3955,8 @@
       ],
       "helpful": 10,
       "verified": true,
-      "createdAt": "2025-06-09T05:05:42.037Z",
-      "updatedAt": "2026-01-28T00:17:45.980Z"
+      "createdAt": "2025-06-09T10:15:34.473Z",
+      "updatedAt": "2026-01-28T05:27:38.416Z"
     },
     {
       "id": 28,
@@ -3967,8 +3967,8 @@
       "images": [],
       "helpful": 13,
       "verified": true,
-      "createdAt": "2025-05-04T08:48:08.724Z",
-      "updatedAt": "2026-01-27T10:05:28.701Z"
+      "createdAt": "2025-05-04T13:58:01.160Z",
+      "updatedAt": "2026-01-27T15:15:21.137Z"
     },
     {
       "id": 29,
@@ -3979,8 +3979,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-03-08T23:11:18.392Z",
-      "updatedAt": "2026-01-27T05:49:05.118Z"
+      "createdAt": "2025-03-09T04:21:10.828Z",
+      "updatedAt": "2026-01-27T10:58:57.554Z"
     },
     {
       "id": 30,
@@ -3993,8 +3993,8 @@
       ],
       "helpful": 19,
       "verified": true,
-      "createdAt": "2025-12-07T15:41:13.644Z",
-      "updatedAt": "2026-01-27T19:13:38.556Z"
+      "createdAt": "2025-12-07T20:51:06.080Z",
+      "updatedAt": "2026-01-28T00:23:30.992Z"
     },
     {
       "id": 31,
@@ -4005,8 +4005,8 @@
       "images": [],
       "helpful": 1,
       "verified": true,
-      "createdAt": "2025-04-22T03:09:49.782Z",
-      "updatedAt": "2026-01-27T05:43:54.496Z"
+      "createdAt": "2025-04-22T08:19:42.218Z",
+      "updatedAt": "2026-01-27T10:53:46.932Z"
     },
     {
       "id": 32,
@@ -4021,8 +4021,8 @@
       ],
       "helpful": 46,
       "verified": true,
-      "createdAt": "2025-01-28T04:17:35.520Z",
-      "updatedAt": "2026-01-28T03:06:35.743Z"
+      "createdAt": "2025-01-28T09:27:27.956Z",
+      "updatedAt": "2026-01-28T08:16:28.179Z"
     },
     {
       "id": 33,
@@ -4035,8 +4035,8 @@
       ],
       "helpful": 21,
       "verified": true,
-      "createdAt": "2025-12-28T19:10:15.489Z",
-      "updatedAt": "2026-01-27T15:59:55.262Z"
+      "createdAt": "2025-12-29T00:20:07.925Z",
+      "updatedAt": "2026-01-27T21:09:47.698Z"
     },
     {
       "id": 34,
@@ -4050,8 +4050,8 @@
       ],
       "helpful": 20,
       "verified": false,
-      "createdAt": "2025-03-05T05:30:47.124Z",
-      "updatedAt": "2026-01-27T08:52:13.019Z"
+      "createdAt": "2025-03-05T10:40:39.560Z",
+      "updatedAt": "2026-01-27T14:02:05.455Z"
     },
     {
       "id": 35,
@@ -4062,8 +4062,8 @@
       "images": [],
       "helpful": 28,
       "verified": true,
-      "createdAt": "2025-09-30T02:38:41.041Z",
-      "updatedAt": "2026-01-27T09:30:58.002Z"
+      "createdAt": "2025-09-30T07:48:33.477Z",
+      "updatedAt": "2026-01-27T14:40:50.438Z"
     },
     {
       "id": 36,
@@ -4074,8 +4074,8 @@
       "images": [],
       "helpful": 41,
       "verified": true,
-      "createdAt": "2025-08-11T02:05:08.837Z",
-      "updatedAt": "2026-01-27T12:50:00.964Z"
+      "createdAt": "2025-08-11T07:15:01.273Z",
+      "updatedAt": "2026-01-27T17:59:53.400Z"
     },
     {
       "id": 37,
@@ -4086,8 +4086,8 @@
       "images": [],
       "helpful": 16,
       "verified": true,
-      "createdAt": "2026-01-15T16:44:22.898Z",
-      "updatedAt": "2026-01-27T13:58:01.230Z"
+      "createdAt": "2026-01-15T21:54:15.334Z",
+      "updatedAt": "2026-01-27T19:07:53.666Z"
     },
     {
       "id": 38,
@@ -4100,8 +4100,8 @@
       ],
       "helpful": 22,
       "verified": true,
-      "createdAt": "2025-03-13T14:53:24.338Z",
-      "updatedAt": "2026-01-27T16:11:34.064Z"
+      "createdAt": "2025-03-13T20:03:16.774Z",
+      "updatedAt": "2026-01-27T21:21:26.500Z"
     },
     {
       "id": 39,
@@ -4112,8 +4112,8 @@
       "images": [],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-09-13T14:31:00.240Z",
-      "updatedAt": "2026-01-27T14:32:53.157Z"
+      "createdAt": "2025-09-13T19:40:52.676Z",
+      "updatedAt": "2026-01-27T19:42:45.593Z"
     },
     {
       "id": 40,
@@ -4124,8 +4124,8 @@
       "images": [],
       "helpful": 15,
       "verified": false,
-      "createdAt": "2025-12-25T21:01:47.087Z",
-      "updatedAt": "2026-01-27T07:27:49.823Z"
+      "createdAt": "2025-12-26T02:11:39.523Z",
+      "updatedAt": "2026-01-27T12:37:42.259Z"
     },
     {
       "id": 41,
@@ -4139,8 +4139,8 @@
       ],
       "helpful": 17,
       "verified": false,
-      "createdAt": "2025-09-25T14:22:47.679Z",
-      "updatedAt": "2026-01-27T08:16:48.135Z"
+      "createdAt": "2025-09-25T19:32:40.115Z",
+      "updatedAt": "2026-01-27T13:26:40.571Z"
     },
     {
       "id": 42,
@@ -4151,8 +4151,8 @@
       "images": [],
       "helpful": 23,
       "verified": true,
-      "createdAt": "2025-05-08T05:47:12.800Z",
-      "updatedAt": "2026-01-27T06:22:59.248Z"
+      "createdAt": "2025-05-08T10:57:05.236Z",
+      "updatedAt": "2026-01-27T11:32:51.684Z"
     },
     {
       "id": 43,
@@ -4163,8 +4163,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-08-31T06:51:17.623Z",
-      "updatedAt": "2026-01-27T17:40:42.527Z"
+      "createdAt": "2025-08-31T12:01:10.059Z",
+      "updatedAt": "2026-01-27T22:50:34.963Z"
     },
     {
       "id": 44,
@@ -4177,8 +4177,8 @@
       ],
       "helpful": 43,
       "verified": true,
-      "createdAt": "2025-07-22T18:15:35.570Z",
-      "updatedAt": "2026-01-27T14:46:48.461Z"
+      "createdAt": "2025-07-22T23:25:28.006Z",
+      "updatedAt": "2026-01-27T19:56:40.897Z"
     },
     {
       "id": 45,
@@ -4189,8 +4189,8 @@
       "images": [],
       "helpful": 17,
       "verified": true,
-      "createdAt": "2025-07-20T21:34:07.735Z",
-      "updatedAt": "2026-01-28T00:27:52.255Z"
+      "createdAt": "2025-07-21T02:44:00.171Z",
+      "updatedAt": "2026-01-28T05:37:44.691Z"
     },
     {
       "id": 46,
@@ -4204,8 +4204,8 @@
       ],
       "helpful": 34,
       "verified": true,
-      "createdAt": "2025-12-22T04:17:55.683Z",
-      "updatedAt": "2026-01-27T18:28:46.146Z"
+      "createdAt": "2025-12-22T09:27:48.119Z",
+      "updatedAt": "2026-01-27T23:38:38.582Z"
     },
     {
       "id": 47,
@@ -4216,8 +4216,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-08-05T16:28:18.063Z",
-      "updatedAt": "2026-01-27T20:14:21.225Z"
+      "createdAt": "2025-08-05T21:38:10.499Z",
+      "updatedAt": "2026-01-28T01:24:13.661Z"
     },
     {
       "id": 48,
@@ -4228,8 +4228,8 @@
       "images": [],
       "helpful": 27,
       "verified": false,
-      "createdAt": "2026-01-08T19:53:12.546Z",
-      "updatedAt": "2026-01-28T01:32:38.827Z"
+      "createdAt": "2026-01-09T01:03:04.982Z",
+      "updatedAt": "2026-01-28T06:42:31.263Z"
     },
     {
       "id": 49,
@@ -4243,8 +4243,8 @@
       ],
       "helpful": 49,
       "verified": true,
-      "createdAt": "2025-08-15T00:08:23.202Z",
-      "updatedAt": "2026-01-27T07:45:09.311Z"
+      "createdAt": "2025-08-15T05:18:15.638Z",
+      "updatedAt": "2026-01-27T12:55:01.747Z"
     },
     {
       "id": 50,
@@ -4257,8 +4257,8 @@
       ],
       "helpful": 6,
       "verified": false,
-      "createdAt": "2025-11-29T01:10:52.307Z",
-      "updatedAt": "2026-01-28T01:09:39.649Z"
+      "createdAt": "2025-11-29T06:20:44.743Z",
+      "updatedAt": "2026-01-28T06:19:32.085Z"
     },
     {
       "id": 51,
@@ -4269,8 +4269,8 @@
       "images": [],
       "helpful": 27,
       "verified": true,
-      "createdAt": "2025-06-19T21:34:30.065Z",
-      "updatedAt": "2026-01-27T11:01:40.758Z"
+      "createdAt": "2025-06-20T02:44:22.501Z",
+      "updatedAt": "2026-01-27T16:11:33.194Z"
     },
     {
       "id": 52,
@@ -4281,8 +4281,8 @@
       "images": [],
       "helpful": 24,
       "verified": true,
-      "createdAt": "2025-05-15T10:47:21.053Z",
-      "updatedAt": "2026-01-27T23:27:37.045Z"
+      "createdAt": "2025-05-15T15:57:13.489Z",
+      "updatedAt": "2026-01-28T04:37:29.481Z"
     },
     {
       "id": 53,
@@ -4293,8 +4293,8 @@
       "images": [],
       "helpful": 32,
       "verified": true,
-      "createdAt": "2025-04-22T00:18:17.689Z",
-      "updatedAt": "2026-01-27T08:17:17.249Z"
+      "createdAt": "2025-04-22T05:28:10.125Z",
+      "updatedAt": "2026-01-27T13:27:09.685Z"
     },
     {
       "id": 54,
@@ -4307,8 +4307,8 @@
       ],
       "helpful": 41,
       "verified": true,
-      "createdAt": "2025-03-01T16:03:23.468Z",
-      "updatedAt": "2026-01-28T02:25:25.888Z"
+      "createdAt": "2025-03-01T21:13:15.904Z",
+      "updatedAt": "2026-01-28T07:35:18.324Z"
     },
     {
       "id": 55,
@@ -4319,8 +4319,8 @@
       "images": [],
       "helpful": 31,
       "verified": true,
-      "createdAt": "2025-09-02T03:06:27.575Z",
-      "updatedAt": "2026-01-27T15:03:27.764Z"
+      "createdAt": "2025-09-02T08:16:20.011Z",
+      "updatedAt": "2026-01-27T20:13:20.200Z"
     },
     {
       "id": 56,
@@ -4331,8 +4331,8 @@
       "images": [],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-10-27T00:03:47.930Z",
-      "updatedAt": "2026-01-28T01:15:06.765Z"
+      "createdAt": "2025-10-27T05:13:40.366Z",
+      "updatedAt": "2026-01-28T06:24:59.201Z"
     },
     {
       "id": 57,
@@ -4343,8 +4343,8 @@
       "images": [],
       "helpful": 3,
       "verified": false,
-      "createdAt": "2025-04-19T15:25:30.569Z",
-      "updatedAt": "2026-01-27T10:00:38.795Z"
+      "createdAt": "2025-04-19T20:35:23.005Z",
+      "updatedAt": "2026-01-27T15:10:31.231Z"
     },
     {
       "id": 58,
@@ -4355,8 +4355,8 @@
       "images": [],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-07-12T18:13:47.095Z",
-      "updatedAt": "2026-01-27T04:05:43.380Z"
+      "createdAt": "2025-07-12T23:23:39.531Z",
+      "updatedAt": "2026-01-27T09:15:35.816Z"
     },
     {
       "id": 59,
@@ -4367,8 +4367,8 @@
       "images": [],
       "helpful": 0,
       "verified": true,
-      "createdAt": "2025-05-31T22:05:06.191Z",
-      "updatedAt": "2026-01-27T23:16:44.009Z"
+      "createdAt": "2025-06-01T03:14:58.627Z",
+      "updatedAt": "2026-01-28T04:26:36.445Z"
     },
     {
       "id": 60,
@@ -4379,8 +4379,8 @@
       "images": [],
       "helpful": 4,
       "verified": true,
-      "createdAt": "2025-12-18T20:06:36.122Z",
-      "updatedAt": "2026-01-27T14:25:54.881Z"
+      "createdAt": "2025-12-19T01:16:28.558Z",
+      "updatedAt": "2026-01-27T19:35:47.317Z"
     },
     {
       "id": 61,
@@ -4393,8 +4393,8 @@
       ],
       "helpful": 22,
       "verified": true,
-      "createdAt": "2025-06-03T09:41:51.098Z",
-      "updatedAt": "2026-01-27T14:27:21.766Z"
+      "createdAt": "2025-06-03T14:51:43.534Z",
+      "updatedAt": "2026-01-27T19:37:14.202Z"
     },
     {
       "id": 62,
@@ -4405,8 +4405,8 @@
       "images": [],
       "helpful": 24,
       "verified": true,
-      "createdAt": "2025-05-20T20:14:00.498Z",
-      "updatedAt": "2026-01-27T18:55:44.376Z"
+      "createdAt": "2025-05-21T01:23:52.934Z",
+      "updatedAt": "2026-01-28T00:05:36.812Z"
     },
     {
       "id": 63,
@@ -4417,8 +4417,8 @@
       "images": [],
       "helpful": 7,
       "verified": true,
-      "createdAt": "2025-05-04T15:41:51.225Z",
-      "updatedAt": "2026-01-27T20:09:27.512Z"
+      "createdAt": "2025-05-04T20:51:43.661Z",
+      "updatedAt": "2026-01-28T01:19:19.948Z"
     },
     {
       "id": 64,
@@ -4429,8 +4429,8 @@
       "images": [],
       "helpful": 29,
       "verified": true,
-      "createdAt": "2025-09-22T09:19:27.078Z",
-      "updatedAt": "2026-01-27T11:49:28.249Z"
+      "createdAt": "2025-09-22T14:29:19.514Z",
+      "updatedAt": "2026-01-27T16:59:20.685Z"
     },
     {
       "id": 65,
@@ -4441,8 +4441,8 @@
       "images": [],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-02-20T22:21:23.078Z",
-      "updatedAt": "2026-01-27T14:11:59.579Z"
+      "createdAt": "2025-02-21T03:31:15.514Z",
+      "updatedAt": "2026-01-27T19:21:52.015Z"
     },
     {
       "id": 66,
@@ -4457,8 +4457,8 @@
       ],
       "helpful": 12,
       "verified": true,
-      "createdAt": "2025-08-09T21:38:29.615Z",
-      "updatedAt": "2026-01-27T19:50:15.850Z"
+      "createdAt": "2025-08-10T02:48:22.051Z",
+      "updatedAt": "2026-01-28T01:00:08.286Z"
     },
     {
       "id": 67,
@@ -4469,8 +4469,8 @@
       "images": [],
       "helpful": 9,
       "verified": true,
-      "createdAt": "2025-07-26T13:34:10.533Z",
-      "updatedAt": "2026-01-28T01:33:42.491Z"
+      "createdAt": "2025-07-26T18:44:02.969Z",
+      "updatedAt": "2026-01-28T06:43:34.927Z"
     },
     {
       "id": 68,
@@ -4483,8 +4483,8 @@
       ],
       "helpful": 50,
       "verified": false,
-      "createdAt": "2025-03-29T08:57:30.047Z",
-      "updatedAt": "2026-01-27T08:01:24.740Z"
+      "createdAt": "2025-03-29T14:07:22.483Z",
+      "updatedAt": "2026-01-27T13:11:17.176Z"
     },
     {
       "id": 69,
@@ -4497,8 +4497,8 @@
       ],
       "helpful": 6,
       "verified": true,
-      "createdAt": "2025-02-16T20:13:42.940Z",
-      "updatedAt": "2026-01-27T04:44:01.810Z"
+      "createdAt": "2025-02-17T01:23:35.376Z",
+      "updatedAt": "2026-01-27T09:53:54.246Z"
     },
     {
       "id": 70,
@@ -4509,8 +4509,8 @@
       "images": [],
       "helpful": 5,
       "verified": true,
-      "createdAt": "2025-08-18T06:06:28.392Z",
-      "updatedAt": "2026-01-27T21:43:11.232Z"
+      "createdAt": "2025-08-18T11:16:20.828Z",
+      "updatedAt": "2026-01-28T02:53:03.668Z"
     },
     {
       "id": 71,
@@ -4523,8 +4523,8 @@
       ],
       "helpful": 1,
       "verified": true,
-      "createdAt": "2025-10-17T23:57:16.498Z",
-      "updatedAt": "2026-01-27T20:43:48.655Z"
+      "createdAt": "2025-10-18T05:07:08.934Z",
+      "updatedAt": "2026-01-28T01:53:41.091Z"
     },
     {
       "id": 72,
@@ -4535,8 +4535,8 @@
       "images": [],
       "helpful": 29,
       "verified": true,
-      "createdAt": "2026-01-01T17:19:42.618Z",
-      "updatedAt": "2026-01-27T17:55:46.935Z"
+      "createdAt": "2026-01-01T22:29:35.054Z",
+      "updatedAt": "2026-01-27T23:05:39.371Z"
     },
     {
       "id": 73,
@@ -4551,8 +4551,8 @@
       ],
       "helpful": 7,
       "verified": false,
-      "createdAt": "2025-03-02T07:33:19.757Z",
-      "updatedAt": "2026-01-27T23:41:13.616Z"
+      "createdAt": "2025-03-02T12:43:12.193Z",
+      "updatedAt": "2026-01-28T04:51:06.052Z"
     },
     {
       "id": 74,
@@ -4563,8 +4563,8 @@
       "images": [],
       "helpful": 25,
       "verified": true,
-      "createdAt": "2025-01-30T23:17:20.558Z",
-      "updatedAt": "2026-01-27T20:03:02.879Z"
+      "createdAt": "2025-01-31T04:27:12.994Z",
+      "updatedAt": "2026-01-28T01:12:55.315Z"
     },
     {
       "id": 75,
@@ -4575,8 +4575,8 @@
       "images": [],
       "helpful": 42,
       "verified": true,
-      "createdAt": "2025-10-14T08:02:57.693Z",
-      "updatedAt": "2026-01-27T21:03:55.084Z"
+      "createdAt": "2025-10-14T13:12:50.129Z",
+      "updatedAt": "2026-01-28T02:13:47.520Z"
     },
     {
       "id": 76,
@@ -4587,8 +4587,8 @@
       "images": [],
       "helpful": 33,
       "verified": true,
-      "createdAt": "2025-04-21T22:12:04.327Z",
-      "updatedAt": "2026-01-27T20:49:28.080Z"
+      "createdAt": "2025-04-22T03:21:56.764Z",
+      "updatedAt": "2026-01-28T01:59:20.517Z"
     },
     {
       "id": 77,
@@ -4599,8 +4599,8 @@
       "images": [],
       "helpful": 25,
       "verified": true,
-      "createdAt": "2025-05-23T00:32:15.401Z",
-      "updatedAt": "2026-01-27T11:37:54.871Z"
+      "createdAt": "2025-05-23T05:42:07.838Z",
+      "updatedAt": "2026-01-27T16:47:47.308Z"
     },
     {
       "id": 78,
@@ -4615,8 +4615,8 @@
       ],
       "helpful": 38,
       "verified": true,
-      "createdAt": "2025-08-05T22:02:03.501Z",
-      "updatedAt": "2026-01-27T08:05:44.626Z"
+      "createdAt": "2025-08-06T03:11:55.938Z",
+      "updatedAt": "2026-01-27T13:15:37.063Z"
     },
     {
       "id": 79,
@@ -4627,8 +4627,8 @@
       "images": [],
       "helpful": 7,
       "verified": true,
-      "createdAt": "2025-09-02T23:51:19.865Z",
-      "updatedAt": "2026-01-27T06:34:07.409Z"
+      "createdAt": "2025-09-03T05:01:12.302Z",
+      "updatedAt": "2026-01-27T11:43:59.846Z"
     },
     {
       "id": 80,
@@ -4639,8 +4639,8 @@
       "images": [],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-10-20T19:36:18.446Z",
-      "updatedAt": "2026-01-27T16:37:02.729Z"
+      "createdAt": "2025-10-21T00:46:10.883Z",
+      "updatedAt": "2026-01-27T21:46:55.166Z"
     },
     {
       "id": 81,
@@ -4651,8 +4651,8 @@
       "images": [],
       "helpful": 17,
       "verified": true,
-      "createdAt": "2025-01-31T19:55:26.874Z",
-      "updatedAt": "2026-01-28T00:13:43.210Z"
+      "createdAt": "2025-02-01T01:05:19.311Z",
+      "updatedAt": "2026-01-28T05:23:35.647Z"
     },
     {
       "id": 82,
@@ -4666,8 +4666,8 @@
       ],
       "helpful": 9,
       "verified": true,
-      "createdAt": "2025-10-10T13:54:16.857Z",
-      "updatedAt": "2026-01-27T22:38:37.492Z"
+      "createdAt": "2025-10-10T19:04:09.294Z",
+      "updatedAt": "2026-01-28T03:48:29.929Z"
     },
     {
       "id": 83,
@@ -4680,8 +4680,8 @@
       ],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-09-12T02:56:08.573Z",
-      "updatedAt": "2026-01-27T04:00:54.997Z"
+      "createdAt": "2025-09-12T08:06:01.010Z",
+      "updatedAt": "2026-01-27T09:10:47.434Z"
     },
     {
       "id": 84,
@@ -4692,8 +4692,8 @@
       "images": [],
       "helpful": 27,
       "verified": false,
-      "createdAt": "2025-04-03T11:54:51.512Z",
-      "updatedAt": "2026-01-27T10:10:04.207Z"
+      "createdAt": "2025-04-03T17:04:43.949Z",
+      "updatedAt": "2026-01-27T15:19:56.644Z"
     },
     {
       "id": 85,
@@ -4704,8 +4704,8 @@
       "images": [],
       "helpful": 42,
       "verified": false,
-      "createdAt": "2025-06-20T02:51:35.089Z",
-      "updatedAt": "2026-01-27T10:59:10.024Z"
+      "createdAt": "2025-06-20T08:01:27.526Z",
+      "updatedAt": "2026-01-27T16:09:02.461Z"
     },
     {
       "id": 86,
@@ -4716,8 +4716,8 @@
       "images": [],
       "helpful": 4,
       "verified": true,
-      "createdAt": "2025-12-06T23:09:40.444Z",
-      "updatedAt": "2026-01-27T17:06:19.846Z"
+      "createdAt": "2025-12-07T04:19:32.881Z",
+      "updatedAt": "2026-01-27T22:16:12.283Z"
     },
     {
       "id": 87,
@@ -4728,8 +4728,8 @@
       "images": [],
       "helpful": 30,
       "verified": true,
-      "createdAt": "2025-12-10T14:03:28.480Z",
-      "updatedAt": "2026-01-27T19:43:24.638Z"
+      "createdAt": "2025-12-10T19:13:20.917Z",
+      "updatedAt": "2026-01-28T00:53:17.075Z"
     },
     {
       "id": 88,
@@ -4742,8 +4742,8 @@
       ],
       "helpful": 40,
       "verified": true,
-      "createdAt": "2026-01-18T03:50:31.005Z",
-      "updatedAt": "2026-01-28T01:36:43.348Z"
+      "createdAt": "2026-01-18T09:00:23.442Z",
+      "updatedAt": "2026-01-28T06:46:35.785Z"
     },
     {
       "id": 89,
@@ -4754,8 +4754,8 @@
       "images": [],
       "helpful": 13,
       "verified": true,
-      "createdAt": "2025-11-17T20:44:48.540Z",
-      "updatedAt": "2026-01-27T05:31:06.021Z"
+      "createdAt": "2025-11-18T01:54:40.977Z",
+      "updatedAt": "2026-01-27T10:40:58.458Z"
     },
     {
       "id": 90,
@@ -4766,8 +4766,8 @@
       "images": [],
       "helpful": 42,
       "verified": true,
-      "createdAt": "2025-02-10T18:48:19.578Z",
-      "updatedAt": "2026-01-27T22:53:34.086Z"
+      "createdAt": "2025-02-10T23:58:12.015Z",
+      "updatedAt": "2026-01-28T04:03:26.523Z"
     },
     {
       "id": 91,
@@ -4781,8 +4781,8 @@
       ],
       "helpful": 15,
       "verified": true,
-      "createdAt": "2025-05-07T23:02:13.364Z",
-      "updatedAt": "2026-01-27T14:30:55.329Z"
+      "createdAt": "2025-05-08T04:12:05.801Z",
+      "updatedAt": "2026-01-27T19:40:47.766Z"
     },
     {
       "id": 92,
@@ -4796,8 +4796,8 @@
       ],
       "helpful": 45,
       "verified": true,
-      "createdAt": "2026-01-03T17:40:58.530Z",
-      "updatedAt": "2026-01-27T07:13:20.715Z"
+      "createdAt": "2026-01-03T22:50:50.967Z",
+      "updatedAt": "2026-01-27T12:23:13.152Z"
     },
     {
       "id": 93,
@@ -4808,8 +4808,8 @@
       "images": [],
       "helpful": 8,
       "verified": false,
-      "createdAt": "2025-04-27T10:49:07.765Z",
-      "updatedAt": "2026-01-28T00:03:24.776Z"
+      "createdAt": "2025-04-27T15:59:00.202Z",
+      "updatedAt": "2026-01-28T05:13:17.213Z"
     },
     {
       "id": 94,
@@ -4820,8 +4820,8 @@
       "images": [],
       "helpful": 28,
       "verified": true,
-      "createdAt": "2025-03-07T17:22:01.565Z",
-      "updatedAt": "2026-01-27T10:15:30.885Z"
+      "createdAt": "2025-03-07T22:31:54.002Z",
+      "updatedAt": "2026-01-27T15:25:23.322Z"
     },
     {
       "id": 95,
@@ -4832,8 +4832,8 @@
       "images": [],
       "helpful": 18,
       "verified": true,
-      "createdAt": "2025-03-03T22:55:37.112Z",
-      "updatedAt": "2026-01-28T01:25:16.484Z"
+      "createdAt": "2025-03-04T04:05:29.549Z",
+      "updatedAt": "2026-01-28T06:35:08.921Z"
     },
     {
       "id": 96,
@@ -4846,8 +4846,8 @@
       ],
       "helpful": 31,
       "verified": true,
-      "createdAt": "2025-08-08T12:24:04.411Z",
-      "updatedAt": "2026-01-28T00:25:47.866Z"
+      "createdAt": "2025-08-08T17:33:56.848Z",
+      "updatedAt": "2026-01-28T05:35:40.303Z"
     },
     {
       "id": 97,
@@ -4862,8 +4862,8 @@
       ],
       "helpful": 45,
       "verified": true,
-      "createdAt": "2025-05-06T19:29:07.461Z",
-      "updatedAt": "2026-01-28T01:06:39.188Z"
+      "createdAt": "2025-05-07T00:38:59.898Z",
+      "updatedAt": "2026-01-28T06:16:31.625Z"
     },
     {
       "id": 98,
@@ -4874,8 +4874,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-11-10T20:03:36.849Z",
-      "updatedAt": "2026-01-27T06:52:18.296Z"
+      "createdAt": "2025-11-11T01:13:29.286Z",
+      "updatedAt": "2026-01-27T12:02:10.733Z"
     },
     {
       "id": 99,
@@ -4886,8 +4886,8 @@
       "images": [],
       "helpful": 40,
       "verified": true,
-      "createdAt": "2025-06-01T16:10:13.005Z",
-      "updatedAt": "2026-01-27T08:31:34.528Z"
+      "createdAt": "2025-06-01T21:20:05.442Z",
+      "updatedAt": "2026-01-27T13:41:26.965Z"
     },
     {
       "id": 100,
@@ -4898,8 +4898,8 @@
       "images": [],
       "helpful": 18,
       "verified": true,
-      "createdAt": "2025-12-07T19:43:52.785Z",
-      "updatedAt": "2026-01-27T19:10:02.250Z"
+      "createdAt": "2025-12-08T00:53:45.222Z",
+      "updatedAt": "2026-01-28T00:19:54.687Z"
     },
     {
       "id": 101,
@@ -4913,8 +4913,8 @@
       ],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-09-28T13:08:19.215Z",
-      "updatedAt": "2026-01-27T14:48:52.074Z"
+      "createdAt": "2025-09-28T18:18:11.652Z",
+      "updatedAt": "2026-01-27T19:58:44.511Z"
     },
     {
       "id": 102,
@@ -4925,8 +4925,8 @@
       "images": [],
       "helpful": 19,
       "verified": false,
-      "createdAt": "2025-11-23T09:03:14.590Z",
-      "updatedAt": "2026-01-27T13:45:09.889Z"
+      "createdAt": "2025-11-23T14:13:07.027Z",
+      "updatedAt": "2026-01-27T18:55:02.326Z"
     },
     {
       "id": 103,
@@ -4937,8 +4937,8 @@
       "images": [],
       "helpful": 37,
       "verified": true,
-      "createdAt": "2025-03-12T02:13:13.909Z",
-      "updatedAt": "2026-01-27T20:50:38.024Z"
+      "createdAt": "2025-03-12T07:23:06.346Z",
+      "updatedAt": "2026-01-28T02:00:30.461Z"
     },
     {
       "id": 104,
@@ -4953,8 +4953,8 @@
       ],
       "helpful": 7,
       "verified": true,
-      "createdAt": "2025-05-11T02:21:38.994Z",
-      "updatedAt": "2026-01-27T08:55:14.246Z"
+      "createdAt": "2025-05-11T07:31:31.430Z",
+      "updatedAt": "2026-01-27T14:05:06.682Z"
     },
     {
       "id": 105,
@@ -4969,8 +4969,8 @@
       ],
       "helpful": 38,
       "verified": false,
-      "createdAt": "2025-02-09T00:50:17.661Z",
-      "updatedAt": "2026-01-27T20:10:14.234Z"
+      "createdAt": "2025-02-09T06:00:10.097Z",
+      "updatedAt": "2026-01-28T01:20:06.670Z"
     },
     {
       "id": 106,
@@ -4981,8 +4981,8 @@
       "images": [],
       "helpful": 2,
       "verified": false,
-      "createdAt": "2025-03-12T14:57:18.384Z",
-      "updatedAt": "2026-01-28T00:46:37.045Z"
+      "createdAt": "2025-03-12T20:07:10.820Z",
+      "updatedAt": "2026-01-28T05:56:29.481Z"
     },
     {
       "id": 107,
@@ -4993,8 +4993,8 @@
       "images": [],
       "helpful": 22,
       "verified": true,
-      "createdAt": "2025-04-30T16:43:54.102Z",
-      "updatedAt": "2026-01-27T16:33:21.005Z"
+      "createdAt": "2025-04-30T21:53:46.538Z",
+      "updatedAt": "2026-01-27T21:43:13.441Z"
     },
     {
       "id": 108,
@@ -5005,8 +5005,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-06-08T14:49:20.614Z",
-      "updatedAt": "2026-01-27T16:26:10.353Z"
+      "createdAt": "2025-06-08T19:59:13.050Z",
+      "updatedAt": "2026-01-27T21:36:02.789Z"
     },
     {
       "id": 109,
@@ -5017,8 +5017,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-05-21T02:19:41.547Z",
-      "updatedAt": "2026-01-27T13:20:21.822Z"
+      "createdAt": "2025-05-21T07:29:33.983Z",
+      "updatedAt": "2026-01-27T18:30:14.258Z"
     },
     {
       "id": 110,
@@ -5029,8 +5029,8 @@
       "images": [],
       "helpful": 42,
       "verified": true,
-      "createdAt": "2025-11-21T01:36:57.901Z",
-      "updatedAt": "2026-01-27T23:57:27.342Z"
+      "createdAt": "2025-11-21T06:46:50.337Z",
+      "updatedAt": "2026-01-28T05:07:19.778Z"
     },
     {
       "id": 111,
@@ -5041,8 +5041,8 @@
       "images": [],
       "helpful": 45,
       "verified": false,
-      "createdAt": "2025-05-07T07:10:29.464Z",
-      "updatedAt": "2026-01-27T17:42:03.063Z"
+      "createdAt": "2025-05-07T12:20:21.900Z",
+      "updatedAt": "2026-01-27T22:51:55.499Z"
     },
     {
       "id": 112,
@@ -5053,8 +5053,8 @@
       "images": [],
       "helpful": 38,
       "verified": true,
-      "createdAt": "2025-01-28T04:46:00.185Z",
-      "updatedAt": "2026-01-27T09:52:44.400Z"
+      "createdAt": "2025-01-28T09:55:52.621Z",
+      "updatedAt": "2026-01-27T15:02:36.836Z"
     },
     {
       "id": 113,
@@ -5065,8 +5065,8 @@
       "images": [],
       "helpful": 45,
       "verified": true,
-      "createdAt": "2025-03-23T05:42:48.087Z",
-      "updatedAt": "2026-01-27T10:45:04.733Z"
+      "createdAt": "2025-03-23T10:52:40.523Z",
+      "updatedAt": "2026-01-27T15:54:57.169Z"
     },
     {
       "id": 114,
@@ -5077,8 +5077,8 @@
       "images": [],
       "helpful": 13,
       "verified": true,
-      "createdAt": "2025-12-12T04:42:27.521Z",
-      "updatedAt": "2026-01-28T02:26:22.998Z"
+      "createdAt": "2025-12-12T09:52:19.957Z",
+      "updatedAt": "2026-01-28T07:36:15.434Z"
     },
     {
       "id": 115,
@@ -5089,8 +5089,8 @@
       "images": [],
       "helpful": 3,
       "verified": true,
-      "createdAt": "2025-05-15T16:05:28.897Z",
-      "updatedAt": "2026-01-27T05:44:13.641Z"
+      "createdAt": "2025-05-15T21:15:21.333Z",
+      "updatedAt": "2026-01-27T10:54:06.077Z"
     },
     {
       "id": 116,
@@ -5101,8 +5101,8 @@
       "images": [],
       "helpful": 35,
       "verified": true,
-      "createdAt": "2025-07-23T04:05:13.141Z",
-      "updatedAt": "2026-01-28T01:03:56.730Z"
+      "createdAt": "2025-07-23T09:15:05.577Z",
+      "updatedAt": "2026-01-28T06:13:49.166Z"
     },
     {
       "id": 117,
@@ -5116,8 +5116,8 @@
       ],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-12-06T13:03:26.114Z",
-      "updatedAt": "2026-01-27T14:51:46.312Z"
+      "createdAt": "2025-12-06T18:13:18.550Z",
+      "updatedAt": "2026-01-27T20:01:38.748Z"
     },
     {
       "id": 118,
@@ -5131,8 +5131,8 @@
       ],
       "helpful": 9,
       "verified": true,
-      "createdAt": "2025-11-10T14:21:24.617Z",
-      "updatedAt": "2026-01-27T23:11:39.653Z"
+      "createdAt": "2025-11-10T19:31:17.053Z",
+      "updatedAt": "2026-01-28T04:21:32.089Z"
     },
     {
       "id": 119,
@@ -5143,8 +5143,8 @@
       "images": [],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-09-21T09:49:55.618Z",
-      "updatedAt": "2026-01-27T16:38:19.915Z"
+      "createdAt": "2025-09-21T14:59:48.054Z",
+      "updatedAt": "2026-01-27T21:48:12.351Z"
     },
     {
       "id": 120,
@@ -5155,8 +5155,8 @@
       "images": [],
       "helpful": 42,
       "verified": true,
-      "createdAt": "2025-04-12T22:47:26.000Z",
-      "updatedAt": "2026-01-27T07:43:28.391Z"
+      "createdAt": "2025-04-13T03:57:18.436Z",
+      "updatedAt": "2026-01-27T12:53:20.827Z"
     },
     {
       "id": 121,
@@ -5170,8 +5170,8 @@
       ],
       "helpful": 0,
       "verified": true,
-      "createdAt": "2025-02-07T09:14:16.323Z",
-      "updatedAt": "2026-01-27T18:22:17.361Z"
+      "createdAt": "2025-02-07T14:24:08.759Z",
+      "updatedAt": "2026-01-27T23:32:09.797Z"
     },
     {
       "id": 122,
@@ -5182,8 +5182,8 @@
       "images": [],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-02-14T03:51:34.744Z",
-      "updatedAt": "2026-01-27T03:52:40.452Z"
+      "createdAt": "2025-02-14T09:01:27.180Z",
+      "updatedAt": "2026-01-27T09:02:32.888Z"
     },
     {
       "id": 123,
@@ -5194,8 +5194,8 @@
       "images": [],
       "helpful": 34,
       "verified": true,
-      "createdAt": "2026-01-24T05:21:01.086Z",
-      "updatedAt": "2026-01-27T19:25:28.256Z"
+      "createdAt": "2026-01-24T10:30:53.522Z",
+      "updatedAt": "2026-01-28T00:35:20.692Z"
     },
     {
       "id": 124,
@@ -5210,8 +5210,8 @@
       ],
       "helpful": 13,
       "verified": true,
-      "createdAt": "2025-07-19T03:23:53.777Z",
-      "updatedAt": "2026-01-27T19:31:52.431Z"
+      "createdAt": "2025-07-19T08:33:46.213Z",
+      "updatedAt": "2026-01-28T00:41:44.867Z"
     },
     {
       "id": 125,
@@ -5222,8 +5222,8 @@
       "images": [],
       "helpful": 15,
       "verified": true,
-      "createdAt": "2025-06-27T22:14:09.429Z",
-      "updatedAt": "2026-01-27T10:43:17.674Z"
+      "createdAt": "2025-06-28T03:24:01.865Z",
+      "updatedAt": "2026-01-27T15:53:10.110Z"
     },
     {
       "id": 126,
@@ -5234,8 +5234,8 @@
       "images": [],
       "helpful": 16,
       "verified": true,
-      "createdAt": "2025-04-20T23:38:40.963Z",
-      "updatedAt": "2026-01-28T01:38:35.000Z"
+      "createdAt": "2025-04-21T04:48:33.399Z",
+      "updatedAt": "2026-01-28T06:48:27.436Z"
     },
     {
       "id": 127,
@@ -5250,8 +5250,8 @@
       ],
       "helpful": 17,
       "verified": true,
-      "createdAt": "2025-08-07T19:30:59.935Z",
-      "updatedAt": "2026-01-27T13:39:05.983Z"
+      "createdAt": "2025-08-08T00:40:52.371Z",
+      "updatedAt": "2026-01-27T18:48:58.419Z"
     },
     {
       "id": 128,
@@ -5262,8 +5262,8 @@
       "images": [],
       "helpful": 45,
       "verified": true,
-      "createdAt": "2025-11-08T05:06:38.744Z",
-      "updatedAt": "2026-01-27T19:33:10.742Z"
+      "createdAt": "2025-11-08T10:16:31.180Z",
+      "updatedAt": "2026-01-28T00:43:03.178Z"
     },
     {
       "id": 129,
@@ -5274,8 +5274,8 @@
       "images": [],
       "helpful": 2,
       "verified": false,
-      "createdAt": "2025-12-03T00:10:27.264Z",
-      "updatedAt": "2026-01-28T02:03:15.683Z"
+      "createdAt": "2025-12-03T05:20:19.700Z",
+      "updatedAt": "2026-01-28T07:13:08.119Z"
     },
     {
       "id": 130,
@@ -5286,8 +5286,8 @@
       "images": [],
       "helpful": 1,
       "verified": false,
-      "createdAt": "2025-04-28T19:58:22.420Z",
-      "updatedAt": "2026-01-27T14:44:17.315Z"
+      "createdAt": "2025-04-29T01:08:14.856Z",
+      "updatedAt": "2026-01-27T19:54:09.751Z"
     },
     {
       "id": 131,
@@ -5300,8 +5300,8 @@
       ],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-11-24T03:47:45.487Z",
-      "updatedAt": "2026-01-27T20:55:34.505Z"
+      "createdAt": "2025-11-24T08:57:37.923Z",
+      "updatedAt": "2026-01-28T02:05:26.941Z"
     },
     {
       "id": 132,
@@ -5316,8 +5316,8 @@
       ],
       "helpful": 30,
       "verified": true,
-      "createdAt": "2025-04-17T09:34:45.697Z",
-      "updatedAt": "2026-01-27T12:12:53.566Z"
+      "createdAt": "2025-04-17T14:44:38.133Z",
+      "updatedAt": "2026-01-27T17:22:46.002Z"
     },
     {
       "id": 133,
@@ -5332,8 +5332,8 @@
       ],
       "helpful": 32,
       "verified": true,
-      "createdAt": "2025-06-14T10:27:15.281Z",
-      "updatedAt": "2026-01-27T04:51:18.001Z"
+      "createdAt": "2025-06-14T15:37:07.717Z",
+      "updatedAt": "2026-01-27T10:01:10.437Z"
     },
     {
       "id": 134,
@@ -5344,8 +5344,8 @@
       "images": [],
       "helpful": 33,
       "verified": false,
-      "createdAt": "2025-09-17T08:53:14.945Z",
-      "updatedAt": "2026-01-27T03:43:22.710Z"
+      "createdAt": "2025-09-17T14:03:07.381Z",
+      "updatedAt": "2026-01-27T08:53:15.146Z"
     },
     {
       "id": 135,
@@ -5356,8 +5356,8 @@
       "images": [],
       "helpful": 20,
       "verified": true,
-      "createdAt": "2025-11-22T18:47:12.794Z",
-      "updatedAt": "2026-01-27T20:17:03.394Z"
+      "createdAt": "2025-11-22T23:57:05.230Z",
+      "updatedAt": "2026-01-28T01:26:55.830Z"
     },
     {
       "id": 136,
@@ -5368,8 +5368,8 @@
       "images": [],
       "helpful": 8,
       "verified": true,
-      "createdAt": "2025-05-08T06:32:52.868Z",
-      "updatedAt": "2026-01-28T00:28:18.766Z"
+      "createdAt": "2025-05-08T11:42:45.304Z",
+      "updatedAt": "2026-01-28T05:38:11.202Z"
     },
     {
       "id": 137,
@@ -5380,8 +5380,8 @@
       "images": [],
       "helpful": 48,
       "verified": true,
-      "createdAt": "2025-03-11T17:12:28.528Z",
-      "updatedAt": "2026-01-28T00:37:55.628Z"
+      "createdAt": "2025-03-11T22:22:20.964Z",
+      "updatedAt": "2026-01-28T05:47:48.064Z"
     },
     {
       "id": 138,
@@ -5392,8 +5392,8 @@
       "images": [],
       "helpful": 16,
       "verified": false,
-      "createdAt": "2025-06-26T12:26:56.482Z",
-      "updatedAt": "2026-01-27T21:42:24.656Z"
+      "createdAt": "2025-06-26T17:36:48.918Z",
+      "updatedAt": "2026-01-28T02:52:17.092Z"
     },
     {
       "id": 139,
@@ -5404,8 +5404,8 @@
       "images": [],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-11-17T21:03:37.035Z",
-      "updatedAt": "2026-01-28T03:33:37.043Z"
+      "createdAt": "2025-11-18T02:13:29.471Z",
+      "updatedAt": "2026-01-28T08:43:29.479Z"
     },
     {
       "id": 140,
@@ -5420,8 +5420,8 @@
       ],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-12-08T10:51:17.430Z",
-      "updatedAt": "2026-01-27T17:26:16.475Z"
+      "createdAt": "2025-12-08T16:01:09.866Z",
+      "updatedAt": "2026-01-27T22:36:08.911Z"
     },
     {
       "id": 141,
@@ -5432,8 +5432,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-06-04T20:42:26.766Z",
-      "updatedAt": "2026-01-27T17:38:09.970Z"
+      "createdAt": "2025-06-05T01:52:19.202Z",
+      "updatedAt": "2026-01-27T22:48:02.406Z"
     },
     {
       "id": 142,
@@ -5444,8 +5444,8 @@
       "images": [],
       "helpful": 21,
       "verified": true,
-      "createdAt": "2025-04-08T03:56:37.737Z",
-      "updatedAt": "2026-01-27T08:25:12.608Z"
+      "createdAt": "2025-04-08T09:06:30.173Z",
+      "updatedAt": "2026-01-27T13:35:05.044Z"
     },
     {
       "id": 143,
@@ -5456,8 +5456,8 @@
       "images": [],
       "helpful": 1,
       "verified": true,
-      "createdAt": "2025-08-11T12:51:30.303Z",
-      "updatedAt": "2026-01-27T06:49:05.240Z"
+      "createdAt": "2025-08-11T18:01:22.739Z",
+      "updatedAt": "2026-01-27T11:58:57.676Z"
     },
     {
       "id": 144,
@@ -5470,8 +5470,8 @@
       ],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-06-26T15:36:23.150Z",
-      "updatedAt": "2026-01-27T22:05:34.096Z"
+      "createdAt": "2025-06-26T20:46:15.586Z",
+      "updatedAt": "2026-01-28T03:15:26.532Z"
     },
     {
       "id": 145,
@@ -5482,8 +5482,8 @@
       "images": [],
       "helpful": 5,
       "verified": false,
-      "createdAt": "2025-07-25T13:01:21.925Z",
-      "updatedAt": "2026-01-27T05:04:10.766Z"
+      "createdAt": "2025-07-25T18:11:14.361Z",
+      "updatedAt": "2026-01-27T10:14:03.202Z"
     },
     {
       "id": 146,
@@ -5496,8 +5496,8 @@
       ],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-02-14T21:03:52.047Z",
-      "updatedAt": "2026-01-27T09:37:09.163Z"
+      "createdAt": "2025-02-15T02:13:44.483Z",
+      "updatedAt": "2026-01-27T14:47:01.599Z"
     },
     {
       "id": 147,
@@ -5508,8 +5508,8 @@
       "images": [],
       "helpful": 25,
       "verified": true,
-      "createdAt": "2025-03-12T12:51:12.523Z",
-      "updatedAt": "2026-01-27T06:35:50.536Z"
+      "createdAt": "2025-03-12T18:01:04.959Z",
+      "updatedAt": "2026-01-27T11:45:42.972Z"
     },
     {
       "id": 148,
@@ -5520,8 +5520,8 @@
       "images": [],
       "helpful": 20,
       "verified": true,
-      "createdAt": "2025-09-27T19:04:50.245Z",
-      "updatedAt": "2026-01-27T22:23:06.902Z"
+      "createdAt": "2025-09-28T00:14:42.681Z",
+      "updatedAt": "2026-01-28T03:32:59.338Z"
     },
     {
       "id": 149,
@@ -5536,8 +5536,8 @@
       ],
       "helpful": 5,
       "verified": true,
-      "createdAt": "2025-12-05T16:57:58.392Z",
-      "updatedAt": "2026-01-27T07:27:44.163Z"
+      "createdAt": "2025-12-05T22:07:50.828Z",
+      "updatedAt": "2026-01-27T12:37:36.599Z"
     },
     {
       "id": 150,
@@ -5548,8 +5548,8 @@
       "images": [],
       "helpful": 28,
       "verified": false,
-      "createdAt": "2025-04-28T16:58:17.739Z",
-      "updatedAt": "2026-01-27T20:55:24.193Z"
+      "createdAt": "2025-04-28T22:08:10.175Z",
+      "updatedAt": "2026-01-28T02:05:16.629Z"
     },
     {
       "id": 151,
@@ -5563,8 +5563,8 @@
       ],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-08-31T07:58:45.565Z",
-      "updatedAt": "2026-01-27T08:15:42.083Z"
+      "createdAt": "2025-08-31T13:08:38.001Z",
+      "updatedAt": "2026-01-27T13:25:34.519Z"
     },
     {
       "id": 152,
@@ -5575,8 +5575,8 @@
       "images": [],
       "helpful": 20,
       "verified": true,
-      "createdAt": "2025-09-13T15:50:13.476Z",
-      "updatedAt": "2026-01-28T00:37:13.221Z"
+      "createdAt": "2025-09-13T21:00:05.912Z",
+      "updatedAt": "2026-01-28T05:47:05.657Z"
     },
     {
       "id": 153,
@@ -5587,8 +5587,8 @@
       "images": [],
       "helpful": 4,
       "verified": true,
-      "createdAt": "2025-09-27T21:50:04.838Z",
-      "updatedAt": "2026-01-27T19:15:37.498Z"
+      "createdAt": "2025-09-28T02:59:57.274Z",
+      "updatedAt": "2026-01-28T00:25:29.934Z"
     },
     {
       "id": 154,
@@ -5599,8 +5599,8 @@
       "images": [],
       "helpful": 41,
       "verified": true,
-      "createdAt": "2025-02-05T13:47:02.487Z",
-      "updatedAt": "2026-01-27T20:24:45.923Z"
+      "createdAt": "2025-02-05T18:56:54.923Z",
+      "updatedAt": "2026-01-28T01:34:38.359Z"
     },
     {
       "id": 155,
@@ -5611,8 +5611,8 @@
       "images": [],
       "helpful": 19,
       "verified": true,
-      "createdAt": "2025-10-15T06:51:38.621Z",
-      "updatedAt": "2026-01-27T10:05:14.239Z"
+      "createdAt": "2025-10-15T12:01:31.057Z",
+      "updatedAt": "2026-01-27T15:15:06.675Z"
     },
     {
       "id": 156,
@@ -5623,8 +5623,8 @@
       "images": [],
       "helpful": 14,
       "verified": false,
-      "createdAt": "2025-09-18T03:08:39.788Z",
-      "updatedAt": "2026-01-27T03:48:56.093Z"
+      "createdAt": "2025-09-18T08:18:32.224Z",
+      "updatedAt": "2026-01-27T08:58:48.529Z"
     },
     {
       "id": 157,
@@ -5635,8 +5635,8 @@
       "images": [],
       "helpful": 25,
       "verified": true,
-      "createdAt": "2025-12-16T10:21:07.652Z",
-      "updatedAt": "2026-01-27T14:31:25.513Z"
+      "createdAt": "2025-12-16T15:31:00.088Z",
+      "updatedAt": "2026-01-27T19:41:17.949Z"
     },
     {
       "id": 158,
@@ -5650,8 +5650,8 @@
       ],
       "helpful": 40,
       "verified": true,
-      "createdAt": "2026-01-24T05:49:28.849Z",
-      "updatedAt": "2026-01-27T12:12:47.988Z"
+      "createdAt": "2026-01-24T10:59:21.285Z",
+      "updatedAt": "2026-01-27T17:22:40.424Z"
     },
     {
       "id": 159,
@@ -5662,8 +5662,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-08-15T07:35:17.642Z",
-      "updatedAt": "2026-01-27T19:01:31.094Z"
+      "createdAt": "2025-08-15T12:45:10.078Z",
+      "updatedAt": "2026-01-28T00:11:23.530Z"
     },
     {
       "id": 160,
@@ -5674,8 +5674,8 @@
       "images": [],
       "helpful": 28,
       "verified": false,
-      "createdAt": "2026-01-17T10:47:47.272Z",
-      "updatedAt": "2026-01-27T04:00:08.221Z"
+      "createdAt": "2026-01-17T15:57:39.708Z",
+      "updatedAt": "2026-01-27T09:10:00.657Z"
     },
     {
       "id": 161,
@@ -5686,8 +5686,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-04-29T14:38:12.875Z",
-      "updatedAt": "2026-01-27T18:34:59.078Z"
+      "createdAt": "2025-04-29T19:48:05.311Z",
+      "updatedAt": "2026-01-27T23:44:51.514Z"
     },
     {
       "id": 162,
@@ -5702,8 +5702,8 @@
       ],
       "helpful": 30,
       "verified": true,
-      "createdAt": "2025-09-12T16:08:15.241Z",
-      "updatedAt": "2026-01-27T11:46:21.219Z"
+      "createdAt": "2025-09-12T21:18:07.677Z",
+      "updatedAt": "2026-01-27T16:56:13.655Z"
     },
     {
       "id": 163,
@@ -5716,8 +5716,8 @@
       ],
       "helpful": 38,
       "verified": true,
-      "createdAt": "2025-09-10T05:36:23.668Z",
-      "updatedAt": "2026-01-27T11:22:56.991Z"
+      "createdAt": "2025-09-10T10:46:16.104Z",
+      "updatedAt": "2026-01-27T16:32:49.427Z"
     },
     {
       "id": 164,
@@ -5728,8 +5728,8 @@
       "images": [],
       "helpful": 10,
       "verified": true,
-      "createdAt": "2025-11-22T19:56:15.041Z",
-      "updatedAt": "2026-01-27T17:40:54.700Z"
+      "createdAt": "2025-11-23T01:06:07.477Z",
+      "updatedAt": "2026-01-27T22:50:47.136Z"
     },
     {
       "id": 165,
@@ -5740,8 +5740,8 @@
       "images": [],
       "helpful": 5,
       "verified": true,
-      "createdAt": "2025-08-25T17:04:46.924Z",
-      "updatedAt": "2026-01-27T19:27:46.649Z"
+      "createdAt": "2025-08-25T22:14:39.360Z",
+      "updatedAt": "2026-01-28T00:37:39.085Z"
     },
     {
       "id": 166,
@@ -5756,8 +5756,8 @@
       ],
       "helpful": 43,
       "verified": true,
-      "createdAt": "2025-04-29T05:48:12.476Z",
-      "updatedAt": "2026-01-27T22:23:20.974Z"
+      "createdAt": "2025-04-29T10:58:04.912Z",
+      "updatedAt": "2026-01-28T03:33:13.410Z"
     },
     {
       "id": 167,
@@ -5768,8 +5768,8 @@
       "images": [],
       "helpful": 41,
       "verified": true,
-      "createdAt": "2025-11-20T22:18:48.941Z",
-      "updatedAt": "2026-01-27T21:27:36.377Z"
+      "createdAt": "2025-11-21T03:28:41.377Z",
+      "updatedAt": "2026-01-28T02:37:28.813Z"
     },
     {
       "id": 168,
@@ -5780,8 +5780,8 @@
       "images": [],
       "helpful": 12,
       "verified": true,
-      "createdAt": "2025-02-05T09:06:32.380Z",
-      "updatedAt": "2026-01-27T16:52:06.799Z"
+      "createdAt": "2025-02-05T14:16:24.816Z",
+      "updatedAt": "2026-01-27T22:01:59.235Z"
     },
     {
       "id": 169,
@@ -5792,8 +5792,8 @@
       "images": [],
       "helpful": 4,
       "verified": true,
-      "createdAt": "2025-08-27T11:49:00.390Z",
-      "updatedAt": "2026-01-27T23:05:07.153Z"
+      "createdAt": "2025-08-27T16:58:52.826Z",
+      "updatedAt": "2026-01-28T04:14:59.589Z"
     },
     {
       "id": 170,
@@ -5804,8 +5804,8 @@
       "images": [],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-06-26T12:37:57.240Z",
-      "updatedAt": "2026-01-27T17:54:03.722Z"
+      "createdAt": "2025-06-26T17:47:49.676Z",
+      "updatedAt": "2026-01-27T23:03:56.158Z"
     },
     {
       "id": 171,
@@ -5820,8 +5820,8 @@
       ],
       "helpful": 36,
       "verified": true,
-      "createdAt": "2025-08-09T03:37:07.992Z",
-      "updatedAt": "2026-01-28T00:08:28.412Z"
+      "createdAt": "2025-08-09T08:47:00.428Z",
+      "updatedAt": "2026-01-28T05:18:20.848Z"
     },
     {
       "id": 172,
@@ -5835,8 +5835,8 @@
       ],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-09-25T08:44:46.537Z",
-      "updatedAt": "2026-01-27T22:14:32.845Z"
+      "createdAt": "2025-09-25T13:54:38.973Z",
+      "updatedAt": "2026-01-28T03:24:25.281Z"
     },
     {
       "id": 173,
@@ -5849,8 +5849,8 @@
       ],
       "helpful": 2,
       "verified": false,
-      "createdAt": "2025-04-27T07:46:07.843Z",
-      "updatedAt": "2026-01-27T17:31:13.728Z"
+      "createdAt": "2025-04-27T12:56:00.279Z",
+      "updatedAt": "2026-01-27T22:41:06.164Z"
     },
     {
       "id": 174,
@@ -5863,8 +5863,8 @@
       ],
       "helpful": 1,
       "verified": true,
-      "createdAt": "2026-01-12T10:54:35.439Z",
-      "updatedAt": "2026-01-27T06:14:42.366Z"
+      "createdAt": "2026-01-12T16:04:27.875Z",
+      "updatedAt": "2026-01-27T11:24:34.802Z"
     },
     {
       "id": 175,
@@ -5878,8 +5878,8 @@
       ],
       "helpful": 19,
       "verified": false,
-      "createdAt": "2025-12-27T04:26:43.340Z",
-      "updatedAt": "2026-01-27T12:38:47.488Z"
+      "createdAt": "2025-12-27T09:36:35.776Z",
+      "updatedAt": "2026-01-27T17:48:39.924Z"
     },
     {
       "id": 176,
@@ -5890,8 +5890,8 @@
       "images": [],
       "helpful": 38,
       "verified": false,
-      "createdAt": "2026-01-12T18:16:03.912Z",
-      "updatedAt": "2026-01-27T14:14:39.403Z"
+      "createdAt": "2026-01-12T23:25:56.348Z",
+      "updatedAt": "2026-01-27T19:24:31.839Z"
     },
     {
       "id": 177,
@@ -5906,8 +5906,8 @@
       ],
       "helpful": 33,
       "verified": true,
-      "createdAt": "2025-11-07T23:07:31.236Z",
-      "updatedAt": "2026-01-27T09:41:12.602Z"
+      "createdAt": "2025-11-08T04:17:23.672Z",
+      "updatedAt": "2026-01-27T14:51:05.038Z"
     },
     {
       "id": 178,
@@ -5921,8 +5921,8 @@
       ],
       "helpful": 9,
       "verified": true,
-      "createdAt": "2025-12-12T16:25:59.849Z",
-      "updatedAt": "2026-01-27T14:59:09.067Z"
+      "createdAt": "2025-12-12T21:35:52.285Z",
+      "updatedAt": "2026-01-27T20:09:01.503Z"
     },
     {
       "id": 179,
@@ -5933,8 +5933,8 @@
       "images": [],
       "helpful": 22,
       "verified": true,
-      "createdAt": "2026-01-06T12:30:10.410Z",
-      "updatedAt": "2026-01-27T13:53:36.414Z"
+      "createdAt": "2026-01-06T17:40:02.846Z",
+      "updatedAt": "2026-01-27T19:03:28.850Z"
     },
     {
       "id": 180,
@@ -5948,8 +5948,8 @@
       ],
       "helpful": 3,
       "verified": false,
-      "createdAt": "2026-01-10T12:34:20.230Z",
-      "updatedAt": "2026-01-27T22:25:52.579Z"
+      "createdAt": "2026-01-10T17:44:12.666Z",
+      "updatedAt": "2026-01-28T03:35:45.015Z"
     },
     {
       "id": 181,
@@ -5962,8 +5962,8 @@
       ],
       "helpful": 3,
       "verified": true,
-      "createdAt": "2025-11-21T14:53:47.449Z",
-      "updatedAt": "2026-01-27T17:36:25.521Z"
+      "createdAt": "2025-11-21T20:03:39.885Z",
+      "updatedAt": "2026-01-27T22:46:17.957Z"
     },
     {
       "id": 182,
@@ -5974,8 +5974,8 @@
       "images": [],
       "helpful": 23,
       "verified": true,
-      "createdAt": "2025-02-28T14:57:44.984Z",
-      "updatedAt": "2026-01-27T19:09:10.473Z"
+      "createdAt": "2025-02-28T20:07:37.420Z",
+      "updatedAt": "2026-01-28T00:19:02.909Z"
     },
     {
       "id": 183,
@@ -5989,8 +5989,8 @@
       ],
       "helpful": 50,
       "verified": false,
-      "createdAt": "2025-02-01T04:42:51.582Z",
-      "updatedAt": "2026-01-27T03:56:19.345Z"
+      "createdAt": "2025-02-01T09:52:44.018Z",
+      "updatedAt": "2026-01-27T09:06:11.781Z"
     },
     {
       "id": 184,
@@ -6004,8 +6004,8 @@
       ],
       "helpful": 2,
       "verified": true,
-      "createdAt": "2025-07-25T14:39:43.282Z",
-      "updatedAt": "2026-01-27T14:11:07.088Z"
+      "createdAt": "2025-07-25T19:49:35.718Z",
+      "updatedAt": "2026-01-27T19:20:59.524Z"
     },
     {
       "id": 185,
@@ -6016,8 +6016,8 @@
       "images": [],
       "helpful": 46,
       "verified": true,
-      "createdAt": "2025-10-29T18:53:37.417Z",
-      "updatedAt": "2026-01-27T17:12:12.462Z"
+      "createdAt": "2025-10-30T00:03:29.853Z",
+      "updatedAt": "2026-01-27T22:22:04.898Z"
     },
     {
       "id": 186,
@@ -6030,8 +6030,8 @@
       ],
       "helpful": 45,
       "verified": true,
-      "createdAt": "2025-03-07T14:24:42.523Z",
-      "updatedAt": "2026-01-27T09:10:35.903Z"
+      "createdAt": "2025-03-07T19:34:34.959Z",
+      "updatedAt": "2026-01-27T14:20:28.339Z"
     },
     {
       "id": 187,
@@ -6042,8 +6042,8 @@
       "images": [],
       "helpful": 48,
       "verified": true,
-      "createdAt": "2025-10-08T10:06:31.422Z",
-      "updatedAt": "2026-01-27T12:26:57.093Z"
+      "createdAt": "2025-10-08T15:16:23.858Z",
+      "updatedAt": "2026-01-27T17:36:49.529Z"
     },
     {
       "id": 188,
@@ -6054,8 +6054,8 @@
       "images": [],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-07-30T13:49:46.507Z",
-      "updatedAt": "2026-01-27T09:03:17.059Z"
+      "createdAt": "2025-07-30T18:59:38.943Z",
+      "updatedAt": "2026-01-27T14:13:09.495Z"
     },
     {
       "id": 189,
@@ -6066,8 +6066,8 @@
       "images": [],
       "helpful": 32,
       "verified": true,
-      "createdAt": "2025-10-11T11:44:13.279Z",
-      "updatedAt": "2026-01-28T01:39:01.092Z"
+      "createdAt": "2025-10-11T16:54:05.715Z",
+      "updatedAt": "2026-01-28T06:48:53.528Z"
     },
     {
       "id": 190,
@@ -6081,8 +6081,8 @@
       ],
       "helpful": 13,
       "verified": true,
-      "createdAt": "2025-09-12T04:10:35.694Z",
-      "updatedAt": "2026-01-27T08:35:23.363Z"
+      "createdAt": "2025-09-12T09:20:28.130Z",
+      "updatedAt": "2026-01-27T13:45:15.799Z"
     },
     {
       "id": 191,
@@ -6093,8 +6093,8 @@
       "images": [],
       "helpful": 0,
       "verified": true,
-      "createdAt": "2025-12-26T16:44:17.212Z",
-      "updatedAt": "2026-01-27T22:02:58.303Z"
+      "createdAt": "2025-12-26T21:54:09.648Z",
+      "updatedAt": "2026-01-28T03:12:50.739Z"
     },
     {
       "id": 192,
@@ -6105,8 +6105,8 @@
       "images": [],
       "helpful": 3,
       "verified": true,
-      "createdAt": "2025-12-24T15:07:34.151Z",
-      "updatedAt": "2026-01-28T02:12:46.173Z"
+      "createdAt": "2025-12-24T20:17:26.587Z",
+      "updatedAt": "2026-01-28T07:22:38.609Z"
     },
     {
       "id": 193,
@@ -6117,8 +6117,8 @@
       "images": [],
       "helpful": 25,
       "verified": true,
-      "createdAt": "2025-05-31T01:50:57.249Z",
-      "updatedAt": "2026-01-27T23:34:26.991Z"
+      "createdAt": "2025-05-31T07:00:49.685Z",
+      "updatedAt": "2026-01-28T04:44:19.427Z"
     },
     {
       "id": 194,
@@ -6129,8 +6129,8 @@
       "images": [],
       "helpful": 3,
       "verified": true,
-      "createdAt": "2025-03-26T23:22:03.169Z",
-      "updatedAt": "2026-01-27T11:22:20.769Z"
+      "createdAt": "2025-03-27T04:31:55.605Z",
+      "updatedAt": "2026-01-27T16:32:13.205Z"
     },
     {
       "id": 195,
@@ -6145,8 +6145,8 @@
       ],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-10-19T06:42:20.834Z",
-      "updatedAt": "2026-01-28T00:10:18.886Z"
+      "createdAt": "2025-10-19T11:52:13.270Z",
+      "updatedAt": "2026-01-28T05:20:11.322Z"
     },
     {
       "id": 196,
@@ -6159,8 +6159,8 @@
       ],
       "helpful": 40,
       "verified": true,
-      "createdAt": "2025-08-16T16:28:36.070Z",
-      "updatedAt": "2026-01-28T01:58:52.313Z"
+      "createdAt": "2025-08-16T21:38:28.506Z",
+      "updatedAt": "2026-01-28T07:08:44.749Z"
     },
     {
       "id": 197,
@@ -6171,8 +6171,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-10-05T02:14:39.235Z",
-      "updatedAt": "2026-01-27T07:55:13.860Z"
+      "createdAt": "2025-10-05T07:24:31.671Z",
+      "updatedAt": "2026-01-27T13:05:06.296Z"
     },
     {
       "id": 198,
@@ -6183,8 +6183,8 @@
       "images": [],
       "helpful": 45,
       "verified": false,
-      "createdAt": "2025-10-17T17:20:52.315Z",
-      "updatedAt": "2026-01-28T00:12:34.733Z"
+      "createdAt": "2025-10-17T22:30:44.751Z",
+      "updatedAt": "2026-01-28T05:22:27.169Z"
     },
     {
       "id": 199,
@@ -6197,8 +6197,8 @@
       ],
       "helpful": 1,
       "verified": true,
-      "createdAt": "2025-02-06T23:43:55.651Z",
-      "updatedAt": "2026-01-27T12:53:30.437Z"
+      "createdAt": "2025-02-07T04:53:48.087Z",
+      "updatedAt": "2026-01-27T18:03:22.873Z"
     },
     {
       "id": 200,
@@ -6213,8 +6213,8 @@
       ],
       "helpful": 20,
       "verified": true,
-      "createdAt": "2025-11-10T16:19:10.914Z",
-      "updatedAt": "2026-01-27T23:04:34.470Z"
+      "createdAt": "2025-11-10T21:29:03.350Z",
+      "updatedAt": "2026-01-28T04:14:26.906Z"
     }
   ],
   "flashSales": [
@@ -6222,8 +6222,8 @@
       "id": 1,
       "name": "Flash Sale Giữa tuần",
       "description": "Giảm giá sốc đến 53%",
-      "startDate": "2026-01-30T18:13:51.121Z",
-      "endDate": "2026-01-31T16:13:51.121Z",
+      "startDate": "2026-01-30T23:23:43.557Z",
+      "endDate": "2026-01-31T21:23:43.557Z",
       "products": [
         {
           "productId": 28,
@@ -6262,8 +6262,8 @@
       "id": 2,
       "name": "Flash Sale Cuối tuần",
       "description": "Giảm giá sốc đến 35%",
-      "startDate": "2026-01-30T02:38:35.394Z",
-      "endDate": "2026-01-30T13:38:35.394Z",
+      "startDate": "2026-01-30T07:48:27.830Z",
+      "endDate": "2026-01-30T18:48:27.830Z",
       "products": [
         {
           "productId": 22,
@@ -6332,8 +6332,8 @@
       "id": 3,
       "name": "Flash Sale Cuối tuần",
       "description": "Giảm giá sốc đến 65%",
-      "startDate": "2026-01-28T03:59:17.824Z",
-      "endDate": "2026-01-28T08:59:17.824Z",
+      "startDate": "2026-01-28T09:09:10.261Z",
+      "endDate": "2026-01-28T14:09:10.261Z",
       "products": [
         {
           "productId": 1,
@@ -6390,8 +6390,8 @@
       "id": 4,
       "name": "Flash Sale Siêu sale",
       "description": "Giảm giá sốc đến 53%",
-      "startDate": "2026-02-03T08:24:02.671Z",
-      "endDate": "2026-02-03T21:24:02.671Z",
+      "startDate": "2026-02-03T13:33:55.108Z",
+      "endDate": "2026-02-04T02:33:55.108Z",
       "products": [
         {
           "productId": 32,
@@ -6454,8 +6454,8 @@
       "id": 5,
       "name": "Flash Sale Giữa tuần",
       "description": "Giảm giá sốc đến 46%",
-      "startDate": "2026-01-31T08:10:20.278Z",
-      "endDate": "2026-02-01T04:10:20.278Z",
+      "startDate": "2026-01-31T13:20:12.715Z",
+      "endDate": "2026-02-01T09:20:12.715Z",
       "products": [
         {
           "productId": 7,
@@ -6482,8 +6482,8 @@
       "id": 6,
       "name": "Flash Sale Cuối tuần",
       "description": "Giảm giá sốc đến 46%",
-      "startDate": "2026-01-31T19:42:42.724Z",
-      "endDate": "2026-02-01T11:42:42.724Z",
+      "startDate": "2026-02-01T00:52:35.161Z",
+      "endDate": "2026-02-01T16:52:35.161Z",
       "products": [
         {
           "productId": 27,
@@ -6552,8 +6552,8 @@
       "id": 7,
       "name": "Flash Sale Cuối tuần",
       "description": "Giảm giá sốc đến 66%",
-      "startDate": "2026-02-03T07:59:42.843Z",
-      "endDate": "2026-02-04T04:59:42.843Z",
+      "startDate": "2026-02-03T13:09:35.280Z",
+      "endDate": "2026-02-04T10:09:35.280Z",
       "products": [
         {
           "productId": 5,
@@ -6580,8 +6580,8 @@
       "id": 8,
       "name": "Flash Sale Siêu sale",
       "description": "Giảm giá sốc đến 62%",
-      "startDate": "2026-01-30T09:17:40.343Z",
-      "endDate": "2026-01-30T21:17:40.343Z",
+      "startDate": "2026-01-30T14:27:32.780Z",
+      "endDate": "2026-01-31T02:27:32.780Z",
       "products": [
         {
           "productId": 28,
@@ -6632,8 +6632,8 @@
       "id": 9,
       "name": "Flash Sale Đặc biệt",
       "description": "Giảm giá sốc đến 50%",
-      "startDate": "2026-01-31T14:25:29.484Z",
-      "endDate": "2026-01-31T21:25:29.484Z",
+      "startDate": "2026-01-31T19:35:21.921Z",
+      "endDate": "2026-02-01T02:35:21.921Z",
       "products": [
         {
           "productId": 12,
@@ -6672,8 +6672,8 @@
       "id": 10,
       "name": "Flash Sale Cuối tuần",
       "description": "Giảm giá sốc đến 30%",
-      "startDate": "2026-01-31T20:43:00.789Z",
-      "endDate": "2026-02-01T06:43:00.789Z",
+      "startDate": "2026-02-01T01:52:53.226Z",
+      "endDate": "2026-02-01T11:52:53.226Z",
       "products": [
         {
           "productId": 21,
@@ -6718,8 +6718,8 @@
       "id": 11,
       "name": "Flash Sale Siêu sale",
       "description": "Giảm giá sốc đến 54%",
-      "startDate": "2026-02-02T00:56:41.444Z",
-      "endDate": "2026-02-02T21:56:41.444Z",
+      "startDate": "2026-02-02T06:06:33.881Z",
+      "endDate": "2026-02-03T03:06:33.881Z",
       "products": [
         {
           "productId": 1,
@@ -6746,8 +6746,8 @@
       "id": 12,
       "name": "Flash Sale Đặc biệt",
       "description": "Giảm giá sốc đến 53%",
-      "startDate": "2026-01-31T19:39:34.116Z",
-      "endDate": "2026-01-31T22:39:34.116Z",
+      "startDate": "2026-02-01T00:49:26.553Z",
+      "endDate": "2026-02-01T03:49:26.553Z",
       "products": [
         {
           "productId": 32,
@@ -6792,8 +6792,8 @@
       "id": 13,
       "name": "Flash Sale Đặc biệt",
       "description": "Giảm giá sốc đến 63%",
-      "startDate": "2026-02-03T22:59:06.483Z",
-      "endDate": "2026-02-04T08:59:06.483Z",
+      "startDate": "2026-02-04T04:08:58.920Z",
+      "endDate": "2026-02-04T14:08:58.920Z",
       "products": [
         {
           "productId": 34,
@@ -6844,8 +6844,8 @@
       "id": 14,
       "name": "Flash Sale Giữa tuần",
       "description": "Giảm giá sốc đến 50%",
-      "startDate": "2026-01-31T10:51:12.061Z",
-      "endDate": "2026-01-31T21:51:12.061Z",
+      "startDate": "2026-01-31T16:01:04.498Z",
+      "endDate": "2026-02-01T03:01:04.498Z",
       "products": [
         {
           "productId": 35,
@@ -6902,8 +6902,8 @@
       "id": 15,
       "name": "Flash Sale Siêu sale",
       "description": "Giảm giá sốc đến 34%",
-      "startDate": "2026-01-28T10:51:05.147Z",
-      "endDate": "2026-01-29T09:51:05.147Z",
+      "startDate": "2026-01-28T16:00:57.584Z",
+      "endDate": "2026-01-29T15:00:57.584Z",
       "products": [
         {
           "productId": 7,
@@ -6953,70 +6953,35 @@
   ],
   "banners": [
     {
-      "id": 1,
-      "title": "Xe máy điện Vinfast - Ưu đãi khủng",
-      "image": "https://picsum.photos/seed/banner0/1200/400",
-      "link": "/products?sale=true",
-      "position": "footer",
-      "order": 1,
-      "isActive": true,
-      "createdAt": "2025-11-06T11:02:09.600Z",
-      "updatedAt": "2026-01-27T21:46:27.611Z"
+      "id": "1",
+      "imageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-1.jpeg",
+      "mobileImageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-1.jpeg",
+      "position": "home_top",
+      "priority": 1,
+      "createdAt": "2026-01-15T10:00:00Z",
+      "updatedAt": "2026-01-20T15:30:00Z"
     },
     {
-      "id": 2,
-      "title": "Xe máy điện Vinfast - Ưu đãi khủng",
-      "image": "https://picsum.photos/seed/banner1/1200/400",
-      "link": "/products?sale=true",
-      "position": "sidebar",
-      "order": 2,
-      "isActive": true,
-      "createdAt": "2025-07-16T04:09:38.397Z",
-      "updatedAt": "2026-01-27T07:50:20.574Z"
+      "id": "2",
+      "imageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-2.jpeg",
+      "mobileImageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-2.jpeg",
+      "link": "/collections/new-arrivals",
+      "type": "collection",
+      "position": "home_middle",
+      "priority": 2,
+      "createdAt": "2026-01-10T08:00:00Z",
+      "updatedAt": "2026-01-18T12:00:00Z"
     },
     {
-      "id": 3,
-      "title": "Sale cuối năm - Giảm đến 50%",
-      "image": "https://picsum.photos/seed/banner2/1200/400",
-      "link": "/products?sale=true",
-      "position": "middle",
-      "order": 3,
-      "isActive": true,
-      "createdAt": "2025-05-19T22:17:26.675Z",
-      "updatedAt": "2026-01-27T20:43:16.576Z"
-    },
-    {
-      "id": 4,
-      "title": "Freeship toàn quốc",
-      "image": "https://picsum.photos/seed/banner3/1200/400",
-      "link": "/products?sale=true",
-      "position": "footer",
-      "order": 4,
-      "isActive": false,
-      "createdAt": "2025-08-04T04:13:31.224Z",
-      "updatedAt": "2026-01-28T02:16:05.154Z"
-    },
-    {
-      "id": 5,
-      "title": "Xe máy điện Vinfast - Ưu đãi khủng",
-      "image": "https://picsum.photos/seed/banner4/1200/400",
-      "link": "/products?sale=true",
-      "position": "middle",
-      "order": 5,
-      "isActive": true,
-      "createdAt": "2025-02-05T06:40:55.466Z",
-      "updatedAt": "2026-01-27T04:25:31.065Z"
-    },
-    {
-      "id": 6,
-      "title": "Xe máy điện Vinfast - Ưu đãi khủng",
-      "image": "https://picsum.photos/seed/banner5/1200/400",
-      "link": "/products?sale=true",
-      "position": "footer",
-      "order": 6,
-      "isActive": false,
-      "createdAt": "2025-09-17T12:03:42.958Z",
-      "updatedAt": "2026-01-27T05:10:23.810Z"
+      "id": "3",
+      "imageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-3.jpeg",
+      "mobileImageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-3.jpeg",
+      "link": "/shipping-policy",
+      "type": "announcement",
+      "position": "home_top",
+      "priority": 3,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
     }
   ],
   "feedbacks": []
