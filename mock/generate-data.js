@@ -5,271 +5,170 @@ const path = require('path');
 // Seed for consistent data
 faker.seed(123);
 
-// Generate Categories
-function generateCategories(count = 10) {
-    const categories = [];
-    const categoryNames = [
-        'Thời Trang Nam',
-        'Thời Trang Nữ',
-        'Điện Thoại & Phụ Kiện',
-        'Máy Tính & Laptop',
-        'Đồng Hồ',
-        'Giày Dép Nam',
-        'Giày Dép Nữ',
-        'Túi Ví Nữ',
-        'Thiết Bị Điện Tử',
-        'Sức Khỏe & Làm Đẹp',
-        'Nhà Cửa & Đời Sống',
-        'Thể Thao & Du Lịch'
-    ];
+console.log('🎨 Generating mock data for e-commerce...\n');
 
-    for (let i = 0; i < count; i++) {
-        categories.push({
-            id: i + 1,
-            name: categoryNames[i] || faker.commerce.department(),
-            image: `https://picsum.photos/seed/category${i}/400/300`,
-            description: faker.commerce.productDescription(),
-            productCount: faker.number.int({ min: 50, max: 5000 })
-        });
-    }
-    return categories;
-}
+// ============================================
+// LOAD FORMATTED DATA
+// ============================================
 
-// Generate Products
-function generateProducts(count = 100, categories) {
-    const products = [];
+const formattedProducts = require('../formatted/products.json');
+const formattedCategories = require('../formatted/categories.json');
+const formattedUsers = require('../formatted/users.json');
+const formattedStoresData = require('../formatted/stores.json');
+const formattedPosts = require('../formatted/posts.json');
 
-    for (let i = 0; i < count; i++) {
-        const price = faker.number.int({ min: 50000, max: 50000000 });
-        const discount = faker.number.int({ min: 0, max: 50 });
-        const originalPrice = Math.round(price / (1 - discount / 100));
-        const rating = faker.number.float({ min: 3, max: 5, fractionDigits: 1 });
-        const soldCount = faker.number.int({ min: 10, max: 10000 });
+// Extract stores and branches
+const formattedStores = formattedStoresData.stores || formattedStoresData;
+const storeBranches = formattedStoresData.storeBranches || [];
 
-        products.push({
-            id: i + 1,
-            name: faker.commerce.productName(),
-            description: faker.commerce.productDescription(),
-            price: price,
-            originalPrice: originalPrice,
-            discount: discount,
-            categoryId: faker.helpers.arrayElement(categories).id,
-            images: [
-                `https://picsum.photos/seed/product${i}-1/600/600`,
-                `https://picsum.photos/seed/product${i}-2/600/600`,
-                `https://picsum.photos/seed/product${i}-3/600/600`,
-                `https://picsum.photos/seed/product${i}-4/600/600`
-            ],
-            thumbnail: `https://picsum.photos/seed/product${i}/400/400`,
-            rating: rating,
-            reviewCount: faker.number.int({ min: 0, max: 5000 }),
-            soldCount: soldCount,
-            stock: faker.number.int({ min: 0, max: 1000 }),
-            shopName: faker.company.name(),
-            shopId: faker.number.int({ min: 1, max: 50 }),
-            location: faker.location.city() + ', Vietnam',
-            isFreeShip: faker.datatype.boolean(),
-            isOfficial: faker.datatype.boolean(0.3),
-            tags: faker.helpers.arrayElements(
-                ['Bán Chạy', 'Hàng Mới', 'Giảm Giá Sốc', 'Mall', 'Freeship', 'Yêu Thích'],
-                faker.number.int({ min: 1, max: 3 })
-            ),
-            specifications: {
-                brand: faker.company.name(),
-                origin: faker.helpers.arrayElement(['Vietnam', 'China', 'Korea', 'Japan', 'USA']),
-                warranty: faker.helpers.arrayElement(['6 tháng', '12 tháng', '24 tháng', 'Không bảo hành'])
-            },
-            variants: generateVariants()
-        });
-    }
-    return products;
-}
+console.log(`✅ Loaded ${formattedProducts.length} products from formatted/products.json`);
+console.log(`✅ Loaded ${formattedCategories.length} categories from formatted/categories.json`);
+console.log(`✅ Loaded ${formattedUsers.length} users from formatted/users.json`);
+console.log(`✅ Loaded ${formattedStores.length} stores from formatted/stores.json`);
+console.log(`✅ Loaded ${formattedPosts.length} posts from formatted/posts.json`);
 
-// Generate Product Variants
-function generateVariants() {
-    const hasVariants = faker.datatype.boolean(0.7);
-    if (!hasVariants) return [];
-
-    const variantTypes = faker.helpers.arrayElements(
-        ['Màu sắc', 'Kích thước', 'Phiên bản'],
-        faker.number.int({ min: 1, max: 2 })
-    );
-
-    const variants = [];
-    if (variantTypes.includes('Màu sắc')) {
-        variants.push({
-            name: 'Màu sắc',
-            options: faker.helpers.arrayElements(
-                ['Đen', 'Trắng', 'Xanh', 'Đỏ', 'Vàng', 'Xám', 'Hồng'],
-                faker.number.int({ min: 2, max: 4 })
-            )
-        });
-    }
-    if (variantTypes.includes('Kích thước')) {
-        variants.push({
-            name: 'Kích thước',
-            options: faker.helpers.arrayElements(
-                ['S', 'M', 'L', 'XL', '2XL', '3XL'],
-                faker.number.int({ min: 3, max: 5 })
-            )
-        });
-    }
-    if (variantTypes.includes('Phiên bản')) {
-        variants.push({
-            name: 'Phiên bản',
-            options: faker.helpers.arrayElements(
-                ['64GB', '128GB', '256GB', '512GB', 'Bản thường', 'Bản cao cấp'],
-                faker.number.int({ min: 2, max: 4 })
-            )
-        });
-    }
-    return variants;
-}
-
-// Generate Users
-function generateUsers(count = 50) {
-    const users = [];
-    for (let i = 0; i < count; i++) {
-        users.push({
-            id: i + 1,
-            username: faker.internet.username(),
-            email: faker.internet.email(),
-            fullName: faker.person.fullName(),
-            avatar: `https://i.pravatar.cc/150?img=${i + 1}`,
-            phone: faker.phone.number('09########'),
-            address: {
-                street: faker.location.streetAddress(),
-                district: faker.location.county(),
-                city: faker.location.city(),
-                country: 'Vietnam'
-            },
-            joinedDate: faker.date.past({ years: 3 }),
-            isVerified: faker.datatype.boolean(0.8)
-        });
-    }
-    return users;
-}
+// ============================================
+// GENERATE ADDITIONAL DATA
+// ============================================
 
 // Generate Reviews
-function generateReviews(count = 200, products, users) {
+function generateReviews(count = 100) {
     const reviews = [];
+    const ratingWords = {
+        5: ['Tuyệt vời', 'Xuất sắc', 'Hoàn hảo', 'Rất hài lòng', 'Tốt nhất'],
+        4: ['Tốt', 'Hài lòng', 'Đáng mua', 'Chất lượng tốt'],
+        3: ['Tạm ổn', 'Bình thường', 'Chấp nhận được'],
+        2: ['Không tốt lắm', 'Cần cải thiện', 'Hơi thất vọng'],
+        1: ['Tệ', 'Rất tệ', 'Không đáng mua']
+    };
+
     for (let i = 0; i < count; i++) {
+        const rating = faker.helpers.arrayElement([1, 2, 3, 4, 5]);
+        const product = faker.helpers.arrayElement(formattedProducts);
+        const user = faker.helpers.arrayElement(formattedUsers);
+
         reviews.push({
             id: i + 1,
-            productId: faker.helpers.arrayElement(products).id,
-            userId: faker.helpers.arrayElement(users).id,
-            rating: faker.number.int({ min: 1, max: 5 }),
-            comment: faker.lorem.paragraph(),
-            images: faker.datatype.boolean(0.3)
-                ? Array.from({ length: faker.number.int({ min: 1, max: 4 }) }, (_, idx) =>
-                    `https://picsum.photos/seed/review${i}-${idx}/400/400`
-                )
-                : [],
+            productId: product.id,
+            userId: user.id,
+            rating: rating,
+            comment: `${faker.helpers.arrayElement(ratingWords[rating])}! ${faker.lorem.sentence()}`,
+            images: rating >= 4 ? Array.from({ length: faker.number.int({ min: 0, max: 3 }) }, (_, idx) =>
+                `https://picsum.photos/seed/review${i}-${idx}/400/400`
+            ) : [],
+            helpful: faker.number.int({ min: 0, max: 50 }),
+            verified: faker.datatype.boolean(0.8),
             createdAt: faker.date.past({ years: 1 }),
-            likes: faker.number.int({ min: 0, max: 100 }),
-            isVerifiedPurchase: faker.datatype.boolean(0.9),
-            variantPurchased: faker.helpers.maybe(() => 'Màu Đen - Size M', { probability: 0.6 })
+            updatedAt: faker.date.recent()
         });
     }
+
     return reviews;
 }
 
 // Generate Flash Sales
-function generateFlashSales(products) {
-    const flashSaleProducts = faker.helpers.arrayElements(products, 20);
-    return flashSaleProducts.map((product, index) => ({
-        id: index + 1,
-        productId: product.id,
-        originalPrice: product.originalPrice,
-        flashPrice: Math.round(product.price * 0.7),
-        discount: 30 + faker.number.int({ min: 0, max: 40 }),
-        stock: faker.number.int({ min: 10, max: 100 }),
-        sold: faker.number.int({ min: 50, max: 500 }),
-        startTime: new Date().toISOString(),
-        endTime: new Date(Date.now() + 3 * 60 * 60 * 1000).toISOString() // 3 hours from now
-    }));
+function generateFlashSales(count = 10) {
+    const flashSales = [];
+
+    for (let i = 0; i < count; i++) {
+        const products = faker.helpers.arrayElements(formattedProducts, faker.number.int({ min: 3, max: 10 }));
+        const startDate = faker.date.soon({ days: 7 });
+        const endDate = new Date(startDate.getTime() + faker.number.int({ min: 3, max: 24 }) * 60 * 60 * 1000);
+
+        flashSales.push({
+            id: i + 1,
+            name: `Flash Sale ${faker.helpers.arrayElement(['Cuối tuần', 'Giữa tuần', 'Siêu sale', 'Đặc biệt'])}`,
+            description: `Giảm giá sốc đến ${faker.number.int({ min: 30, max: 70 })}%`,
+            startDate: startDate.toISOString(),
+            endDate: endDate.toISOString(),
+            products: products.map(p => ({
+                productId: p.id,
+                discountPercent: faker.number.int({ min: 20, max: 60 }),
+                quantity: faker.number.int({ min: 10, max: 100 }),
+                sold: faker.number.int({ min: 0, max: 50 })
+            })),
+            isActive: faker.datatype.boolean(0.6)
+        });
+    }
+
+    return flashSales;
 }
 
 // Generate Banners
-function generateBanners() {
-    return [
-        {
-            id: 1,
-            image: 'https://picsum.photos/seed/banner1/1200/400',
-            title: 'Sale Cuối Tuần',
-            link: '/sale',
-            type: 'main'
-        },
-        {
-            id: 2,
-            image: 'https://picsum.photos/seed/banner2/1200/400',
-            title: 'Thời Trang Hot',
-            link: '/fashion',
-            type: 'main'
-        },
-        {
-            id: 3,
-            image: 'https://picsum.photos/seed/banner3/600/300',
-            title: 'Điện Tử Giá Rẻ',
-            link: '/electronics',
-            type: 'sub'
-        },
-        {
-            id: 4,
-            image: 'https://picsum.photos/seed/banner4/600/300',
-            title: 'Freeship Xtra',
-            link: '/freeship',
-            type: 'sub'
-        }
-    ];
+function generateBanners(count = 5) {
+    const banners = [];
+
+    for (let i = 0; i < count; i++) {
+        banners.push({
+            id: i + 1,
+            title: faker.helpers.arrayElement([
+                'Sale cuối năm - Giảm đến 50%',
+                'Xe máy điện Vinfast - Ưu đãi khủng',
+                'Mua ngay - Trả góp 0%',
+                'Freeship toàn quốc',
+                'Black Friday - Deal HOT'
+            ]),
+            image: `https://picsum.photos/seed/banner${i}/1200/400`,
+            link: `/products?sale=true`,
+            position: faker.helpers.arrayElement(['hero', 'sidebar', 'middle', 'footer']),
+            order: i + 1,
+            isActive: faker.datatype.boolean(0.8),
+            createdAt: faker.date.past({ years: 1 }),
+            updatedAt: faker.date.recent()
+        });
+    }
+
+    return banners;
 }
 
-// Main generation function
-function generateDatabase() {
-    console.log('🎨 Generating mock data for e-commerce...\n');
+// ============================================
+// GENERATE ALL DATA
+// ============================================
 
-    const categories = generateCategories(12);
-    console.log('✅ Generated', categories.length, 'categories');
+const reviews = generateReviews(200);
+const flashSales = generateFlashSales(15);
+const banners = generateBanners(6);
 
-    const products = generateProducts(100, categories);
-    console.log('✅ Generated', products.length, 'products');
+console.log(`✅ Generated ${reviews.length} reviews`);
+console.log(`✅ Generated ${flashSales.length} flash sales`);
+console.log(`✅ Generated ${banners.length} banners\n`);
 
-    const users = generateUsers(50);
-    console.log('✅ Generated', users.length, 'users');
+// ============================================
+// CREATE DATABASE OBJECT
+// ============================================
 
-    const reviews = generateReviews(200, products, users);
-    console.log('✅ Generated', reviews.length, 'reviews');
+const db = {
+    categories: formattedCategories,
+    products: formattedProducts,
+    users: formattedUsers,
+    stores: formattedStores,
+    storeBranches: storeBranches,
+    posts: formattedPosts,
+    reviews: reviews,
+    flashSales: flashSales,
+    banners: banners,
+    feedbacks: [] // Empty array for feedback form
+};
 
-    const flashSales = generateFlashSales(products);
-    console.log('✅ Generated', flashSales.length, 'flash sales');
+// ============================================
+// WRITE TO FILE
+// ============================================
 
-    const banners = generateBanners();
-    console.log('✅ Generated', banners.length, 'banners');
+const outputPath = path.join(__dirname, 'db.json');
+fs.writeFileSync(outputPath, JSON.stringify(db, null, 2));
 
-    const database = {
-        categories,
-        products,
-        users,
-        reviews,
-        flashSales,
-        banners
-    };
+console.log('🎉 Mock data generated successfully!');
+console.log(`📁 File saved to: ${outputPath}\n`);
 
-    // Write to file
-    const outputPath = path.join(__dirname, 'db.json');
-    fs.writeFileSync(outputPath, JSON.stringify(database, null, 2));
+console.log('📊 Summary:');
+console.log(`   - Categories: ${db.categories.length}`);
+console.log(`   - Products: ${db.products.length}`);
+console.log(`   - Users: ${db.users.length}`);
+console.log(`   - Stores: ${db.stores.length}`);
+console.log(`   - Store Branches: ${db.storeBranches.length}`);
+console.log(`   - Posts: ${db.posts.length}`);
+console.log(`   - Reviews: ${db.reviews.length}`);
+console.log(`   - Flash Sales: ${db.flashSales.length}`);
+console.log(`   - Banners: ${db.banners.length}\n`);
 
-    console.log('\n🎉 Mock data generated successfully!');
-    console.log('📁 File saved to:', outputPath);
-    console.log('\n📊 Summary:');
-    console.log('   - Categories:', categories.length);
-    console.log('   - Products:', products.length);
-    console.log('   - Users:', users.length);
-    console.log('   - Reviews:', reviews.length);
-    console.log('   - Flash Sales:', flashSales.length);
-    console.log('   - Banners:', banners.length);
-    console.log('\n🚀 Run "npm run mock:server" to start the API server');
-}
-
-// Run the generator
-generateDatabase();
+console.log('🚀 Run "npm run mock:server" to start the API server');

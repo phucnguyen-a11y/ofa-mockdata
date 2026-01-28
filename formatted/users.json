@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "username": "nguyen_vanA",
+        "password": "password123",
+        "email": "nguyenvana@email.com",
+        "fullName": "Nguyễn Văn A",
+        "phone": "0901234567",
+        "avatar": "https://i.pravatar.cc/150?img=1",
+        "address": {
+            "street": "123 Nguyễn Huệ",
+            "district": "Quận 1",
+            "city": "TP. Hồ Chí Minh",
+            "country": "Vietnam"
+        },
+        "role": "customer",
+        "isVerified": true,
+        "createdAt": "2025-08-15T10:30:00.000Z",
+        "updatedAt": "2025-08-15T10:30:00.000Z"
+    },
+    {
+        "id": 2,
+        "username": "tran_thiB",
+        "password": "password123",
+        "email": "tranthib@email.com",
+        "fullName": "Trần Thị B",
+        "phone": "0912345678",
+        "avatar": "https://i.pravatar.cc/150?img=2",
+        "address": {
+            "street": "456 Lê Lợi",
+            "district": "Quận 5",
+            "city": "TP. Hồ Chí Minh",
+            "country": "Vietnam"
+        },
+        "role": "customer",
+        "isVerified": true,
+        "createdAt": "2025-09-01T14:20:00.000Z",
+        "updatedAt": "2025-09-01T14:20:00.000Z"
+    },
+    {
+        "id": 3,
+        "username": "le_vanC",
+        "password": "password123",
+        "email": "levanc@email.com",
+        "fullName": "Lê Văn C",
+        "phone": "0923456789",
+        "avatar": "https://i.pravatar.cc/150?img=3",
+        "address": {
+            "street": "789 Trần Hưng Đạo",
+            "district": "Hai Bà Trưng",
+            "city": "Hà Nội",
+            "country": "Vietnam"
+        },
+        "role": "customer",
+        "isVerified": false,
+        "createdAt": "2025-09-12T09:15:00.000Z",
+        "updatedAt": "2025-09-12T09:15:00.000Z"
+    },
+    {
+        "id": 4,
+        "username": "pham_thiD",
+        "password": "password123",
+        "email": "phamthid@email.com",
+        "fullName": "Phạm Thị D",
+        "phone": "0934567890",
+        "avatar": "https://i.pravatar.cc/150?img=4",
+        "address": {
+            "street": "321 Võ Văn Tần",
+            "district": "Quận 3",
+            "city": "TP. Hồ Chí Minh",
+            "country": "Vietnam"
+        },
+        "role": "seller",
+        "isVerified": true,
+        "createdAt": "2025-07-20T16:45:00.000Z",
+        "updatedAt": "2025-07-20T16:45:00.000Z"
+    },
+    {
+        "id": 5,
+        "username": "hoang_vanE",
+        "password": "password123",
+        "email": "hoangvane@email.com",
+        "fullName": "Hoàng Văn E",
+        "phone": "0945678901",
+        "avatar": "https://i.pravatar.cc/150?img=5",
+        "address": {
+            "street": "654 Nguyễn Thái Học",
+            "district": "Ba Đình",
+            "city": "Hà Nội",
+            "country": "Vietnam"
+        },
+        "role": "customer",
+        "isVerified": true,
+        "createdAt": "2025-10-05T11:00:00.000Z",
+        "updatedAt": "2025-10-05T11:00:00.000Z"
+    },
+    {
+        "id": 6,
+        "username": "do_thiF",
+        "password": "password123",
+        "email": "dothif@email.com",
+        "fullName": "Đỗ Thị F",
+        "phone": "0956789012",
+        "avatar": "https://i.pravatar.cc/150?img=6",
+        "address": {
+            "street": "987 Pasteur",
+            "district": "Quận 1",
+            "city": "TP. Hồ Chí Minh",
+            "country": "Vietnam"
+        },
+        "role": "seller",
+        "isVerified": true,
+        "createdAt": "2025-06-10T08:30:00.000Z",
+        "updatedAt": "2025-06-10T08:30:00.000Z"
+    },
+    {
+        "id": 7,
+        "username": "bui_vanG",
+        "password": "password123",
+        "email": "buivang@email.com",
+        "fullName": "Bùi Văn G",
+        "phone": "0967890123",
+        "avatar": "https://i.pravatar.cc/150?img=7",
+        "address": {
+            "street": "159 Điện Biên Phủ",
+            "district": "Bình Thạnh",
+            "city": "TP. Hồ Chí Minh",
+            "country": "Vietnam"
+        },
+        "role": "customer",
+        "isVerified": false,
+        "createdAt": "2025-10-18T13:25:00.000Z",
+        "updatedAt": "2025-10-18T13:25:00.000Z"
+    },
+    {
+        "id": 8,
+        "username": "vuong_thiH",
+        "password": "admin123",
+        "email": "vuongthih@email.com",
+        "fullName": "Vương Thị H",
+        "phone": "0978901234",
+        "avatar": "https://i.pravatar.cc/150?img=8",
+        "address": {
+            "street": "753 Cách Mạng Tháng 8",
+            "district": "Quận 10",
+            "city": "TP. Hồ Chí Minh",
+            "country": "Vietnam"
+        },
+        "role": "admin",
+        "isVerified": true,
+        "createdAt": "2025-05-01T07:00:00.000Z",
+        "updatedAt": "2025-05-01T07:00:00.000Z"
+    },
+    {
+        "id": 9,
+        "username": "dang_vanI",
+        "password": "password123",
+        "email": "dangvani@email.com",
+        "fullName": "Đặng Văn I",
+        "phone": "0989012345",
+        "avatar": "https://i.pravatar.cc/150?img=9",
+        "address": {
+            "street": "246 Lý Thường Kiệt",
+            "district": "Quận 11",
+            "city": "TP. Hồ Chí Minh",
+            "country": "Vietnam"
+        },
+        "role": "customer",
+        "isVerified": true,
+        "createdAt": "2025-09-28T15:10:00.000Z",
+        "updatedAt": "2025-09-28T15:10:00.000Z"
+    },
+    {
+        "id": 10,
+        "username": "ngo_thiK",
+        "password": "password123",
+        "email": "ngothik@email.com",
+        "fullName": "Ngô Thị K",
+        "phone": "0990123456",
+        "avatar": "https://i.pravatar.cc/150?img=10",
+        "address": {
+            "street": "135 Hoàng Văn Thụ",
+            "district": "Tân Bình",
+            "city": "TP. Hồ Chí Minh",
+            "country": "Vietnam"
+        },
+        "role": "seller",
+        "isVerified": true,
+        "createdAt": "2025-08-25T12:40:00.000Z",
+        "updatedAt": "2025-08-25T12:40:00.000Z"
+    }
+]

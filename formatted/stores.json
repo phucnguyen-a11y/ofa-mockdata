@@ -1,0 +1,103 @@
+{
+  "stores": [
+    {
+      "id": 1,
+      "name": "OKXE Vinfast",
+      "avatar": "https://cdn.okxe.vn/stores/avatar/905/1703905/KxYdwcGfQIM64dsbTsi0JHA0HwspAcgPLFAgx082.png",
+      "cover": "https://cdn.okxe.vn/stores/671/1702671/1Lhw1EoNp5ZAMQ7GgjKdyCEGyuqS2R4lottHdUIF.png",
+      "fullAddress": "40E Út Tịch, Phường 4, Quận Tân Bình, TP. HCM",
+      "rating": 4.5,
+      "productsOnSelling": 21,
+      "productsSold": 501,
+      "numberOfLikes": 221,
+      "type": "STATION",
+      "location": "TP. HCM"
+    },
+    {
+      "id": 2,
+      "name": "Yadea OKXE Tây Hồ",
+      "avatar": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+      "cover": "https://cdn.okxe.vn/stores/180/1716180/SUfMmNnyBhRYJ64kmc6T4OX30t4Xi9wggOox82gH.jpg",
+      "fullAddress": "92 Phố Khâm Thiên, Khâm Thiên, Đống Đa, Hà Nội, Việt Nam",
+      "rating": 4.8,
+      "productsOnSelling": 28,
+      "productsSold": 101,
+      "numberOfLikes": 1523,
+      "type": "STATION",
+      "location": "TP. Hà Nội"
+    },
+    {
+      "id": 3,
+      "name": "Xe máy Thanh Tùng",
+      "avatar": "https://s3.ap-southeast-1.amazonaws.com/okxe.2019/stores/avatar/109/139109/5d7279526803915dc812.jpg",
+      "cover": "https://cdn.okxe.vn/stores/109/139109/67137528_621065128381090_3614547495952056320_n.jpg",
+      "fullAddress": "100 Hoàng Văn Thụ, TP.HCM, Việt Nam",
+      "rating": 4.8,
+      "productsOnSelling": 20,
+      "productsSold": 101,
+      "type": "PARTNER",
+      "location": "TP. HCM"
+    },
+    {
+      "id": 4,
+      "name": "Mạnh Motor",
+      "avatar": "https://cdn.okxe.vn/stores/avatar/20/52020/JYp45RNs3FvC8LyuNAnjLiSUizMqaoITipyDTynA.jpg",
+      "cover": "https://cdn.okxe.vn/stores/avatar/20/52020/JYp45RNs3FvC8LyuNAnjLiSUizMqaoITipyDTynA.jpg",
+      "fullAddress": "106 Cầu Giấy, Hà Nội, Việt Nam",
+      "rating": 4.9,
+      "productsOnSelling": 20,
+      "productsSold": 101,
+      "type": "PREMIUM",
+      "location": "TP. Hà Nội"
+    },
+    {
+      "id": 5,
+      "name": "Thiên Bảo Racing",
+      "avatar": "https://cdn.okxe.vn/stores/avatar/987/431987/1QMCYGJHSvBEXpUMJIC4d2PFqt2rF6F4LA9hs5cJ.jpg",
+      "cover": "https://cdn.okxe.vn/stores/766/430766/OeBciHoy1kojvR9V9K4Fhbybx0HBw7B5Y0AFYl7z.jpg",
+      "fullAddress": "73 Ng. 196 Đ. Hồ Tùng Mậu, Cầu Diễn, Từ Liêm, Hà Nội, Việt Nam",
+      "rating": 4.5,
+      "productsOnSelling": 20,
+      "productsSold": 101,
+      "type": "STORE",
+      "location": "TP. Hà Nội"
+    }
+  ],
+  "storeBranches": [
+    {
+      "id": 1,
+      "storeId": 1,
+      "title": "OKXE Vinfast",
+      "address": "40E Út Tịch, Phường 4, Quận Tân Bình, TP Hồ Chí Minh",
+      "phone": "096 488 87 44"
+    },
+    {
+      "id": 4,
+      "storeId": 1,
+      "title": "OKXE Vinfast",
+      "address": "26 Văn Chung, Phường 13, Tân Bình, TP Hồ Chí Minh",
+      "phone": "096 488 87 44"
+    },
+    {
+      "id": 5,
+      "storeId": 1,
+      "title": "OKXE Vinfast",
+      "address": "92 Phố Khâm Thiên, Khâm Thiên, Đống Đa, Hà Nội",
+      "phone": "0325 316 689"
+    },
+    {
+      "id": 2,
+      "storeId": 2,
+      "title": "YADEA OKXE TÂY HỒ",
+      "address": "679 Lạc Long Quân, Tây Hồ, Hà Nội",
+      "phone": "0983 040 042"
+    },
+    {
+      "id": 3,
+      "storeId": 2,
+      "title": "YADEA OKXE TÂY HỒ",
+      "address": "92 Phố Khâm Thiên, Khâm Thiên, Đống Đa, Hà Nội",
+      "phone": "0325 316 689"
+    }
+  ]
+}

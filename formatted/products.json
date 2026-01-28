@@ -1,0 +1,2551 @@
+[
+  {
+    "id": 1,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/vang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/den.png"
+    ],
+    "name": "VENTO S",
+    "price": 30000000,
+    "description": "\n        '🛵 VINFAST VENTO S\\n\\nTrải nghiệm hiệu năng đỉnh cao – thiết kế thể thao sang trọng với VinFast Vento S!\\nTrang bị động cơ điện mạnh mẽ, khả năng tăng tốc ấn tượng và hệ thống phanh an toàn tuyệt đối. Vento S mang đến cảm giác lái mượt mà, ổn định trên mọi cung đường.\\n👉 Phù hợp cho người yêu thích phong cách năng động, hiện đại.\\nƯu điểm nổi bật:\\n\\nThiết kế thể thao, đèn LED toàn phần\\n\\nChống nước chuẩn IP67 – đi mưa vô tư\\n\\nTốc độ tối đa lên đến 90 km/h\\n\\nPin LFP bền bỉ, tiết kiệm điện\\n✨ Chọn Vento S – chọn phong cách dẫn đầu!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Vàng",
+      "Trắng",
+      "Đỏ",
+      "Đen"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "1 pin LFP"
+    ],
+    "variantPrice": [
+      [
+        30000000,
+        32000000
+      ],
+      [
+        31000000,
+        33000000
+      ],
+      [
+        32000000,
+        34000000
+      ],
+      [
+        33000000,
+        35000000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "vento-s",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/vang.png",
+    "originalPrice": 32967033,
+    "discount": 9,
+    "rating": 4.1,
+    "soldCount": 75,
+    "soldDisplay": "50+",
+    "stock": 43,
+    "badges": [
+      "OKXE Mall"
+    ],
+    "categoryId": 3,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 2,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/vang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/xam.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/den.png"
+    ],
+    "name": "VENTO NEO",
+    "price": 32000000,
+    "model": "VENTO NEO",
+    "description": "\n        '⚡ VINFAST VENTO NEO\\n\\nVento NEO – dòng xe điện trẻ trung, giá hợp lý nhất trong phân khúc!\\nThiết kế gọn gàng, dễ lái, cực kỳ tiết kiệm điện năng. Xe vận hành êm ái, nhẹ nhàng – hoàn hảo cho sinh viên, nhân viên văn phòng.\\nƯu điểm:\\n\\nMàu sắc trẻ trung: trắng ngọc trai, xám xi măng, vàng, đen bóng\\n\\nPin LFP an toàn, sạc nhanh\\n\\nThiết kế gọn, phù hợp đô thị đông đúc\\n💬 Vento NEO – lựa chọn thông minh cho cuộc sống năng động!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Vàng",
+      "Trắng",
+      "Xám",
+      "Đen"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "1 pin LFP"
+    ],
+    "variantPrice": [
+      [
+        32000000,
+        34000000
+      ],
+      [
+        33000000,
+        35000000
+      ],
+      [
+        34000000,
+        36000000
+      ],
+      [
+        35000000,
+        37000000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "vento-neo",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/vang.png",
+    "originalPrice": 47761194,
+    "discount": 33,
+    "rating": 4.5,
+    "soldCount": 591,
+    "soldDisplay": "500+",
+    "stock": 25,
+    "badges": [
+      "OKXE Mall",
+      "Freeship",
+      "Bán chạy"
+    ],
+    "categoryId": 4,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 3,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/den.png"
+    ],
+    "name": "THEON S",
+    "price": 56900000,
+    "model": "THEON S",
+    "description": "\n        '🚀 VINFAST THEON S\\n\\nĐỉnh cao xe điện Việt – mạnh mẽ và sang trọng nhất hiện nay!\\nTheon S được ví như “ông vua” của dòng xe điện với động cơ cực khỏe, khả năng tăng tốc vượt trội và hệ thống phanh ABS cao cấp.\\nTính năng nổi bật:\\n\\nVận hành mạnh mẽ như xe tay ga xăng cao cấp\\n\\nMàn hình điện tử lớn, kết nối smartphone\\n\\nTự động khóa/mở xe thông minh\\n\\nPhanh ABS – an toàn tuyệt đối\\n🔥 Theon S – lựa chọn của người dẫn đầu, khác biệt và đẳng cấp!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Trắng",
+      "Đỏ",
+      "Đen"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "1 pin LFP"
+    ],
+    "variantPrice": [
+      [
+        56900000,
+        58900000
+      ],
+      [
+        57900000,
+        59900000
+      ],
+      [
+        58900000,
+        60900000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "slug": "theon-s",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/trang.png",
+    "originalPrice": 74868421,
+    "discount": 24,
+    "rating": 4.8,
+    "soldCount": 991,
+    "soldDisplay": "500+",
+    "stock": 13,
+    "badges": [
+      "OKXE Mall",
+      "Freeship",
+      "Bán chạy"
+    ],
+    "categoryId": 3,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 4,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/xanhduong.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/xanhreu.png"
+    ],
+    "name": "KLARA S2",
+    "price": 30000000,
+    "model": "KLARA S2",
+    "description": "\n        '💎 VINFAST KLARA S2\\n\\nPhong cách thanh lịch – vận hành êm ái!\\nKlara S2 được thiết kế tinh tế, đặc biệt phù hợp với phái nữ hoặc dân văn phòng. Xe chống nước tuyệt vời, sạc nhanh, tiết kiệm điện và cực kỳ bền bỉ.\\nƯu điểm:\\n\\nKiểu dáng thời trang, nữ tính\\n\\nChạy êm, giảm xóc tốt\\n\\nBảng điều khiển hiện đại, dễ thao tác\\n💖 Klara S2 – nhẹ nhàng, tinh tế nhưng đầy bản lĩnh!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Trắng",
+      "Xanh đậm",
+      "Đỏ",
+      "Xanh rêu"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "1 pin LFP"
+    ],
+    "variantPrice": [
+      [
+        30000000,
+        32000000
+      ],
+      [
+        31000000,
+        33000000
+      ],
+      [
+        32000000,
+        34000000
+      ],
+      [
+        33000000,
+        35000000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "klara-s2",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/trang.png",
+    "originalPrice": 48387097,
+    "discount": 38,
+    "rating": 4.3,
+    "soldCount": 333,
+    "soldDisplay": "100+",
+    "stock": 27,
+    "badges": [
+      "OKXE Mall"
+    ],
+    "categoryId": 1,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 5,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/trang.png"
+    ],
+    "name": "KLARA NEO",
+    "price": 28800000,
+    "model": "KLARA NEO",
+    "description": "\n        '🌿 VINFAST KLARA NEO\\n\\nGiá tốt – bền bỉ – tiết kiệm điện!\\nKlara NEO là lựa chọn lý tưởng cho người cần xe điện gọn nhẹ, dễ sử dụng.\\nĐặc điểm nổi bật:\\n\\nThiết kế hiện đại, thân thiện môi trường\\n\\nPin LFP – bền gấp 1,5 lần pin thường\\n\\nDễ điều khiển, yên ngồi thoải mái\\n🚗 Klara NEO – người bạn đồng hành hoàn hảo mỗi ngày!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Đỏ",
+      "Đen",
+      "Trắng"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "1 pin LFP"
+    ],
+    "variantPrice": [
+      [
+        28800000,
+        30800000
+      ],
+      [
+        29800000,
+        31800000
+      ],
+      [
+        30800000,
+        32800000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "slug": "klara-neo",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/do.png",
+    "originalPrice": 33882353,
+    "discount": 15,
+    "rating": 4.9,
+    "soldCount": 4252,
+    "soldDisplay": "1000+",
+    "stock": 29,
+    "badges": [
+      "Giảm sốc",
+      "Freeship",
+      "OKXE Mall"
+    ],
+    "categoryId": 2,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 6,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/bac.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/xanhreu.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/do.png"
+    ],
+    "name": "FELIZ S",
+    "price": 29700000,
+    "model": "FELIZ S",
+    "description": "\n        '🌈 VINFAST FELIZ S\\n\\nBán chạy nhất VinFast – mạnh mẽ, tiết kiệm và tiện dụng!\\nFeliz S có khả năng vận hành hơn 90 km cho mỗi lần sạc, tăng tốc mượt mà, khung xe chắc chắn.\\nƯu điểm:\\n\\nĐộng cơ mạnh, bứt tốc nhanh\\n\\nThiết kế trung tính, phù hợp mọi lứa tuổi\\n\\nChống nước tốt, dễ bảo trì\\n⭐ Feliz S – xe điện quốc dân, bền – đẹp – tiết kiệm!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Bạc",
+      "Đen",
+      "Xanh rêu",
+      "Đỏ"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "1 pin LFP"
+    ],
+    "variantPrice": [
+      [
+        29700000,
+        31700000
+      ],
+      [
+        30700000,
+        32700000
+      ],
+      [
+        31700000,
+        33700000
+      ],
+      [
+        32700000,
+        34700000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "feliz-s",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/bac.png",
+    "originalPrice": 31935484,
+    "discount": 7,
+    "rating": 4.6,
+    "soldCount": 87,
+    "soldDisplay": "50+",
+    "stock": 30,
+    "badges": [
+      "OKXE Mall"
+    ],
+    "categoryId": 2,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 7,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/xanholiu.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/xanhreu.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/trang.png"
+    ],
+    "name": "FELIZ LITE",
+    "price": 25900000,
+    "model": "FELIZ LITE",
+    "description": "\n        '💫 VINFAST FELIZ LITE\\n\\nGiải pháp xe điện thông minh – nhỏ gọn – siêu tiết kiệm!\\nFeliz Lite được thiết kế tối ưu cho người mới bắt đầu lái xe điện hoặc đi học – đi làm gần.\\nƯu điểm:\\n\\nTrọng lượng nhẹ, dễ điều khiển\\n\\nPin LFP bền, sạc nhanh\\n\\nGiá cực kỳ hợp lý\\n💡 Feliz Lite – gọn nhẹ, tiết kiệm và đầy phong cách!\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Xanh Oliu",
+      "Xanh rêu",
+      "Đen",
+      "Trắng"
+    ],
+    "pinVariant": [
+      "1 Pin LFP",
+      "Thêm pin 2.4 kWh"
+    ],
+    "variantPrice": [
+      [
+        25900000,
+        30900000
+      ],
+      [
+        26900000,
+        31900000
+      ],
+      [
+        27900000,
+        32900000
+      ],
+      [
+        28900000,
+        33900000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "feliz-lite",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/xanholiu.png",
+    "originalPrice": 27553191,
+    "discount": 6,
+    "rating": 4.5,
+    "soldCount": 807,
+    "soldDisplay": "500+",
+    "stock": 5,
+    "badges": [
+      "OKXE Mall",
+      "Freeship",
+      "Bán chạy"
+    ],
+    "categoryId": 3,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 8,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/xam.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/trang.png"
+    ],
+    "name": "FELIZ NEO",
+    "price": 22400000,
+    "model": "FELIZ NEO",
+    "description": "\n        '🔋 VINFAST FELIZ NEO\\n\\nThế hệ mới – hiện đại – pin bền vượt trội!\\nFeliz NEO sở hữu ngoại hình trẻ trung, công nghệ pin LFP tiên tiến giúp xe bền và tiết kiệm hơn bao giờ hết.\\nTính năng nổi bật:\\n\\nTăng tốc mượt, dắt xe nhẹ\\n\\nPin sạc nhanh, tuổi thọ cao\\n\\nThiết kế đẹp, màu sắc đa dạng\\n💥 Feliz NEO – xe điện của tương lai, dẫn đầu xu hướng Việt!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Đỏ",
+      "Đen",
+      "Xám",
+      "Trắng"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "1 pin LFP"
+    ],
+    "variantPrice": [
+      [
+        22400000,
+        24400000
+      ],
+      [
+        23400000,
+        25400000
+      ],
+      [
+        24400000,
+        26400000
+      ],
+      [
+        25400000,
+        27400000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "feliz-neo",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/do.png",
+    "originalPrice": 32463768,
+    "discount": 31,
+    "rating": 4.7,
+    "soldCount": 26,
+    "soldDisplay": "10+",
+    "stock": 25,
+    "badges": [
+      "OKXE Mall",
+      "Giảm sốc"
+    ],
+    "categoryId": 5,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 9,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/vang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/xanholiu.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/trang.png"
+    ],
+    "name": "FELIZ 2025",
+    "price": 25900000,
+    "model": "FELIZ 2025",
+    "description": "\n        '💚 VINFAST FELIZ 2025\\n\\nPhiên bản nâng cấp mạnh mẽ và tinh tế nhất của dòng Feliz!\\nFeliz 2025 sở hữu thiết kế hiện đại, sang trọng với đường nét bo tròn mềm mại, phù hợp cho cả nam và nữ.\\nĐộng cơ điện mạnh mẽ giúp xe vận hành mượt mà, tiết kiệm điện tối ưu.\\nƯu điểm nổi bật:\\n\\nQuãng đường di chuyển đến 90km/lần sạc\\n\\nPin LFP siêu bền, chống nước chuẩn IP67\\n\\nThiết kế sang – màu sắc thời thượng (xanh oliu, vàng cát, đen bóng)\\n👉 Feliz 2025 – lựa chọn hoàn hảo cho cuộc sống đô thị hiện đại!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Vàng cát",
+      "Xanh Oliu",
+      "Đen",
+      "Trắng"
+    ],
+    "pinVariant": [
+      "1 Pin LFP",
+      "Thêm pin 2.4 kWh"
+    ],
+    "variantPrice": [
+      [
+        25900000,
+        30900000
+      ],
+      [
+        26900000,
+        31900000
+      ],
+      [
+        27900000,
+        32900000
+      ],
+      [
+        28900000,
+        33900000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "feliz-2025",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/vang.png",
+    "originalPrice": 30116279,
+    "discount": 14,
+    "rating": 4.3,
+    "soldCount": 545,
+    "soldDisplay": "500+",
+    "stock": 30,
+    "badges": [
+      "OKXE Mall",
+      "Mới về"
+    ],
+    "categoryId": 3,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 10,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/xanhreu.png"
+    ],
+    "name": "EVO NEO",
+    "price": 17800000,
+    "model": "EVO NEO",
+    "description": "\n        '⚡ VINFAST EVO NEO\\n\\nNhỏ gọn – năng động – siêu tiết kiệm!\\nEvo NEO hướng đến người trẻ yêu thích sự đơn giản nhưng chất lượng. Xe vận hành êm ái, dễ điều khiển và cực kỳ tiết kiệm điện.\\nƯu điểm:\\n\\nPin LFP bền bỉ, sạc nhanh chỉ 4 giờ\\n\\nThiết kế tinh gọn, phù hợp đường phố chật hẹp\\n\\nVận hành ổn định, an toàn trong mưa\\n🌟 Evo NEO – xe điện cho cuộc sống hiện đại, tiện lợi mỗi ngày!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Đỏ",
+      "Trắng",
+      "Đen",
+      "Xanh rêu"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "1 pin LFP"
+    ],
+    "variantPrice": [
+      [
+        17800000,
+        19800000
+      ],
+      [
+        18800000,
+        20800000
+      ],
+      [
+        19800000,
+        21800000
+      ],
+      [
+        20800000,
+        22800000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "evo-neo",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/do.png",
+    "originalPrice": 25428571,
+    "discount": 30,
+    "rating": 5,
+    "soldCount": 1997,
+    "soldDisplay": "1000+",
+    "stock": 21,
+    "badges": [
+      "OKXE Mall",
+      "Bán chạy"
+    ],
+    "categoryId": 3,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 11,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/xanhtim.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/xanhreu.png"
+    ],
+    "name": "EVO LITE NEO",
+    "price": 14400000,
+    "model": "EVO LITE NEO",
+    "description": "\n        '🌀 VINFAST EVO LITE NEO\\n\\nNhẹ nhàng – tinh tế – giá cực tốt!\\nDòng Evo Lite NEO được thiết kế để tối ưu cho người mới sử dụng xe điện, học sinh, sinh viên hoặc nhân viên văn phòng.\\nĐiểm nổi bật:\\n\\nDễ sử dụng, dắt xe nhẹ, an toàn\\n\\n5 bình ắc quy 12V – cho quãng đường 70–90km\\n\\nThiết kế trẻ trung, phù hợp mọi lứa tuổi\\n💬 Evo Lite NEO – gọn nhẹ, bền bỉ, tiết kiệm chi phí tối đa!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Đỏ",
+      "Đen",
+      "Xanh tím",
+      "Xanh rêu"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "5 bình ắc quy 12V - 21Ah"
+    ],
+    "variantPrice": [
+      [
+        14400000,
+        15400000
+      ],
+      [
+        15400000,
+        16400000
+      ],
+      [
+        16400000,
+        17400000
+      ],
+      [
+        17400000,
+        18400000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "evo-lite-neo",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/do.png",
+    "originalPrice": 22500000,
+    "discount": 36,
+    "rating": 4.6,
+    "soldCount": 434,
+    "soldDisplay": "100+",
+    "stock": 16,
+    "badges": [
+      "OKXE Mall"
+    ],
+    "categoryId": 5,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 12,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/xanholiu.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/vang.png"
+    ],
+    "name": "EVO GRAND",
+    "price": 21000000,
+    "model": "EVO GRAND",
+    "description": "\n        '🚀 VINFAST EVO GRAND\\n\\nDòng xe điện tầm trung cao cấp – mạnh mẽ và sang trọng!\\nEvo Grand nổi bật với khả năng vận hành vượt trội và thời gian sạc nhanh. Thiết kế hiện đại, thể thao cùng bảng điều khiển điện tử tiên tiến.\\nƯu điểm:\\n\\nChạy hơn 100km/lần sạc\\n\\nPin LFP kèm pin phụ 2.4kWh – an toàn và bền hơn\\n\\nKiểu dáng thể thao, sang trọng\\n💥 Evo Grand – chinh phục mọi cung đường, dẫn đầu phong cách!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Trắng",
+      "Đen",
+      "Xanh Oliu",
+      "Vàng cát"
+    ],
+    "pinVariant": [
+      "1 Pin LFP",
+      "Thêm pin 2.4 kWh"
+    ],
+    "variantPrice": [
+      [
+        21000000,
+        26000000
+      ],
+      [
+        22000000,
+        27000000
+      ],
+      [
+        23000000,
+        28000000
+      ],
+      [
+        24000000,
+        29000000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "evo-grand",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/trang.png",
+    "originalPrice": 23595506,
+    "discount": 11,
+    "rating": 4.5,
+    "soldCount": 4099,
+    "soldDisplay": "1000+",
+    "stock": 9,
+    "badges": [
+      "OKXE Mall",
+      "Mới về",
+      "Freeship",
+      "Giảm sốc"
+    ],
+    "categoryId": 4,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 13,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/vang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/lavender.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/trang.png"
+    ],
+    "name": "EVO GRAND LITE",
+    "price": 18000000,
+    "model": "EVO GRAND LITE",
+    "description": "\n        '🌟 VINFAST EVO GRAND LITE\\n\\nSự kết hợp hoàn hảo giữa hiệu năng và giá trị sử dụng!\\nEvo Grand Lite giữ trọn tinh thần của dòng Grand nhưng gọn nhẹ hơn, phù hợp cho sinh viên và dân văn phòng.\\nTính năng:\\n\\nPin kép 2.4kWh – di chuyển xa hơn\\n\\nThiết kế trẻ trung, màu sắc đa dạng\\n\\nTiết kiệm chi phí vận hành tối đa\\n✨ Evo Grand Lite – nhỏ gọn mà vẫn đẳng cấp!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Vàng",
+      "Đen",
+      "Lavender Sữa",
+      "Trắng"
+    ],
+    "pinVariant": [
+      "1 Pin LFP",
+      "Thêm pin 2.4 kWh"
+    ],
+    "variantPrice": [
+      [
+        18000000,
+        23000000
+      ],
+      [
+        19000000,
+        24000000
+      ],
+      [
+        20000000,
+        25000000
+      ],
+      [
+        21000000,
+        26000000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "evo-grand-lite",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/vang.png",
+    "originalPrice": 22500000,
+    "discount": 20,
+    "rating": 4.3,
+    "soldCount": 668,
+    "soldDisplay": "500+",
+    "stock": 30,
+    "badges": [
+      "OKXE Mall",
+      "Freeship"
+    ],
+    "categoryId": 6,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 14,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/vang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/xanh.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/den.png"
+    ],
+    "name": "EVO200",
+    "price": 22000000,
+    "model": "EVO200",
+    "description": "\n        '🔋 VINFAST EVO 200\\n\\nDòng xe quốc dân – mạnh mẽ, tiết kiệm và cực kỳ bền bỉ!\\nEvo 200 có thể di chuyển đến 200km/lần sạc, là một trong những dòng xe điện phổ biến nhất của VinFast.\\nƯu điểm vượt trội:\\n\\nPin LFP dung lượng lớn\\n\\nThiết kế chắc chắn, an toàn\\n\\nMàu sắc trẻ trung, hiện đại\\n🔥 Evo 200 – bứt phá hành trình, tiết kiệm mọi chi phí!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Vàng",
+      "Trắng",
+      "Xanh",
+      "Đen"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "1 pin LFP"
+    ],
+    "variantPrice": [
+      [
+        22000000,
+        24000000
+      ],
+      [
+        23000000,
+        25000000
+      ],
+      [
+        24000000,
+        26000000
+      ],
+      [
+        25000000,
+        27000000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "evo200",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/vang.png",
+    "originalPrice": 31428571,
+    "discount": 30,
+    "rating": 4.7,
+    "soldCount": 45,
+    "soldDisplay": "10+",
+    "stock": 33,
+    "badges": [
+      "OKXE Mall",
+      "Mới về"
+    ],
+    "categoryId": 2,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 15,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/xanhtim.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/vang.png"
+    ],
+    "name": "EVO200 LITE",
+    "price": 22000000,
+    "model": "EVO200 LITE",
+    "description": "\n        '💫 VINFAST EVO 200 LITE\\n\\nGiải pháp tiết kiệm hoàn hảo cho người dùng trẻ!\\nEvo 200 Lite vẫn giữ được thiết kế đẹp và pin LFP bền bỉ, nhưng nhẹ và dễ điều khiển hơn.\\nĐiểm nổi bật:\\n\\nPhù hợp học sinh, sinh viên\\n\\nVận hành êm, dễ bảo trì\\n\\nThiết kế thời trang, cá tính\\n💖 Evo 200 Lite – nhỏ gọn, bền và cực tiết kiệm!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Đỏ",
+      "Trắng",
+      "Xanh tím",
+      "Vàng"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "1 pin LFP"
+    ],
+    "variantPrice": [
+      [
+        22000000,
+        24000000
+      ],
+      [
+        23000000,
+        25000000
+      ],
+      [
+        24000000,
+        26000000
+      ],
+      [
+        25000000,
+        27000000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "evo200-lite",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/do.png",
+    "originalPrice": 32835821,
+    "discount": 33,
+    "rating": 4,
+    "soldCount": 48,
+    "soldDisplay": "10+",
+    "stock": 36,
+    "badges": [
+      "OKXE Mall",
+      "Mới về"
+    ],
+    "categoryId": 4,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 16,
+    "storeId": 1,
+    "brand": "Vinfast",
+    "brandImage": "assets/images/brands/vinfast.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/hong.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/vang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/trang.png"
+    ],
+    "name": "MOTIO",
+    "price": 12000000,
+    "model": "MOTIO",
+    "description": "\n        '🎯 VINFAST MOTIO\\n\\nPhong cách cá tính – nhỏ gọn – siêu linh hoạt!\\nMotio là lựa chọn hoàn hảo cho người yêu thích phong cách tối giản và tiện lợi.\\nƯu điểm:\\n\\nThiết kế cực nhẹ, dễ điều khiển\\n\\n5 bình ắc quy 12V cho quãng đường dài\\n\\nMàu sắc trẻ trung, thể hiện cá tính\\n💡 Motio – nhỏ gọn, tiện dụng, năng động mọi lúc mọi nơi!\\n\\n✔️ Cam kết 100% xe pháp lý đầy đủ\\n✔️ Thông tin xe chính xác\\n✔️ Nhận thu đổi xe khi có yêu cầu\\n-------------------------------\\n📜 Thủ tục thanh toán nhanh gọn\\n📜 Có chính sách hỗ trợ trả góp linh hoạt, chỉ cần giấy tờ chứng minh thu nhập\\n-------------------------------\\n🏤 Trạm Dịch Vụ Xe Máy OKXE\\n⏲ Thời gian làm việc: từ 8h00 - 19h00, tất cả các ngày trong tuần\\n📞 Hotline/ Zalo: 0964 888 744\\n\\nĐẶT LỊCH HẸN ĐỂ GIỮ XE VÀ ĐƯỢC PHỤC VỤ TỐT NHẤT!",
+    "colorVariant": [
+      "Hồng",
+      "Đỏ",
+      "Vàng",
+      "Trắng"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "5 bình ắc quy 12V - 21Ah"
+    ],
+    "variantPrice": [
+      [
+        12000000,
+        13000000
+      ],
+      [
+        13000000,
+        14000000
+      ],
+      [
+        14000000,
+        15000000
+      ],
+      [
+        15000000,
+        16000000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "motio",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/hong.png",
+    "originalPrice": 16666667,
+    "discount": 28,
+    "rating": 4.7,
+    "soldCount": 409,
+    "soldDisplay": "100+",
+    "stock": 33,
+    "badges": [
+      "OKXE Mall",
+      "Bán chạy"
+    ],
+    "categoryId": 3,
+    "specifications": {
+      "brand": "Vinfast",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 21,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/trang.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/xam.png"
+    ],
+    "name": "VOLTGUARD U",
+    "price": 38990000,
+    "model": "VOLTGUARD U",
+    "description": "''\n🔥 YADEA VOLGUARD U – HIGH PERFORMANCE, BỨT PHÁ MỌI GIỚI HẠN! ⚡\nĐịnh nghĩa lại sức mạnh xe điện với YADEA VOLGUARD U – dòng xe High Performance đỉnh cao từ YADEA!\nTrang bị động cơ GTR 3.0 công suất cực đại 4200W, đạt tốc độ tối đa 100 km/h, mang lại cảm giác lái bứt phá, mạnh mẽ và cực kỳ phấn khích.\nSử dụng PIN Lithium TTFAR an toàn và thân thiện môi trường.\nTích hợp công nghệ AIGo thông minh, giúp khởi động nhanh, nhận diện người dùng và tối ưu hiệu suất vận hành.\nSmart Key hiện đại, chống trộm điện tử 3 lớp, cùng màn hình LED kỹ thuật số sắc nét, mang đến trải nghiệm công nghệ cao cấp.\nThiết kế thể thao – đậm chất tương lai, khung sườn chắc chắn, đường nét góc cạnh thể hiện tinh thần tốc độ và sức mạnh.\nChi phí vận hành chỉ ~300đ/km, vừa tiết kiệm vừa thời thượng.\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042\n✨ YADEA VOLGUARD U – High Performance. High Style. High Energy!''",
+    "colorVariant": [
+      "Trắng",
+      "Đen",
+      "Đỏ",
+      "Xám"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "Pin LFP"
+    ],
+    "variantPrice": [
+      [
+        38990000,
+        40990000
+      ],
+      [
+        39990000,
+        41990000
+      ],
+      [
+        40990000,
+        42990000
+      ],
+      [
+        41990000,
+        43990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "voltguard-u",
+    "originalPrice": 60921875,
+    "discount": 36,
+    "rating": 4.7,
+    "soldCount": 73,
+    "soldDisplay": "50+",
+    "stock": 44,
+    "badges": [
+      "OKXE Mall",
+      "Freeship"
+    ],
+    "categoryId": 3,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 22,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/trang.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/xam.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/%C4%91en.png"
+    ],
+    "name": "YADEA VELAX",
+    "price": 29990000,
+    "model": "YADEA VELAX",
+    "description": "''\n''⚡ YADEA VELAX – HIỆN ĐẠI TỪ PHONG CÁCH ĐẾN CÔNG NGHỆ! 🌿\nBứt phá giới hạn di chuyển cùng YADEA VELAX – chiếc xe điện thông minh dành cho thế hệ năng động!\nTrang bị động cơ GTR 3.0 công suất mạnh mẽ, vận hành êm ái, tăng tốc mượt mà và tiết kiệm năng lượng vượt trội.\nSử dụng PIN Lithium TTFAR có thể tháo rời, tiện lợi mang lên nhà sạc – an toàn, gọn nhẹ và thân thiện môi trường.\nTích hợp công nghệ AIGo thông minh, giúp khởi động nhanh, nhận diện người dùng và kiểm soát xe dễ dàng hơn bao giờ hết.\nThiết kế hiện đại, mạnh mẽ, đường nét góc cạnh đầy năng lượng, phù hợp với học sinh, sinh viên và người trẻ yêu công nghệ.\nMàn hình LED hiện đại, Smart Key tiện lợi, chống trộm điện tử an toàn tuyệt đối, cùng cốp rộng cho mọi nhu cầu.\nChi phí vận hành chỉ ~300đ/km, tiết kiệm gấp nhiều lần so với xe xăng.\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042\n✨ YADEA VELAX – Di chuyển thông minh, phong cách dẫn đầu!''",
+    "colorVariant": [
+      "Trắng",
+      "Xám",
+      "Đen"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "Pin LFP"
+    ],
+    "variantPrice": [
+      [
+        29990000,
+        31990000
+      ],
+      [
+        30990000,
+        32990000
+      ],
+      [
+        31990000,
+        33990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "slug": "yadea-velax",
+    "originalPrice": 38948052,
+    "discount": 23,
+    "rating": 4.3,
+    "soldCount": 13,
+    "soldDisplay": "10+",
+    "stock": 20,
+    "badges": [
+      "OKXE Mall"
+    ],
+    "categoryId": 5,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 23,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/XanhTruc.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/XanhTruc.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/Kem.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/Den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/XanhDuong.png"
+    ],
+    "name": "YADEA ORLA P",
+    "price": 20490000,
+    "model": "YADEA ORLA P",
+    "description": "''\n🌿 YADEA ORLA P – CÔNG NGHỆ THÔNG MINH, PHONG CÁCH XANH TƯƠNG LAI ⚡\nBứt phá với động cơ GTR 3.0 công suất 1700W, vận hành mạnh mẽ, êm ái và tiết kiệm điện vượt trội.\nTrang bị Ắc quy Graphene TTFAR thế hệ mới, sạc nhanh – bền bỉ – quãng đường lên đến 80 km/lần sạc, tuổi thọ gấp 3 lần ắc quy thường.\nTích hợp Smart Key, chống trộm 3 lớp, màn hình LED Full-HD và kết nối YADEA Smart App giúp theo dõi xe dễ dàng.\nThiết kế trẻ trung, đèn LED toàn xe, cốp rộng và 2 chế độ lái linh hoạt: Eco – Sport.\nChi phí di chuyển chỉ ~1.000đ/km, thân thiện môi trường, không khói, không ồn.\n📞 YADEA OKXE 679 Lạc Long - 098 304 00 42\n✨ YADEA ORLA P – Di chuyển thông minh, phong cách bền vững!''",
+    "colorVariant": [
+      "Xanh trúc",
+      "Beige",
+      "Đen",
+      "Xanh dương"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "Ắc quy Graphene TTFAR"
+    ],
+    "variantPrice": [
+      [
+        20490000,
+        22490000
+      ],
+      [
+        21490000,
+        23490000
+      ],
+      [
+        22490000,
+        24490000
+      ],
+      [
+        23490000,
+        25490000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "yadea-orla-p",
+    "originalPrice": 23284091,
+    "discount": 12,
+    "rating": 4.5,
+    "soldCount": 724,
+    "soldDisplay": "500+",
+    "stock": 5,
+    "badges": [
+      "Giảm sốc",
+      "Mới về",
+      "Bán chạy"
+    ],
+    "categoryId": 2,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 24,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/kem.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/kem.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/tim.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/trang.png"
+    ],
+    "name": "YADEA Oris",
+    "price": 22990000,
+    "model": "YADEA Oris",
+    "description": "''\n🌸 YADEA ORIS – THANH LỊCH MỖI NGÀY, TIỆN LỢI MỌI HÀNH TRÌNH 💖\nYADEA ORIS là lựa chọn hoàn hảo cho phụ nữ hiện đại – vừa thời trang, tiện lợi vừa siêu tiết kiệm.\nXe trang bị động cơ GTR 3.0 công suất tối đa 2450W, vận hành êm ái, bền bỉ và mạnh mẽ trong mọi điều kiện.\nSử dụng Ắc quy Graphene TTFAR thế hệ mới, sạc nhanh – bền gấp 3 lần – di chuyển tới 100 km/lần sạc.\nTích hợp Smart Key thông minh, chống trộm điện tử 3 lớp, và công nghệ AIGo giúp khởi động nhanh, nhận diện người dùng, nâng cao độ an toàn và tiện ích.\nMàn hình LED hiện đại, đèn LED toàn xe sáng rõ, cốp rộng rãi, thiết kế nhỏ gọn – thanh lịch – dễ điều khiển.\nChi phí vận hành chỉ ~300đ/km, thân thiện môi trường và cực kỳ kinh tế cho mọi gia đình.\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042\n✨ YADEA ORIS – Thanh lịch di chuyển, thông minh từng khoảnh khắc!''",
+    "colorVariant": [
+      "Beige",
+      "Tím",
+      "Đen",
+      "Trắng"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "Ắc quy Graphene TTFAR"
+    ],
+    "variantPrice": [
+      [
+        22990000,
+        24990000
+      ],
+      [
+        23990000,
+        25990000
+      ],
+      [
+        24990000,
+        26990000
+      ],
+      [
+        25990000,
+        27990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "yadea-oris",
+    "originalPrice": 27047059,
+    "discount": 15,
+    "rating": 4.5,
+    "soldCount": 465,
+    "soldDisplay": "100+",
+    "stock": 42,
+    "badges": [
+      "Giảm sốc",
+      "Freeship",
+      "Mới về"
+    ],
+    "categoryId": 3,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 25,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-xanhtruc.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-xanhtruc.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-xanh.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-den.png"
+    ],
+    "name": "Ossy",
+    "price": 21990000,
+    "model": "Ossy",
+    "description": "''\n⚡ YADEA OSSY\nNhỏ gọn – thời trang – bứt phá năng lượng xanh!\nYADEA OSSY là mẫu xe điện trẻ trung, thiết kế nhỏ gọn, cực phù hợp cho học sinh, sinh viên và dân văn phòng cần sự linh hoạt.\nƯu điểm nổi bật:\nĐộng cơ GTR 1200W mạnh mẽ, tăng tốc nhanh – di chuyển êm ái trên mọi cung đường\nPin lithium bền bỉ, sạc nhanh chỉ 4 giờ\nThiết kế gọn nhẹ, dễ dắt, chống nước hiệu quả\nMàu sắc trẻ trung, hiện đại: Trắng, Xanh trúc, Xanh, Đen\n💡 YADEA OSSY – nhỏ mà có võ, năng động mọi hành trình!\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042\n✨ YADEA ODORA – Classic tinh tế, phong cách tuổi trẻ!''",
+    "colorVariant": [
+      "Xanh trúc",
+      "Trắng",
+      "Xanh",
+      "Đen"
+    ],
+    "pinVariant": [
+      "Graphene TTFAR 72V22Ah"
+    ],
+    "variantPrice": [
+      [
+        21990000,
+        23990000
+      ],
+      [
+        22990000,
+        24990000
+      ],
+      [
+        23990000,
+        25990000
+      ],
+      [
+        24990000,
+        26990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "ossy",
+    "originalPrice": 25275862,
+    "discount": 13,
+    "rating": 4.5,
+    "soldCount": 665,
+    "soldDisplay": "500+",
+    "stock": 19,
+    "badges": [
+      "Freeship",
+      "Mới về",
+      "Bán chạy"
+    ],
+    "categoryId": 1,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 26,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/trang.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/xanh.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/xamthan.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/den.png"
+    ],
+    "name": "YADEA ODORA S2",
+    "price": 16500000,
+    "model": "YADEA ODORA S2",
+    "description": "''\n⚡ YADEA ODORA – PHONG CÁCH CLASSIC, NĂNG LƯỢNG TRẺ! 🚀\nTự tin đến trường mỗi ngày cùng YADEA ODORA – chiếc xe điện Classic hiện đại dành riêng cho học sinh năng động!\nTrang bị động cơ GTR 3.0 công suất tối đa 1500W, cho khả năng tăng tốc mạnh mẽ, vận hành êm và bền bỉ trên mọi cung đường.\nSử dụng Ắc quy Graphene TTFAR thế hệ mới, sạc nhanh – bền – đi xa tới 80 km/lần sạc, thoải mái di chuyển cả tuần học.\nTích hợp Smart Key thông minh, tiện lợi và hiện đại khi sử dụng hằng ngày.\nThiết kế Classic pha hiện đại, đường nét bo tròn mềm mại, màu sắc trẻ trung phù hợp cả nam lẫn nữ.\nMàn hình LED hiển thị rõ nét, đèn LED toàn xe sáng rõ, cốp rộng đựng balo, áo mưa hay vật dụng cá nhân.\nChi phí vận hành chỉ ~300đ/km, cực kỳ tiết kiệm và thân thiện với môi trường!\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042\n✨ YADEA ODORA – Classic tinh tế, phong cách tuổi trẻ!''",
+    "colorVariant": [
+      "Trắng",
+      "Xanh",
+      "Xám than",
+      "Đen"
+    ],
+    "pinVariant": [
+      "Ắc quy Graphene TTFAR",
+      "Ắc quy Thiên Năng"
+    ],
+    "variantPrice": [
+      [
+        16500000,
+        18500000
+      ],
+      [
+        17500000,
+        19500000
+      ],
+      [
+        18500000,
+        20500000
+      ],
+      [
+        19500000,
+        21500000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "yadea-odora-s2",
+    "originalPrice": 18965517,
+    "discount": 13,
+    "rating": 4.1,
+    "soldCount": 899,
+    "soldDisplay": "500+",
+    "stock": 18,
+    "badges": [
+      "Bán chạy",
+      "Freeship"
+    ],
+    "categoryId": 3,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 27,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/be.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/be.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/xam.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/xamden.png"
+    ],
+    "name": "YADEA VIGOR nâng cấp",
+    "price": 15990000,
+    "model": "YADEA VIGOR",
+    "description": "''\n🚀 YADEA VIGOR NÂNG CẤP (NEW VIGOR)\n\nPhong cách thể thao – mạnh mẽ vượt trội – công nghệ tiên tiến!\nPhiên bản VIGOR nâng cấp mang thiết kế mới góc cạnh, hiện đại hơn, kết hợp động cơ GTR cải tiến giúp vận hành mạnh mẽ và tiết kiệm năng lượng hơn 15%.\nTính năng nổi bật:\n\nVận tốc tối đa 60–70 km/h, quãng đường lên đến 90 km/lần sạc\n\nPin Lithium cao cấp, tuổi thọ đến 5 năm\n\nCụm đèn LED full-face cực sáng, chống nước chuẩn IPX7\n\nHệ thống phanh CBS an toàn tuyệt đối\n🔥 VIGOR mới – đỉnh cao công nghệ, dẫn đầu xu hướng xe điện thể thao!\n\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042\n✨ YADEA ODORA – Classic tinh tế, phong cách tuổi trẻ!''",
+    "colorVariant": [
+      "Beige",
+      "Xám",
+      "Đen",
+      "Xám đen"
+    ],
+    "pinVariant": [
+      "Ắc quy Graphene TTFAR",
+      "Ắc quy Thiên Năng"
+    ],
+    "variantPrice": [
+      [
+        15990000,
+        17990000
+      ],
+      [
+        16990000,
+        18990000
+      ],
+      [
+        17990000,
+        19990000
+      ],
+      [
+        18990000,
+        20990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "yadea-vigor-nang-cap",
+    "originalPrice": 18379310,
+    "discount": 13,
+    "rating": 4.2,
+    "soldCount": 2158,
+    "soldDisplay": "1000+",
+    "stock": 40,
+    "badges": [
+      "OKXE Mall",
+      "Giảm sốc"
+    ],
+    "categoryId": 4,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 28,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": null,
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/trang.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/xam.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/xanh.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/den.png"
+    ],
+    "name": "VOLTGUARD P",
+    "price": 27990000,
+    "model": "VOLTGUARD P",
+    "description": "''\n🛡️ YADEA VOLTGUARD P\n\nAn toàn – bền bỉ – bảo vệ tối đa!\nDòng VOLTGUARD P gây ấn tượng với khả năng chống nước IP67, động cơ khỏe và thiết kế chắc chắn, là lựa chọn lý tưởng cho người dùng cần xe điện bền và ổn định.\nƯu điểm vượt trội:\n\nPin Graphene siêu bền – sạc nhanh, tiết kiệm điện\n\nTốc độ ổn định, khả năng leo dốc mạnh\n\nTrang bị hệ thống phanh đĩa an toàn trước/sau\n\nThiết kế mạnh mẽ, sang trọng, phù hợp cả nam lẫn nữ\n⚡ VOLTGUARD P – bền bỉ từng km, an toàn mọi hành trình!\n\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042\n✨ YADEA ODORA – Classic tinh tế, phong cách tuổi trẻ!''",
+    "colorVariant": [
+      "Trắng",
+      "Xám",
+      "Xanh",
+      "Đen"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "Ắc quy Graphene TTFAR"
+    ],
+    "variantPrice": [
+      [
+        27990000,
+        29990000
+      ],
+      [
+        28990000,
+        30990000
+      ],
+      [
+        29990000,
+        31990000
+      ],
+      [
+        30990000,
+        32990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "voltguard-p",
+    "originalPrice": 31100000,
+    "discount": 10,
+    "rating": 4.7,
+    "soldCount": 658,
+    "soldDisplay": "500+",
+    "stock": 50,
+    "badges": [
+      "Mới về",
+      "OKXE Mall",
+      "Freeship"
+    ],
+    "categoryId": 1,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 29,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Xanh.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Xanh.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Hong.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/BearHong.png"
+    ],
+    "name": "YADEA OCEAN",
+    "price": 16990000,
+    "model": "YADEA OCEAN",
+    "description": "''\n🌊 YADEA OCEAN – LÁI CHẤT TỪNG KHOẢNH KHẮC ⚡\n\nKhám phá hành trình mới cùng YADEA OCEAN – chiếc xe điện thời trang, mạnh mẽ và cực kỳ thông minh!\nTrang bị động cơ GTR 3.0 công suất 1600W, tăng tốc nhanh, vận hành êm và tiết kiệm điện vượt trội.\nSử dụng Ắc quy Graphene TTFAR thế hệ mới, sạc nhanh – bền bỉ – đi xa tới 80 km/lần sạc, tuổi thọ cao gấp 3 lần ắc quy thường.\nTích hợp Smart Key, màn hình LED hiện đại, phanh đĩa CBS an toàn, cùng hệ thống Smart Controller tối ưu hiệu suất.\nThiết kế lấy cảm hứng từ đại dương – mềm mại, hiện đại, đậm chất trẻ trung, cốp rộng, đèn LED toàn xe.\nThân thiện môi trường, chi phí vận hành chỉ ~300đ/km, hoàn hảo cho học sinh, sinh viên và dân văn phòng.\n\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042\n✨ YADEA ODORA – Classic tinh tế, phong cách tuổi trẻ!''",
+    "colorVariant": [
+      "Xanh",
+      "Hồng",
+      "Trắng",
+      "Bear hồng"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "Ắc quy Graphene TTFAR"
+    ],
+    "variantPrice": [
+      [
+        16990000,
+        18990000
+      ],
+      [
+        17990000,
+        19990000
+      ],
+      [
+        18990000,
+        20990000
+      ],
+      [
+        19990000,
+        21990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "yadea-ocean",
+    "originalPrice": 19089888,
+    "discount": 11,
+    "rating": 4.9,
+    "soldCount": 26,
+    "soldDisplay": "10+",
+    "stock": 5,
+    "badges": [
+      "OKXE Mall"
+    ],
+    "categoryId": 1,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 30,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/TimTrang.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/TimTrang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/XanhTrang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/Tim.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/Trang.png"
+    ],
+    "name": "YADEA iCUTE",
+    "price": 14490000,
+    "model": "YADEA iCUTE",
+    "description": "''\n💖 YADEA iCUTE\n\nDễ thương – nhỏ gọn – tiện lợi cho phái nữ!\nYADEA iCUTE là dòng xe điện mini được yêu thích nhờ thiết kế dễ thương, nhẹ nhàng và cực kỳ thân thiện với người dùng mới.\nĐiểm nổi bật:\n\nTrọng lượng nhẹ, dễ điều khiển, yên thấp phù hợp nữ giới\n\nQuãng đường 70km/lần sạc – tiết kiệm điện tối đa\n\nCốp rộng, sạc điện thoại tiện lợi, có móc treo đồ\n\nNhiều pastel xinh xắn: Hồng, Trắng, Xanh ngọc, Be\n🌸 YADEA iCUTE – nhỏ nhắn, đáng yêu và đầy tiện nghi!\n\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042\n✨ YADEA ODORA – Classic tinh tế, phong cách tuổi trẻ!''",
+    "colorVariant": [
+      "Tím trắng",
+      "Xanh trắng",
+      "Tím",
+      "Trắng"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "Ắc quy Graphene TTFAR"
+    ],
+    "variantPrice": [
+      [
+        14490000,
+        16490000
+      ],
+      [
+        15490000,
+        17490000
+      ],
+      [
+        16490000,
+        18490000
+      ],
+      [
+        17490000,
+        19490000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "yadea-icute",
+    "originalPrice": 17457831,
+    "discount": 17,
+    "rating": 4.3,
+    "soldCount": 82,
+    "soldDisplay": "50+",
+    "stock": 32,
+    "badges": [
+      "Freeship",
+      "Bán chạy"
+    ],
+    "categoryId": 1,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 31,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": null,
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/trang.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/xanh.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/xam.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/den.png"
+    ],
+    "name": "YADEA ODORA S",
+    "price": 16500000,
+    "model": "YADEA ODORA S",
+    "description": "''\n⚡ YADEA ODORA – PHONG CÁCH CLASSIC, NĂNG LƯỢNG TRẺ! 🚀\n\nTự tin đến trường mỗi ngày cùng YADEA ODORA – chiếc xe điện Classic hiện đại dành riêng cho học sinh năng động!\nTrang bị động cơ GTR 3.0 công suất tối đa 1500W, cho khả năng tăng tốc mạnh mẽ, vận hành êm và bền bỉ trên mọi cung đường.\nSử dụng Ắc quy Graphene TTFAR thế hệ mới, sạc nhanh – bền – đi xa tới 80 km/lần sạc, thoải mái di chuyển cả tuần học.\nTích hợp Smart Key thông minh, tiện lợi và hiện đại khi sử dụng hằng ngày.\nThiết kế Classic pha hiện đại, đường nét bo tròn mềm mại, màu sắc trẻ trung phù hợp cả nam lẫn nữ.\nMàn hình LED hiển thị rõ nét, đèn LED toàn xe sáng rõ, cốp rộng đựng balo, áo mưa hay vật dụng cá nhân.\nChi phí vận hành chỉ ~300đ/km, cực kỳ tiết kiệm và thân thiện với môi trường!\n\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042\n✨ YADEA ODORA – Classic tinh tế, phong cách tuổi trẻ!''",
+    "colorVariant": [
+      "Trắng",
+      "Xanh",
+      "Xám",
+      "Đen"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "Ắc quy Graphene TTFAR"
+    ],
+    "variantPrice": [
+      [
+        16500000,
+        18500000
+      ],
+      [
+        17500000,
+        19500000
+      ],
+      [
+        18500000,
+        20500000
+      ],
+      [
+        19500000,
+        21500000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "yadea-odora-s",
+    "originalPrice": 20625000,
+    "discount": 20,
+    "rating": 5,
+    "soldCount": 222,
+    "soldDisplay": "100+",
+    "stock": 6,
+    "badges": [
+      "OKXE Mall",
+      "Mới về",
+      "Giảm sốc"
+    ],
+    "categoryId": 1,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 32,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/trang.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/xam.png"
+    ],
+    "name": "YADEA VIGOR",
+    "price": 15990000,
+    "model": "YADEA VIGOR",
+    "description": "''\n🏁 YADEA VIGOR (Phiên bản tiêu chuẩn)\n\nĐậm chất thể thao – vận hành bền bỉ – giá cực tốt!\nYADEA VIGOR là dòng xe điện “quốc dân” của YADEA, được ưa chuộng bởi hiệu năng mạnh mẽ và độ bền cao.\nTính năng nổi bật:\n\nĐộng cơ GTR 1200W mạnh mẽ, leo dốc cực tốt\n\nPin Graphene hoặc Lithium tùy chọn – sạc nhanh, tuổi thọ cao\n\nKhung thép chịu lực – vận hành ổn định, bền bỉ\n\nPhù hợp học sinh, sinh viên, nhân viên văn phòng\n💥 YADEA VIGOR – mạnh mẽ, tiết kiệm và bền bỉ vượt thời gian!\n\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042\n✨ YADEA ODORA – Classic tinh tế, phong cách tuổi trẻ!''",
+    "variantPrice": [
+      [
+        15990000,
+        17990000
+      ],
+      [
+        16990000,
+        18990000
+      ],
+      [
+        17990000,
+        19990000
+      ],
+      [
+        18990000,
+        20990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "yadea-vigor",
+    "originalPrice": 19035714,
+    "discount": 16,
+    "rating": 4.7,
+    "soldCount": 35,
+    "soldDisplay": "10+",
+    "stock": 9,
+    "badges": [
+      "Giảm sốc"
+    ],
+    "categoryId": 1,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 33,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/XanhLa.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/XanhLa.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/Do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/Trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/Den.png"
+    ],
+    "name": "YADEA VEKOO",
+    "price": 14990000,
+    "model": "YADEA VEKOO",
+    "description": "''\n⚡ YADEA VEKOO – NHỎ GỌN, TIỆN LỢI, NĂNG LƯỢNG CHO CUỘC SỐNG HIỆN ĐẠI! 🌿\n\nYADEA VEKOO mang đến trải nghiệm di chuyển thông minh và phong cách cho mọi lứa tuổi – từ học sinh, sinh viên đến nhân viên văn phòng.\nTrang bị động cơ GTR 3.0 công suất 1000W, vận hành mạnh mẽ, êm ái và bền bỉ.\nSử dụng Ắc quy Graphene TTFAR thế hệ mới, sạc nhanh – bền – di chuyển tới 80 km/lần sạc, đáp ứng mọi nhu cầu hằng ngày.\nTích hợp công nghệ AIGo thông minh cho khởi động nhanh, nhận diện tiện lợi, cùng hệ thống chống trộm điện tử an toàn tuyệt đối.\nThiết kế nhỏ gọn – hiện đại – dễ điều khiển, phù hợp cả nam và nữ.\nMàn hình LED hiển thị sắc nét, đèn LED toàn xe sáng rõ, cốp rộng đựng balo, áo mưa hay vật dụng cá nhân.\nChi phí vận hành chỉ ~300đ/km, cực kỳ tiết kiệm và thân thiện với môi trường.\n\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042✨ YADEA VEkoo – Nhỏ gọn thông minh, di chuyển phong cách!''",
+    "colorVariant": [
+      "Xanh lá",
+      "Đỏ",
+      "Trắng",
+      "Đen"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "Ắc quy Graphene TTFAR"
+    ],
+    "variantPrice": [
+      [
+        14990000,
+        16990000
+      ],
+      [
+        15990000,
+        17990000
+      ],
+      [
+        16990000,
+        18990000
+      ],
+      [
+        17990000,
+        19990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "yadea-vekoo",
+    "originalPrice": 15946809,
+    "discount": 6,
+    "rating": 4.9,
+    "soldCount": 72,
+    "soldDisplay": "50+",
+    "stock": 9,
+    "badges": [
+      "Freeship"
+    ],
+    "categoryId": 5,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 34,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/trang.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/xam.png"
+    ],
+    "name": "YADEA X-Zone",
+    "price": 14990000,
+    "model": "YADEA X-Zone",
+    "description": "''\n⚡ YADEA X-ZONE\n\nCá tính – thể thao – dẫn đầu phong cách đường phố!\nYADEA X-ZONE là lựa chọn hàng đầu cho giới trẻ yêu tốc độ và phong cách. Thiết kế đậm chất thể thao, đường nét góc cạnh, đèn LED toàn phần cực ngầu.\nĐiểm nổi bật:\n\nĐộng cơ GTR công suất 1200W, vận tốc tối đa 60 km/h\n\nPin Graphene bền bỉ, quãng đường 90 km/lần sạc\n\nKhung thép chịu lực, phanh đĩa trước/sau cực an toàn\n\nMàu sắc nổi bật: Đen nhám, Xám, Trắng\n🔥 YADEA X-ZONE – đỉnh cao phong cách, bứt phá giới hạn!\n\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042✨ YADEA VEkoo – Nhỏ gọn thông minh, di chuyển phong cách!''",
+    "colorVariant": [
+      "Trắng",
+      "Đen",
+      "Xám"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "Ắc quy Graphene"
+    ],
+    "variantPrice": [
+      [
+        14990000,
+        16990000
+      ],
+      [
+        15990000,
+        17990000
+      ],
+      [
+        16990000,
+        18990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ]
+    ],
+    "slug": "yadea-x-zone",
+    "originalPrice": 23061538,
+    "discount": 35,
+    "rating": 4.3,
+    "soldCount": 88,
+    "soldDisplay": "50+",
+    "stock": 30,
+    "badges": [
+      "Mới về",
+      "Giảm sốc",
+      "Bán chạy"
+    ],
+    "categoryId": 6,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 35,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/do.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/do.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/xanh.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/denxanh.png"
+    ],
+    "name": "YADEA XMEN NEO",
+    "price": 15990000,
+    "model": "YADEA XMEN NEO",
+    "description": "''\n🚀 YADEA XMEN NEO\n\nBiểu tượng sức mạnh – thiết kế chuẩn “chiến binh”!\nXMEN NEO là dòng xe điện thể thao cực hot, mang lại cảm giác lái mạnh mẽ và ổn định. Thiết kế góc cạnh, năng động, phù hợp với học sinh và người trẻ yêu công nghệ.\nTính năng nổi bật:\n\nĐộng cơ GTR 1500W, tăng tốc nhanh – vận hành mượt\n\nPin LFP cao cấp, tuổi thọ trên 1.000 chu kỳ sạc\n\nHệ thống giảm xóc kép, phanh đĩa an toàn\n\nĐèn LED 3 tầng chiếu sáng cực tốt ban đêm\n⚡ YADEA XMEN NEO – mạnh mẽ, thời thượng, luôn sẵn sàng chinh phục!\n\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042✨ YADEA VEkoo – Nhỏ gọn thông minh, di chuyển phong cách!''",
+    "variantPrice": [
+      [
+        15990000,
+        17990000
+      ],
+      [
+        16990000,
+        18990000
+      ],
+      [
+        17990000,
+        19990000
+      ],
+      [
+        18990000,
+        20990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "yadea-xmen-neo",
+    "originalPrice": 17193548,
+    "discount": 7,
+    "rating": 4,
+    "soldCount": 594,
+    "soldDisplay": "500+",
+    "stock": 39,
+    "badges": [
+      "OKXE Mall",
+      "Freeship"
+    ],
+    "categoryId": 3,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  },
+  {
+    "id": 36,
+    "storeId": 2,
+    "brand": "Yadea",
+    "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
+    "videoUrl": "Link",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/beige.png",
+    "images": [
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/beige.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/den.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/trang.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/xam.png"
+    ],
+    "name": "YADEA X-Sky",
+    "price": 10990000,
+    "model": "YADEA X-Sky",
+    "description": "''\n🌈 YADEA X-SKY\n\nPhong cách trẻ trung – tiết kiệm điện – cực kỳ bền bỉ!\nYADEA X-SKY là mẫu xe điện tối ưu cho di chuyển hằng ngày. Với thiết kế hiện đại, nhẹ nhàng và nhiều màu sắc năng động, X-SKY phù hợp cho cả học sinh, sinh viên và dân văn phòng.\nƯu điểm nổi bật:\n\nPin Graphene công nghệ mới – quãng đường đến 100 km/lần sạc\n\nĐộng cơ 1000W ổn định, tiết kiệm năng lượng\n\nĐèn LED toàn xe – chống nước chuẩn IPX7\n\nMàu sắc tươi sáng: Trắng, Beige\n🌟 YADEA X-SKY – lựa chọn thông minh cho phong cách di chuyển xanh!\n\n📍 YADEA OKXE – 679 LẠC LONG QUÂN\n📞 0983 040 042✨ YADEA VEkoo – Nhỏ gọn thông minh, di chuyển phong cách!''",
+    "colorVariant": [
+      "Beige",
+      "Đen",
+      "Trắng",
+      "Xám"
+    ],
+    "pinVariant": [
+      "Bản tiêu chuẩn",
+      "Ắc quy Graphene TTFAR"
+    ],
+    "variantPrice": [
+      [
+        10990000,
+        12990000
+      ],
+      [
+        11990000,
+        13990000
+      ],
+      [
+        12990000,
+        14990000
+      ],
+      [
+        13990000,
+        15990000
+      ]
+    ],
+    "variantQuantity": [
+      [
+        7,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        5,
+        5
+      ]
+    ],
+    "slug": "yadea-x-sky",
+    "originalPrice": 12348315,
+    "discount": 11,
+    "rating": 4.2,
+    "soldCount": 3183,
+    "soldDisplay": "1000+",
+    "stock": 25,
+    "badges": [
+      "Bán chạy"
+    ],
+    "categoryId": 3,
+    "specifications": {
+      "brand": "Yadea",
+      "warranty": "12 tháng",
+      "origin": "Vietnam",
+      "condition": "Mới 100%"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Xe máy điện",
+        "slug": "xe-may-dien",
+        "image": "assets/images/categories/xe-may-dien.png",
+        "createdAt": "2025-10-21T14:59:16.799Z",
+        "updatedAt": "2025-10-21T14:59:16.799Z"
+    },
+    {
+        "id": 2,
+        "name": "Phụ kiện xe máy",
+        "slug": "phu-kien-xe-may",
+        "image": "assets/images/categories/phu-kien-xe-may.png",
+        "createdAt": "2025-10-21T14:59:16.799Z",
+        "updatedAt": "2025-10-21T14:59:16.799Z"
+    },
+    {
+        "id": 3,
+        "name": "Phụ tùng",
+        "slug": "phu-tung",
+        "image": "assets/images/categories/phu-tung.png",
+        "createdAt": "2025-10-21T14:59:16.799Z",
+        "updatedAt": "2025-10-21T14:59:16.799Z"
+    },
+    {
+        "id": 4,
+        "name": "Xe xang",
+        "slug": "xe-xang",
+        "image": "assets/images/categories/xe-xang.png",
+        "createdAt": "2025-10-21T14:59:16.799Z",
+        "updatedAt": "2025-10-21T14:59:16.799Z"
+    },
+    {
+        "id": 5,
+        "name": "Xe hoi xang",
+        "slug": "xe-hoi-xang",
+        "image": "assets/images/categories/xe-hoi-xang.png",
+        "createdAt": "2025-10-21T14:59:16.799Z",
+        "updatedAt": "2025-10-21T14:59:16.799Z"
+    },
+    {
+        "id": 6,
+        "name": "Xe hoi dien",
+        "slug": "xe-hoi-dien",
+        "image": "assets/images/categories/xe-hoi-dien.png",
+        "createdAt": "2025-10-21T14:59:16.799Z",
+        "updatedAt": "2025-10-21T14:59:16.799Z"
+    }
+]
