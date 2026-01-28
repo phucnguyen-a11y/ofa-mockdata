@@ -166,9 +166,9 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/den.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/3-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/3-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/3-3.png"
     ],
     "name": "THEON S",
     "price": 56900000,
@@ -212,7 +212,7 @@
       ]
     ],
     "slug": "theon-s",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/trang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/3-1.png",
     "originalPrice": 74868421,
     "discount": 24,
     "rating": 4.8,
@@ -238,10 +238,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/xanhduong.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/xanhreu.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/4-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/4-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/4-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/4-4.png"
     ],
     "name": "KLARA S2",
     "price": 30000000,
@@ -294,7 +294,7 @@
       ]
     ],
     "slug": "klara-s2",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/trang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/4-1.png",
     "originalPrice": 48387097,
     "discount": 38,
     "rating": 4.3,
@@ -318,9 +318,9 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/trang.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/5-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/5-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/5-3.png"
     ],
     "name": "KLARA NEO",
     "price": 28800000,
@@ -364,7 +364,7 @@
       ]
     ],
     "slug": "klara-neo",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/do.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/5-1.png",
     "originalPrice": 33882353,
     "discount": 15,
     "rating": 4.9,
@@ -390,10 +390,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/bac.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/xanhreu.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/do.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/6-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/6-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/6-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/6-4.png"
     ],
     "name": "FELIZ S",
     "price": 29700000,
@@ -446,7 +446,7 @@
       ]
     ],
     "slug": "feliz-s",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/bac.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/6-1.png",
     "originalPrice": 31935484,
     "discount": 7,
     "rating": 4.6,
@@ -470,10 +470,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/xanholiu.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/xanhreu.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/trang.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/7-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/7-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/7-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/7-4.png"
     ],
     "name": "FELIZ LITE",
     "price": 25900000,
@@ -526,7 +526,7 @@
       ]
     ],
     "slug": "feliz-lite",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/xanholiu.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/7-1.png",
     "originalPrice": 27553191,
     "discount": 6,
     "rating": 4.5,
@@ -552,10 +552,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/xam.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/trang.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/8-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/8-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/8-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/8-4.png"
     ],
     "name": "FELIZ NEO",
     "price": 22400000,
@@ -608,7 +608,7 @@
       ]
     ],
     "slug": "feliz-neo",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/do.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/8-1.png",
     "originalPrice": 32463768,
     "discount": 31,
     "rating": 4.7,
@@ -633,10 +633,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/vang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/xanholiu.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/trang.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/9-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/9-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/9-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/9-4.png"
     ],
     "name": "FELIZ 2025",
     "price": 25900000,
@@ -689,7 +689,7 @@
       ]
     ],
     "slug": "feliz-2025",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/vang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/9-1.png",
     "originalPrice": 30116279,
     "discount": 14,
     "rating": 4.3,
@@ -714,10 +714,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/xanhreu.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/10-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/10-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/10-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/10-4.png"
     ],
     "name": "EVO NEO",
     "price": 17800000,
@@ -770,7 +770,7 @@
       ]
     ],
     "slug": "evo-neo",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/do.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/10-1.png",
     "originalPrice": 25428571,
     "discount": 30,
     "rating": 5,
@@ -795,10 +795,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/xanhtim.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/xanhreu.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/11-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/11-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/11-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/11-4.png"
     ],
     "name": "EVO LITE NEO",
     "price": 14400000,
@@ -851,7 +851,7 @@
       ]
     ],
     "slug": "evo-lite-neo",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/do.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/11-1.png",
     "originalPrice": 22500000,
     "discount": 36,
     "rating": 4.6,
@@ -875,10 +875,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/xanholiu.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/vang.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/12-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/12-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/12-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/12-4.png"
     ],
     "name": "EVO GRAND",
     "price": 21000000,
@@ -931,7 +931,7 @@
       ]
     ],
     "slug": "evo-grand",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/trang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/12-1.png",
     "originalPrice": 23595506,
     "discount": 11,
     "rating": 4.5,
@@ -958,10 +958,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/vang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/lavender.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/trang.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/13-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/13-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/13-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/13-4.png"
     ],
     "name": "EVO GRAND LITE",
     "price": 18000000,
@@ -1014,7 +1014,7 @@
       ]
     ],
     "slug": "evo-grand-lite",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/vang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/13-1.png",
     "originalPrice": 22500000,
     "discount": 20,
     "rating": 4.3,
@@ -1039,10 +1039,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/vang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/xanh.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/den.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/14-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/14-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/14-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/14-4.png"
     ],
     "name": "EVO200",
     "price": 22000000,
@@ -1095,7 +1095,7 @@
       ]
     ],
     "slug": "evo200",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/vang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/14-1.png",
     "originalPrice": 31428571,
     "discount": 30,
     "rating": 4.7,
@@ -1120,10 +1120,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/xanhtim.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/vang.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/15-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/15-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/15-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/15-4.png"
     ],
     "name": "EVO200 LITE",
     "price": 22000000,
@@ -1176,7 +1176,7 @@
       ]
     ],
     "slug": "evo200-lite",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/do.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/15-1.png",
     "originalPrice": 32835821,
     "discount": 33,
     "rating": 4,
@@ -1201,10 +1201,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/hong.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/vang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/trang.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/16-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/16-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/16-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/16-4.png"
     ],
     "name": "MOTIO",
     "price": 12000000,
@@ -1257,7 +1257,7 @@
       ]
     ],
     "slug": "motio",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/hong.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/16-1.png",
     "originalPrice": 16666667,
     "discount": 28,
     "rating": 4.7,
@@ -1282,12 +1282,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/trang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/21-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/xam.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/21-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/21-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/21-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/21-4.png"
     ],
     "name": "VOLTGUARD U",
     "price": 38990000,
@@ -1364,11 +1364,11 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/trang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/22-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/xam.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/%C4%91en.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/22-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/22-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/22-3.png"
     ],
     "name": "YADEA VELAX",
     "price": 29990000,
@@ -1435,12 +1435,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/XanhTruc.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/23-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/XanhTruc.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/Kem.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/Den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/XanhDuong.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/23-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/23-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/23-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/23-4.png"
     ],
     "name": "YADEA ORLA P",
     "price": 20490000,
@@ -1518,12 +1518,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/kem.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/24-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/kem.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/tim.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/trang.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/24-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/24-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/24-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/24-4.png"
     ],
     "name": "YADEA Oris",
     "price": 22990000,
@@ -1601,12 +1601,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-xanhtruc.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/25-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-xanhtruc.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-xanh.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-den.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/25-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/25-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/25-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/25-4.png"
     ],
     "name": "Ossy",
     "price": 21990000,
@@ -1683,12 +1683,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/trang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/26-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/xanh.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/xamthan.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/den.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/26-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/26-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/26-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/26-4.png"
     ],
     "name": "YADEA ODORA S2",
     "price": 16500000,
@@ -1765,12 +1765,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/be.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/27-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/be.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/xam.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/xamden.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/27-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/27-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/27-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/27-4.png"
     ],
     "name": "YADEA VIGOR nâng cấp",
     "price": 15990000,
@@ -1847,12 +1847,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": null,
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/trang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/28-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/xam.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/xanh.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/den.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/28-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/28-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/28-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/28-4.png"
     ],
     "name": "VOLTGUARD P",
     "price": 27990000,
@@ -1930,12 +1930,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Xanh.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/29-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Xanh.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Hong.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/BearHong.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/29-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/29-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/29-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/29-4.png"
     ],
     "name": "YADEA OCEAN",
     "price": 16990000,
@@ -2011,12 +2011,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/TimTrang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/30-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/TimTrang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/XanhTrang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/Tim.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/Trang.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/30-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/30-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/30-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/30-4.png"
     ],
     "name": "YADEA iCUTE",
     "price": 14490000,
@@ -2093,12 +2093,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": null,
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/trang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/31-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/xanh.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/xam.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/den.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/31-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/31-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/31-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/31-4.png"
     ],
     "name": "YADEA ODORA S",
     "price": 16500000,
@@ -2176,12 +2176,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/trang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/32-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/xam.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/32-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/32-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/32-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/32-4.png"
     ],
     "name": "YADEA VIGOR",
     "price": 15990000,
@@ -2247,12 +2247,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/XanhLa.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/33-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/XanhLa.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/Do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/Trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/Den.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/33-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/33-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/33-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/33-4.png"
     ],
     "name": "YADEA VEKOO",
     "price": 14990000,
@@ -2328,11 +2328,11 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/trang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/34-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/xam.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/34-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/34-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/34-3.png"
     ],
     "name": "YADEA X-Zone",
     "price": 14990000,
@@ -2401,12 +2401,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/do.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/35-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/xanh.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/denxanh.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/35-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/35-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/35-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/35-4.png"
     ],
     "name": "YADEA XMEN NEO",
     "price": 15990000,
@@ -2473,12 +2473,12 @@
     "brand": "Yadea",
     "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
     "videoUrl": "Link",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/beige.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/36-1.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/beige.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/den.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/xam.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/36-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/36-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/36-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/36-4.png"
     ],
     "name": "YADEA X-Sky",
     "price": 10990000,

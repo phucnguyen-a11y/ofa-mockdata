@@ -29,5 +29,27 @@
         "priority": 3,
         "createdAt": "2026-01-01T00:00:00Z",
         "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "4",
+        "imageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-4.jpeg",
+        "mobileImageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-4.jpeg",
+        "link": "/shipping-policy",
+        "type": "announcement",
+        "position": "home_top",
+        "priority": 4,
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+        "id": "5",
+        "imageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-5.jpeg",
+        "mobileImageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-5.jpeg",
+        "link": "/shipping-policy",
+        "type": "announcement",
+        "position": "home_top",
+        "priority": 3,
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-01-01T00:00:00Z"
     }
 ]

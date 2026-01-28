@@ -217,9 +217,9 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/den.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/3-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/3-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/3-3.png"
       ],
       "name": "THEON S",
       "price": 56900000,
@@ -263,7 +263,7 @@
         ]
       ],
       "slug": "theon-s",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Theon+S/trang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/3-1.png",
       "originalPrice": 74868421,
       "discount": 24,
       "rating": 4.8,
@@ -289,10 +289,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/xanhduong.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/xanhreu.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/4-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/4-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/4-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/4-4.png"
       ],
       "name": "KLARA S2",
       "price": 30000000,
@@ -345,7 +345,7 @@
         ]
       ],
       "slug": "klara-s2",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+S2/trang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/4-1.png",
       "originalPrice": 48387097,
       "discount": 38,
       "rating": 4.3,
@@ -369,9 +369,9 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/trang.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/5-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/5-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/5-3.png"
       ],
       "name": "KLARA NEO",
       "price": 28800000,
@@ -415,7 +415,7 @@
         ]
       ],
       "slug": "klara-neo",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/KLARA+NEO/do.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/5-1.png",
       "originalPrice": 33882353,
       "discount": 15,
       "rating": 4.9,
@@ -441,10 +441,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/bac.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/xanhreu.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/do.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/6-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/6-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/6-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/6-4.png"
       ],
       "name": "FELIZ S",
       "price": 29700000,
@@ -497,7 +497,7 @@
         ]
       ],
       "slug": "feliz-s",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+S/bac.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/6-1.png",
       "originalPrice": 31935484,
       "discount": 7,
       "rating": 4.6,
@@ -521,10 +521,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/xanholiu.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/xanhreu.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/trang.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/7-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/7-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/7-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/7-4.png"
       ],
       "name": "FELIZ LITE",
       "price": 25900000,
@@ -577,7 +577,7 @@
         ]
       ],
       "slug": "feliz-lite",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+LITE/xanholiu.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/7-1.png",
       "originalPrice": 27553191,
       "discount": 6,
       "rating": 4.5,
@@ -603,10 +603,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/xam.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/trang.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/8-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/8-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/8-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/8-4.png"
       ],
       "name": "FELIZ NEO",
       "price": 22400000,
@@ -659,7 +659,7 @@
         ]
       ],
       "slug": "feliz-neo",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+NEO/do.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/8-1.png",
       "originalPrice": 32463768,
       "discount": 31,
       "rating": 4.7,
@@ -684,10 +684,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/vang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/xanholiu.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/trang.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/9-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/9-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/9-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/9-4.png"
       ],
       "name": "FELIZ 2025",
       "price": 25900000,
@@ -740,7 +740,7 @@
         ]
       ],
       "slug": "feliz-2025",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/FELIZ+2025/vang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/9-1.png",
       "originalPrice": 30116279,
       "discount": 14,
       "rating": 4.3,
@@ -765,10 +765,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/xanhreu.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/10-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/10-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/10-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/10-4.png"
       ],
       "name": "EVO NEO",
       "price": 17800000,
@@ -821,7 +821,7 @@
         ]
       ],
       "slug": "evo-neo",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+NEO/do.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/10-1.png",
       "originalPrice": 25428571,
       "discount": 30,
       "rating": 5,
@@ -846,10 +846,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/xanhtim.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/xanhreu.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/11-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/11-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/11-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/11-4.png"
       ],
       "name": "EVO LITE NEO",
       "price": 14400000,
@@ -902,7 +902,7 @@
         ]
       ],
       "slug": "evo-lite-neo",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+LITE+NEO/do.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/11-1.png",
       "originalPrice": 22500000,
       "discount": 36,
       "rating": 4.6,
@@ -926,10 +926,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/xanholiu.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/vang.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/12-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/12-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/12-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/12-4.png"
       ],
       "name": "EVO GRAND",
       "price": 21000000,
@@ -982,7 +982,7 @@
         ]
       ],
       "slug": "evo-grand",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND/trang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/12-1.png",
       "originalPrice": 23595506,
       "discount": 11,
       "rating": 4.5,
@@ -1009,10 +1009,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/vang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/lavender.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/trang.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/13-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/13-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/13-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/13-4.png"
       ],
       "name": "EVO GRAND LITE",
       "price": 18000000,
@@ -1065,7 +1065,7 @@
         ]
       ],
       "slug": "evo-grand-lite",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO+GRAND+LITE/vang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/13-1.png",
       "originalPrice": 22500000,
       "discount": 20,
       "rating": 4.3,
@@ -1090,10 +1090,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/vang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/xanh.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/den.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/14-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/14-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/14-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/14-4.png"
       ],
       "name": "EVO200",
       "price": 22000000,
@@ -1146,7 +1146,7 @@
         ]
       ],
       "slug": "evo200",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200/vang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/14-1.png",
       "originalPrice": 31428571,
       "discount": 30,
       "rating": 4.7,
@@ -1171,10 +1171,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/xanhtim.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/vang.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/15-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/15-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/15-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/15-4.png"
       ],
       "name": "EVO200 LITE",
       "price": 22000000,
@@ -1227,7 +1227,7 @@
         ]
       ],
       "slug": "evo200-lite",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/EVO200+LITE/do.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/15-1.png",
       "originalPrice": 32835821,
       "discount": 33,
       "rating": 4,
@@ -1252,10 +1252,10 @@
       "brand": "Vinfast",
       "brandImage": "assets/images/brands/vinfast.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/hong.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/vang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/trang.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/16-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/16-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/16-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/16-4.png"
       ],
       "name": "MOTIO",
       "price": 12000000,
@@ -1308,7 +1308,7 @@
         ]
       ],
       "slug": "motio",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/MOTIO/hong.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/16-1.png",
       "originalPrice": 16666667,
       "discount": 28,
       "rating": 4.7,
@@ -1333,12 +1333,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/trang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/21-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+U/xam.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/21-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/21-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/21-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/21-4.png"
       ],
       "name": "VOLTGUARD U",
       "price": 38990000,
@@ -1415,11 +1415,11 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/trang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/22-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/xam.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VELAX/%C4%91en.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/22-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/22-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/22-3.png"
       ],
       "name": "YADEA VELAX",
       "price": 29990000,
@@ -1486,12 +1486,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/XanhTruc.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/23-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/XanhTruc.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/Kem.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/Den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ORLA+P/XanhDuong.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/23-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/23-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/23-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/23-4.png"
       ],
       "name": "YADEA ORLA P",
       "price": 20490000,
@@ -1569,12 +1569,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/kem.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/24-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/kem.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/tim.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Oris/trang.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/24-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/24-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/24-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/24-4.png"
       ],
       "name": "YADEA Oris",
       "price": 22990000,
@@ -1652,12 +1652,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-xanhtruc.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/25-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-xanhtruc.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-xanh.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+Ossy/OSSY-den.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/25-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/25-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/25-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/25-4.png"
       ],
       "name": "Ossy",
       "price": 21990000,
@@ -1734,12 +1734,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/trang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/26-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/xanh.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/xamthan.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S2/den.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/26-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/26-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/26-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/26-4.png"
       ],
       "name": "YADEA ODORA S2",
       "price": 16500000,
@@ -1816,12 +1816,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/be.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/27-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/be.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/xam.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR+na%CC%82ng+ca%CC%82%CC%81p/xamden.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/27-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/27-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/27-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/27-4.png"
       ],
       "name": "YADEA VIGOR nâng cấp",
       "price": 15990000,
@@ -1898,12 +1898,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": null,
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/trang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/28-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/xam.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/xanh.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/VOLTGUARD+P/den.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/28-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/28-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/28-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/28-4.png"
       ],
       "name": "VOLTGUARD P",
       "price": 27990000,
@@ -1981,12 +1981,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Xanh.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/29-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Xanh.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Hong.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/Trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+OCEAN/BearHong.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/29-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/29-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/29-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/29-4.png"
       ],
       "name": "YADEA OCEAN",
       "price": 16990000,
@@ -2062,12 +2062,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/TimTrang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/30-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/TimTrang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/XanhTrang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/Tim.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+iCUTE/Trang.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/30-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/30-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/30-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/30-4.png"
       ],
       "name": "YADEA iCUTE",
       "price": 14490000,
@@ -2144,12 +2144,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": null,
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/trang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/31-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/xanh.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/xam.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+ODORA+S/den.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/31-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/31-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/31-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/31-4.png"
       ],
       "name": "YADEA ODORA S",
       "price": 16500000,
@@ -2227,12 +2227,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/trang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/32-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VIGOR/xam.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/32-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/32-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/32-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/32-4.png"
       ],
       "name": "YADEA VIGOR",
       "price": 15990000,
@@ -2298,12 +2298,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/XanhLa.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/33-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/XanhLa.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/Do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/Trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+VEKOO/Den.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/33-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/33-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/33-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/33-4.png"
       ],
       "name": "YADEA VEKOO",
       "price": 14990000,
@@ -2379,11 +2379,11 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/trang.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/34-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Zone/xam.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/34-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/34-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/34-3.png"
       ],
       "name": "YADEA X-Zone",
       "price": 14990000,
@@ -2452,12 +2452,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/do.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/35-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/do.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/xanh.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+XMEN+NEO/denxanh.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/35-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/35-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/35-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/35-4.png"
       ],
       "name": "YADEA XMEN NEO",
       "price": 15990000,
@@ -2524,12 +2524,12 @@
       "brand": "Yadea",
       "brandImage": "https://cdn.okxe.vn/stores/avatar/414/1717414/8jMVDb47KHBgitNE69uJr8Ox7EHU2oLyCsSlHgLU.jpg",
       "videoUrl": "Link",
-      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/beige.png",
+      "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/36-1.png",
       "images": [
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/beige.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/den.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/trang.png",
-        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/yadea/YADEA+X-Sky/xam.png"
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/36-1.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/36-2.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/36-3.png",
+        "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/36-4.png"
       ],
       "name": "YADEA X-Sky",
       "price": 10990000,
@@ -3608,8 +3608,8 @@
       "images": [],
       "helpful": 20,
       "verified": true,
-      "createdAt": "2025-04-04T23:22:04.578Z",
-      "updatedAt": "2026-01-27T12:57:04.405Z"
+      "createdAt": "2025-04-04T23:48:58.635Z",
+      "updatedAt": "2026-01-27T13:23:58.462Z"
     },
     {
       "id": 2,
@@ -3620,8 +3620,8 @@
       "images": [],
       "helpful": 22,
       "verified": true,
-      "createdAt": "2025-07-27T13:25:18.295Z",
-      "updatedAt": "2026-01-27T18:57:36.860Z"
+      "createdAt": "2025-07-27T13:52:12.352Z",
+      "updatedAt": "2026-01-27T19:24:30.917Z"
     },
     {
       "id": 3,
@@ -3632,8 +3632,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-09-09T01:41:46.701Z",
-      "updatedAt": "2026-01-27T11:38:07.745Z"
+      "createdAt": "2025-09-09T02:08:40.758Z",
+      "updatedAt": "2026-01-27T12:05:01.802Z"
     },
     {
       "id": 4,
@@ -3647,8 +3647,8 @@
       ],
       "helpful": 31,
       "verified": true,
-      "createdAt": "2025-12-01T19:39:35.820Z",
-      "updatedAt": "2026-01-27T10:44:13.512Z"
+      "createdAt": "2025-12-01T20:06:29.877Z",
+      "updatedAt": "2026-01-27T11:11:07.569Z"
     },
     {
       "id": 5,
@@ -3659,8 +3659,8 @@
       "images": [],
       "helpful": 30,
       "verified": true,
-      "createdAt": "2025-03-27T09:13:36.727Z",
-      "updatedAt": "2026-01-27T12:24:50.688Z"
+      "createdAt": "2025-03-27T09:40:30.784Z",
+      "updatedAt": "2026-01-27T12:51:44.745Z"
     },
     {
       "id": 6,
@@ -3674,8 +3674,8 @@
       ],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-11-02T16:39:32.642Z",
-      "updatedAt": "2026-01-27T22:58:35.442Z"
+      "createdAt": "2025-11-02T17:06:26.699Z",
+      "updatedAt": "2026-01-27T23:25:29.499Z"
     },
     {
       "id": 7,
@@ -3689,8 +3689,8 @@
       ],
       "helpful": 43,
       "verified": true,
-      "createdAt": "2025-12-06T05:44:38.341Z",
-      "updatedAt": "2026-01-27T17:58:35.151Z"
+      "createdAt": "2025-12-06T06:11:32.398Z",
+      "updatedAt": "2026-01-27T18:25:29.208Z"
     },
     {
       "id": 8,
@@ -3701,8 +3701,8 @@
       "images": [],
       "helpful": 46,
       "verified": true,
-      "createdAt": "2025-05-15T02:56:51.378Z",
-      "updatedAt": "2026-01-27T21:13:13.906Z"
+      "createdAt": "2025-05-15T03:23:45.435Z",
+      "updatedAt": "2026-01-27T21:40:07.963Z"
     },
     {
       "id": 9,
@@ -3715,8 +3715,8 @@
       ],
       "helpful": 27,
       "verified": true,
-      "createdAt": "2025-05-16T17:14:26.667Z",
-      "updatedAt": "2026-01-28T07:00:07.900Z"
+      "createdAt": "2025-05-16T17:41:20.724Z",
+      "updatedAt": "2026-01-28T07:27:01.957Z"
     },
     {
       "id": 10,
@@ -3727,8 +3727,8 @@
       "images": [],
       "helpful": 39,
       "verified": true,
-      "createdAt": "2025-05-20T05:24:55.383Z",
-      "updatedAt": "2026-01-28T00:42:23.475Z"
+      "createdAt": "2025-05-20T05:51:49.440Z",
+      "updatedAt": "2026-01-28T01:09:17.532Z"
     },
     {
       "id": 11,
@@ -3739,8 +3739,8 @@
       "images": [],
       "helpful": 17,
       "verified": false,
-      "createdAt": "2025-10-29T09:01:16.121Z",
-      "updatedAt": "2026-01-27T22:31:04.090Z"
+      "createdAt": "2025-10-29T09:28:10.178Z",
+      "updatedAt": "2026-01-27T22:57:58.147Z"
     },
     {
       "id": 12,
@@ -3755,8 +3755,8 @@
       ],
       "helpful": 0,
       "verified": true,
-      "createdAt": "2026-01-03T12:27:56.839Z",
-      "updatedAt": "2026-01-27T22:42:44.927Z"
+      "createdAt": "2026-01-03T12:54:50.896Z",
+      "updatedAt": "2026-01-27T23:09:38.984Z"
     },
     {
       "id": 13,
@@ -3767,8 +3767,8 @@
       "images": [],
       "helpful": 24,
       "verified": true,
-      "createdAt": "2025-08-14T10:13:51.562Z",
-      "updatedAt": "2026-01-27T10:20:34.794Z"
+      "createdAt": "2025-08-14T10:40:45.619Z",
+      "updatedAt": "2026-01-27T10:47:28.851Z"
     },
     {
       "id": 14,
@@ -3783,8 +3783,8 @@
       ],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-11-12T01:15:35.468Z",
-      "updatedAt": "2026-01-27T18:37:04.718Z"
+      "createdAt": "2025-11-12T01:42:29.525Z",
+      "updatedAt": "2026-01-27T19:03:58.775Z"
     },
     {
       "id": 15,
@@ -3795,8 +3795,8 @@
       "images": [],
       "helpful": 46,
       "verified": true,
-      "createdAt": "2025-07-16T14:20:17.417Z",
-      "updatedAt": "2026-01-27T20:47:36.538Z"
+      "createdAt": "2025-07-16T14:47:11.474Z",
+      "updatedAt": "2026-01-27T21:14:30.595Z"
     },
     {
       "id": 16,
@@ -3807,8 +3807,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-09-13T23:12:36.954Z",
-      "updatedAt": "2026-01-27T08:52:24.666Z"
+      "createdAt": "2025-09-13T23:39:31.011Z",
+      "updatedAt": "2026-01-27T09:19:18.723Z"
     },
     {
       "id": 17,
@@ -3819,8 +3819,8 @@
       "images": [],
       "helpful": 36,
       "verified": true,
-      "createdAt": "2025-04-08T01:57:40.702Z",
-      "updatedAt": "2026-01-28T07:57:36.090Z"
+      "createdAt": "2025-04-08T02:24:34.759Z",
+      "updatedAt": "2026-01-28T08:24:30.147Z"
     },
     {
       "id": 18,
@@ -3833,8 +3833,8 @@
       ],
       "helpful": 32,
       "verified": true,
-      "createdAt": "2025-06-09T14:17:05.121Z",
-      "updatedAt": "2026-01-27T08:52:59.004Z"
+      "createdAt": "2025-06-09T14:43:59.178Z",
+      "updatedAt": "2026-01-27T09:19:53.061Z"
     },
     {
       "id": 19,
@@ -3845,8 +3845,8 @@
       "images": [],
       "helpful": 39,
       "verified": true,
-      "createdAt": "2025-10-14T21:05:19.639Z",
-      "updatedAt": "2026-01-28T08:02:42.965Z"
+      "createdAt": "2025-10-14T21:32:13.696Z",
+      "updatedAt": "2026-01-28T08:29:37.022Z"
     },
     {
       "id": 20,
@@ -3860,8 +3860,8 @@
       ],
       "helpful": 0,
       "verified": true,
-      "createdAt": "2025-04-20T16:06:23.195Z",
-      "updatedAt": "2026-01-28T05:44:35.434Z"
+      "createdAt": "2025-04-20T16:33:17.252Z",
+      "updatedAt": "2026-01-28T06:11:29.491Z"
     },
     {
       "id": 21,
@@ -3872,8 +3872,8 @@
       "images": [],
       "helpful": 28,
       "verified": true,
-      "createdAt": "2025-01-29T15:40:57.350Z",
-      "updatedAt": "2026-01-27T20:16:53.881Z"
+      "createdAt": "2025-01-29T16:07:51.407Z",
+      "updatedAt": "2026-01-27T20:43:47.938Z"
     },
     {
       "id": 22,
@@ -3887,8 +3887,8 @@
       ],
       "helpful": 41,
       "verified": true,
-      "createdAt": "2025-06-04T22:56:25.766Z",
-      "updatedAt": "2026-01-27T18:05:50.293Z"
+      "createdAt": "2025-06-04T23:23:19.823Z",
+      "updatedAt": "2026-01-27T18:32:44.350Z"
     },
     {
       "id": 23,
@@ -3901,8 +3901,8 @@
       ],
       "helpful": 12,
       "verified": true,
-      "createdAt": "2025-05-18T05:58:03.952Z",
-      "updatedAt": "2026-01-27T12:13:36.190Z"
+      "createdAt": "2025-05-18T06:24:58.009Z",
+      "updatedAt": "2026-01-27T12:40:30.247Z"
     },
     {
       "id": 24,
@@ -3913,8 +3913,8 @@
       "images": [],
       "helpful": 28,
       "verified": true,
-      "createdAt": "2025-08-14T13:19:19.252Z",
-      "updatedAt": "2026-01-28T01:23:45.134Z"
+      "createdAt": "2025-08-14T13:46:13.309Z",
+      "updatedAt": "2026-01-28T01:50:39.191Z"
     },
     {
       "id": 25,
@@ -3928,8 +3928,8 @@
       ],
       "helpful": 10,
       "verified": true,
-      "createdAt": "2025-11-19T15:15:49.430Z",
-      "updatedAt": "2026-01-28T00:56:27.909Z"
+      "createdAt": "2025-11-19T15:42:43.487Z",
+      "updatedAt": "2026-01-28T01:23:21.966Z"
     },
     {
       "id": 26,
@@ -3940,8 +3940,8 @@
       "images": [],
       "helpful": 23,
       "verified": true,
-      "createdAt": "2026-01-03T20:52:15.632Z",
-      "updatedAt": "2026-01-27T16:17:05.191Z"
+      "createdAt": "2026-01-03T21:19:09.689Z",
+      "updatedAt": "2026-01-27T16:43:59.248Z"
     },
     {
       "id": 27,
@@ -3955,8 +3955,8 @@
       ],
       "helpful": 10,
       "verified": true,
-      "createdAt": "2025-06-09T10:15:34.473Z",
-      "updatedAt": "2026-01-28T05:27:38.416Z"
+      "createdAt": "2025-06-09T10:42:28.530Z",
+      "updatedAt": "2026-01-28T05:54:32.473Z"
     },
     {
       "id": 28,
@@ -3967,8 +3967,8 @@
       "images": [],
       "helpful": 13,
       "verified": true,
-      "createdAt": "2025-05-04T13:58:01.160Z",
-      "updatedAt": "2026-01-27T15:15:21.137Z"
+      "createdAt": "2025-05-04T14:24:55.217Z",
+      "updatedAt": "2026-01-27T15:42:15.194Z"
     },
     {
       "id": 29,
@@ -3979,8 +3979,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-03-09T04:21:10.828Z",
-      "updatedAt": "2026-01-27T10:58:57.554Z"
+      "createdAt": "2025-03-09T04:48:04.885Z",
+      "updatedAt": "2026-01-27T11:25:51.611Z"
     },
     {
       "id": 30,
@@ -3993,8 +3993,8 @@
       ],
       "helpful": 19,
       "verified": true,
-      "createdAt": "2025-12-07T20:51:06.080Z",
-      "updatedAt": "2026-01-28T00:23:30.992Z"
+      "createdAt": "2025-12-07T21:18:00.137Z",
+      "updatedAt": "2026-01-28T00:50:25.049Z"
     },
     {
       "id": 31,
@@ -4005,8 +4005,8 @@
       "images": [],
       "helpful": 1,
       "verified": true,
-      "createdAt": "2025-04-22T08:19:42.218Z",
-      "updatedAt": "2026-01-27T10:53:46.932Z"
+      "createdAt": "2025-04-22T08:46:36.275Z",
+      "updatedAt": "2026-01-27T11:20:40.989Z"
     },
     {
       "id": 32,
@@ -4021,8 +4021,8 @@
       ],
       "helpful": 46,
       "verified": true,
-      "createdAt": "2025-01-28T09:27:27.956Z",
-      "updatedAt": "2026-01-28T08:16:28.179Z"
+      "createdAt": "2025-01-28T09:54:22.013Z",
+      "updatedAt": "2026-01-28T08:43:22.236Z"
     },
     {
       "id": 33,
@@ -4035,8 +4035,8 @@
       ],
       "helpful": 21,
       "verified": true,
-      "createdAt": "2025-12-29T00:20:07.925Z",
-      "updatedAt": "2026-01-27T21:09:47.698Z"
+      "createdAt": "2025-12-29T00:47:01.982Z",
+      "updatedAt": "2026-01-27T21:36:41.755Z"
     },
     {
       "id": 34,
@@ -4050,8 +4050,8 @@
       ],
       "helpful": 20,
       "verified": false,
-      "createdAt": "2025-03-05T10:40:39.560Z",
-      "updatedAt": "2026-01-27T14:02:05.455Z"
+      "createdAt": "2025-03-05T11:07:33.617Z",
+      "updatedAt": "2026-01-27T14:28:59.512Z"
     },
     {
       "id": 35,
@@ -4062,8 +4062,8 @@
       "images": [],
       "helpful": 28,
       "verified": true,
-      "createdAt": "2025-09-30T07:48:33.477Z",
-      "updatedAt": "2026-01-27T14:40:50.438Z"
+      "createdAt": "2025-09-30T08:15:27.534Z",
+      "updatedAt": "2026-01-27T15:07:44.495Z"
     },
     {
       "id": 36,
@@ -4074,8 +4074,8 @@
       "images": [],
       "helpful": 41,
       "verified": true,
-      "createdAt": "2025-08-11T07:15:01.273Z",
-      "updatedAt": "2026-01-27T17:59:53.400Z"
+      "createdAt": "2025-08-11T07:41:55.330Z",
+      "updatedAt": "2026-01-27T18:26:47.457Z"
     },
     {
       "id": 37,
@@ -4086,8 +4086,8 @@
       "images": [],
       "helpful": 16,
       "verified": true,
-      "createdAt": "2026-01-15T21:54:15.334Z",
-      "updatedAt": "2026-01-27T19:07:53.666Z"
+      "createdAt": "2026-01-15T22:21:09.391Z",
+      "updatedAt": "2026-01-27T19:34:47.723Z"
     },
     {
       "id": 38,
@@ -4100,8 +4100,8 @@
       ],
       "helpful": 22,
       "verified": true,
-      "createdAt": "2025-03-13T20:03:16.774Z",
-      "updatedAt": "2026-01-27T21:21:26.500Z"
+      "createdAt": "2025-03-13T20:30:10.831Z",
+      "updatedAt": "2026-01-27T21:48:20.557Z"
     },
     {
       "id": 39,
@@ -4112,8 +4112,8 @@
       "images": [],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-09-13T19:40:52.676Z",
-      "updatedAt": "2026-01-27T19:42:45.593Z"
+      "createdAt": "2025-09-13T20:07:46.733Z",
+      "updatedAt": "2026-01-27T20:09:39.650Z"
     },
     {
       "id": 40,
@@ -4124,8 +4124,8 @@
       "images": [],
       "helpful": 15,
       "verified": false,
-      "createdAt": "2025-12-26T02:11:39.523Z",
-      "updatedAt": "2026-01-27T12:37:42.259Z"
+      "createdAt": "2025-12-26T02:38:33.580Z",
+      "updatedAt": "2026-01-27T13:04:36.316Z"
     },
     {
       "id": 41,
@@ -4139,8 +4139,8 @@
       ],
       "helpful": 17,
       "verified": false,
-      "createdAt": "2025-09-25T19:32:40.115Z",
-      "updatedAt": "2026-01-27T13:26:40.571Z"
+      "createdAt": "2025-09-25T19:59:34.172Z",
+      "updatedAt": "2026-01-27T13:53:34.628Z"
     },
     {
       "id": 42,
@@ -4151,8 +4151,8 @@
       "images": [],
       "helpful": 23,
       "verified": true,
-      "createdAt": "2025-05-08T10:57:05.236Z",
-      "updatedAt": "2026-01-27T11:32:51.684Z"
+      "createdAt": "2025-05-08T11:23:59.293Z",
+      "updatedAt": "2026-01-27T11:59:45.741Z"
     },
     {
       "id": 43,
@@ -4163,8 +4163,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-08-31T12:01:10.059Z",
-      "updatedAt": "2026-01-27T22:50:34.963Z"
+      "createdAt": "2025-08-31T12:28:04.116Z",
+      "updatedAt": "2026-01-27T23:17:29.020Z"
     },
     {
       "id": 44,
@@ -4177,8 +4177,8 @@
       ],
       "helpful": 43,
       "verified": true,
-      "createdAt": "2025-07-22T23:25:28.006Z",
-      "updatedAt": "2026-01-27T19:56:40.897Z"
+      "createdAt": "2025-07-22T23:52:22.063Z",
+      "updatedAt": "2026-01-27T20:23:34.954Z"
     },
     {
       "id": 45,
@@ -4189,8 +4189,8 @@
       "images": [],
       "helpful": 17,
       "verified": true,
-      "createdAt": "2025-07-21T02:44:00.171Z",
-      "updatedAt": "2026-01-28T05:37:44.691Z"
+      "createdAt": "2025-07-21T03:10:54.228Z",
+      "updatedAt": "2026-01-28T06:04:38.748Z"
     },
     {
       "id": 46,
@@ -4204,8 +4204,8 @@
       ],
       "helpful": 34,
       "verified": true,
-      "createdAt": "2025-12-22T09:27:48.119Z",
-      "updatedAt": "2026-01-27T23:38:38.582Z"
+      "createdAt": "2025-12-22T09:54:42.176Z",
+      "updatedAt": "2026-01-28T00:05:32.639Z"
     },
     {
       "id": 47,
@@ -4216,8 +4216,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-08-05T21:38:10.499Z",
-      "updatedAt": "2026-01-28T01:24:13.661Z"
+      "createdAt": "2025-08-05T22:05:04.556Z",
+      "updatedAt": "2026-01-28T01:51:07.718Z"
     },
     {
       "id": 48,
@@ -4228,8 +4228,8 @@
       "images": [],
       "helpful": 27,
       "verified": false,
-      "createdAt": "2026-01-09T01:03:04.982Z",
-      "updatedAt": "2026-01-28T06:42:31.263Z"
+      "createdAt": "2026-01-09T01:29:59.039Z",
+      "updatedAt": "2026-01-28T07:09:25.320Z"
     },
     {
       "id": 49,
@@ -4243,8 +4243,8 @@
       ],
       "helpful": 49,
       "verified": true,
-      "createdAt": "2025-08-15T05:18:15.638Z",
-      "updatedAt": "2026-01-27T12:55:01.747Z"
+      "createdAt": "2025-08-15T05:45:09.695Z",
+      "updatedAt": "2026-01-27T13:21:55.804Z"
     },
     {
       "id": 50,
@@ -4257,8 +4257,8 @@
       ],
       "helpful": 6,
       "verified": false,
-      "createdAt": "2025-11-29T06:20:44.743Z",
-      "updatedAt": "2026-01-28T06:19:32.085Z"
+      "createdAt": "2025-11-29T06:47:38.800Z",
+      "updatedAt": "2026-01-28T06:46:26.142Z"
     },
     {
       "id": 51,
@@ -4269,8 +4269,8 @@
       "images": [],
       "helpful": 27,
       "verified": true,
-      "createdAt": "2025-06-20T02:44:22.501Z",
-      "updatedAt": "2026-01-27T16:11:33.194Z"
+      "createdAt": "2025-06-20T03:11:16.558Z",
+      "updatedAt": "2026-01-27T16:38:27.251Z"
     },
     {
       "id": 52,
@@ -4281,8 +4281,8 @@
       "images": [],
       "helpful": 24,
       "verified": true,
-      "createdAt": "2025-05-15T15:57:13.489Z",
-      "updatedAt": "2026-01-28T04:37:29.481Z"
+      "createdAt": "2025-05-15T16:24:07.546Z",
+      "updatedAt": "2026-01-28T05:04:23.538Z"
     },
     {
       "id": 53,
@@ -4293,8 +4293,8 @@
       "images": [],
       "helpful": 32,
       "verified": true,
-      "createdAt": "2025-04-22T05:28:10.125Z",
-      "updatedAt": "2026-01-27T13:27:09.685Z"
+      "createdAt": "2025-04-22T05:55:04.182Z",
+      "updatedAt": "2026-01-27T13:54:03.742Z"
     },
     {
       "id": 54,
@@ -4307,8 +4307,8 @@
       ],
       "helpful": 41,
       "verified": true,
-      "createdAt": "2025-03-01T21:13:15.904Z",
-      "updatedAt": "2026-01-28T07:35:18.324Z"
+      "createdAt": "2025-03-01T21:40:09.961Z",
+      "updatedAt": "2026-01-28T08:02:12.381Z"
     },
     {
       "id": 55,
@@ -4319,8 +4319,8 @@
       "images": [],
       "helpful": 31,
       "verified": true,
-      "createdAt": "2025-09-02T08:16:20.011Z",
-      "updatedAt": "2026-01-27T20:13:20.200Z"
+      "createdAt": "2025-09-02T08:43:14.068Z",
+      "updatedAt": "2026-01-27T20:40:14.257Z"
     },
     {
       "id": 56,
@@ -4331,8 +4331,8 @@
       "images": [],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-10-27T05:13:40.366Z",
-      "updatedAt": "2026-01-28T06:24:59.201Z"
+      "createdAt": "2025-10-27T05:40:34.424Z",
+      "updatedAt": "2026-01-28T06:51:53.259Z"
     },
     {
       "id": 57,
@@ -4343,8 +4343,8 @@
       "images": [],
       "helpful": 3,
       "verified": false,
-      "createdAt": "2025-04-19T20:35:23.005Z",
-      "updatedAt": "2026-01-27T15:10:31.231Z"
+      "createdAt": "2025-04-19T21:02:17.063Z",
+      "updatedAt": "2026-01-27T15:37:25.289Z"
     },
     {
       "id": 58,
@@ -4355,8 +4355,8 @@
       "images": [],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-07-12T23:23:39.531Z",
-      "updatedAt": "2026-01-27T09:15:35.816Z"
+      "createdAt": "2025-07-12T23:50:33.589Z",
+      "updatedAt": "2026-01-27T09:42:29.874Z"
     },
     {
       "id": 59,
@@ -4367,8 +4367,8 @@
       "images": [],
       "helpful": 0,
       "verified": true,
-      "createdAt": "2025-06-01T03:14:58.627Z",
-      "updatedAt": "2026-01-28T04:26:36.445Z"
+      "createdAt": "2025-06-01T03:41:52.685Z",
+      "updatedAt": "2026-01-28T04:53:30.503Z"
     },
     {
       "id": 60,
@@ -4379,8 +4379,8 @@
       "images": [],
       "helpful": 4,
       "verified": true,
-      "createdAt": "2025-12-19T01:16:28.558Z",
-      "updatedAt": "2026-01-27T19:35:47.317Z"
+      "createdAt": "2025-12-19T01:43:22.616Z",
+      "updatedAt": "2026-01-27T20:02:41.375Z"
     },
     {
       "id": 61,
@@ -4393,8 +4393,8 @@
       ],
       "helpful": 22,
       "verified": true,
-      "createdAt": "2025-06-03T14:51:43.534Z",
-      "updatedAt": "2026-01-27T19:37:14.202Z"
+      "createdAt": "2025-06-03T15:18:37.592Z",
+      "updatedAt": "2026-01-27T20:04:08.260Z"
     },
     {
       "id": 62,
@@ -4405,8 +4405,8 @@
       "images": [],
       "helpful": 24,
       "verified": true,
-      "createdAt": "2025-05-21T01:23:52.934Z",
-      "updatedAt": "2026-01-28T00:05:36.812Z"
+      "createdAt": "2025-05-21T01:50:46.992Z",
+      "updatedAt": "2026-01-28T00:32:30.870Z"
     },
     {
       "id": 63,
@@ -4417,8 +4417,8 @@
       "images": [],
       "helpful": 7,
       "verified": true,
-      "createdAt": "2025-05-04T20:51:43.661Z",
-      "updatedAt": "2026-01-28T01:19:19.948Z"
+      "createdAt": "2025-05-04T21:18:37.719Z",
+      "updatedAt": "2026-01-28T01:46:14.006Z"
     },
     {
       "id": 64,
@@ -4429,8 +4429,8 @@
       "images": [],
       "helpful": 29,
       "verified": true,
-      "createdAt": "2025-09-22T14:29:19.514Z",
-      "updatedAt": "2026-01-27T16:59:20.685Z"
+      "createdAt": "2025-09-22T14:56:13.572Z",
+      "updatedAt": "2026-01-27T17:26:14.743Z"
     },
     {
       "id": 65,
@@ -4441,8 +4441,8 @@
       "images": [],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-02-21T03:31:15.514Z",
-      "updatedAt": "2026-01-27T19:21:52.015Z"
+      "createdAt": "2025-02-21T03:58:09.572Z",
+      "updatedAt": "2026-01-27T19:48:46.073Z"
     },
     {
       "id": 66,
@@ -4457,8 +4457,8 @@
       ],
       "helpful": 12,
       "verified": true,
-      "createdAt": "2025-08-10T02:48:22.051Z",
-      "updatedAt": "2026-01-28T01:00:08.286Z"
+      "createdAt": "2025-08-10T03:15:16.109Z",
+      "updatedAt": "2026-01-28T01:27:02.344Z"
     },
     {
       "id": 67,
@@ -4469,8 +4469,8 @@
       "images": [],
       "helpful": 9,
       "verified": true,
-      "createdAt": "2025-07-26T18:44:02.969Z",
-      "updatedAt": "2026-01-28T06:43:34.927Z"
+      "createdAt": "2025-07-26T19:10:57.027Z",
+      "updatedAt": "2026-01-28T07:10:28.985Z"
     },
     {
       "id": 68,
@@ -4483,8 +4483,8 @@
       ],
       "helpful": 50,
       "verified": false,
-      "createdAt": "2025-03-29T14:07:22.483Z",
-      "updatedAt": "2026-01-27T13:11:17.176Z"
+      "createdAt": "2025-03-29T14:34:16.541Z",
+      "updatedAt": "2026-01-27T13:38:11.234Z"
     },
     {
       "id": 69,
@@ -4497,8 +4497,8 @@
       ],
       "helpful": 6,
       "verified": true,
-      "createdAt": "2025-02-17T01:23:35.376Z",
-      "updatedAt": "2026-01-27T09:53:54.246Z"
+      "createdAt": "2025-02-17T01:50:29.434Z",
+      "updatedAt": "2026-01-27T10:20:48.304Z"
     },
     {
       "id": 70,
@@ -4509,8 +4509,8 @@
       "images": [],
       "helpful": 5,
       "verified": true,
-      "createdAt": "2025-08-18T11:16:20.828Z",
-      "updatedAt": "2026-01-28T02:53:03.668Z"
+      "createdAt": "2025-08-18T11:43:14.886Z",
+      "updatedAt": "2026-01-28T03:19:57.726Z"
     },
     {
       "id": 71,
@@ -4523,8 +4523,8 @@
       ],
       "helpful": 1,
       "verified": true,
-      "createdAt": "2025-10-18T05:07:08.934Z",
-      "updatedAt": "2026-01-28T01:53:41.091Z"
+      "createdAt": "2025-10-18T05:34:02.992Z",
+      "updatedAt": "2026-01-28T02:20:35.149Z"
     },
     {
       "id": 72,
@@ -4535,8 +4535,8 @@
       "images": [],
       "helpful": 29,
       "verified": true,
-      "createdAt": "2026-01-01T22:29:35.054Z",
-      "updatedAt": "2026-01-27T23:05:39.371Z"
+      "createdAt": "2026-01-01T22:56:29.112Z",
+      "updatedAt": "2026-01-27T23:32:33.429Z"
     },
     {
       "id": 73,
@@ -4551,8 +4551,8 @@
       ],
       "helpful": 7,
       "verified": false,
-      "createdAt": "2025-03-02T12:43:12.193Z",
-      "updatedAt": "2026-01-28T04:51:06.052Z"
+      "createdAt": "2025-03-02T13:10:06.251Z",
+      "updatedAt": "2026-01-28T05:18:00.110Z"
     },
     {
       "id": 74,
@@ -4563,8 +4563,8 @@
       "images": [],
       "helpful": 25,
       "verified": true,
-      "createdAt": "2025-01-31T04:27:12.994Z",
-      "updatedAt": "2026-01-28T01:12:55.315Z"
+      "createdAt": "2025-01-31T04:54:07.052Z",
+      "updatedAt": "2026-01-28T01:39:49.373Z"
     },
     {
       "id": 75,
@@ -4575,8 +4575,8 @@
       "images": [],
       "helpful": 42,
       "verified": true,
-      "createdAt": "2025-10-14T13:12:50.129Z",
-      "updatedAt": "2026-01-28T02:13:47.520Z"
+      "createdAt": "2025-10-14T13:39:44.187Z",
+      "updatedAt": "2026-01-28T02:40:41.578Z"
     },
     {
       "id": 76,
@@ -4587,8 +4587,8 @@
       "images": [],
       "helpful": 33,
       "verified": true,
-      "createdAt": "2025-04-22T03:21:56.764Z",
-      "updatedAt": "2026-01-28T01:59:20.517Z"
+      "createdAt": "2025-04-22T03:48:50.821Z",
+      "updatedAt": "2026-01-28T02:26:14.574Z"
     },
     {
       "id": 77,
@@ -4599,8 +4599,8 @@
       "images": [],
       "helpful": 25,
       "verified": true,
-      "createdAt": "2025-05-23T05:42:07.838Z",
-      "updatedAt": "2026-01-27T16:47:47.308Z"
+      "createdAt": "2025-05-23T06:09:01.895Z",
+      "updatedAt": "2026-01-27T17:14:41.365Z"
     },
     {
       "id": 78,
@@ -4615,8 +4615,8 @@
       ],
       "helpful": 38,
       "verified": true,
-      "createdAt": "2025-08-06T03:11:55.938Z",
-      "updatedAt": "2026-01-27T13:15:37.063Z"
+      "createdAt": "2025-08-06T03:38:49.995Z",
+      "updatedAt": "2026-01-27T13:42:31.120Z"
     },
     {
       "id": 79,
@@ -4627,8 +4627,8 @@
       "images": [],
       "helpful": 7,
       "verified": true,
-      "createdAt": "2025-09-03T05:01:12.302Z",
-      "updatedAt": "2026-01-27T11:43:59.846Z"
+      "createdAt": "2025-09-03T05:28:06.359Z",
+      "updatedAt": "2026-01-27T12:10:53.903Z"
     },
     {
       "id": 80,
@@ -4639,8 +4639,8 @@
       "images": [],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-10-21T00:46:10.883Z",
-      "updatedAt": "2026-01-27T21:46:55.166Z"
+      "createdAt": "2025-10-21T01:13:04.940Z",
+      "updatedAt": "2026-01-27T22:13:49.223Z"
     },
     {
       "id": 81,
@@ -4651,8 +4651,8 @@
       "images": [],
       "helpful": 17,
       "verified": true,
-      "createdAt": "2025-02-01T01:05:19.311Z",
-      "updatedAt": "2026-01-28T05:23:35.647Z"
+      "createdAt": "2025-02-01T01:32:13.368Z",
+      "updatedAt": "2026-01-28T05:50:29.704Z"
     },
     {
       "id": 82,
@@ -4666,8 +4666,8 @@
       ],
       "helpful": 9,
       "verified": true,
-      "createdAt": "2025-10-10T19:04:09.294Z",
-      "updatedAt": "2026-01-28T03:48:29.929Z"
+      "createdAt": "2025-10-10T19:31:03.351Z",
+      "updatedAt": "2026-01-28T04:15:23.986Z"
     },
     {
       "id": 83,
@@ -4680,8 +4680,8 @@
       ],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-09-12T08:06:01.010Z",
-      "updatedAt": "2026-01-27T09:10:47.434Z"
+      "createdAt": "2025-09-12T08:32:55.067Z",
+      "updatedAt": "2026-01-27T09:37:41.491Z"
     },
     {
       "id": 84,
@@ -4692,8 +4692,8 @@
       "images": [],
       "helpful": 27,
       "verified": false,
-      "createdAt": "2025-04-03T17:04:43.949Z",
-      "updatedAt": "2026-01-27T15:19:56.644Z"
+      "createdAt": "2025-04-03T17:31:38.006Z",
+      "updatedAt": "2026-01-27T15:46:50.701Z"
     },
     {
       "id": 85,
@@ -4704,8 +4704,8 @@
       "images": [],
       "helpful": 42,
       "verified": false,
-      "createdAt": "2025-06-20T08:01:27.526Z",
-      "updatedAt": "2026-01-27T16:09:02.461Z"
+      "createdAt": "2025-06-20T08:28:21.583Z",
+      "updatedAt": "2026-01-27T16:35:56.518Z"
     },
     {
       "id": 86,
@@ -4716,8 +4716,8 @@
       "images": [],
       "helpful": 4,
       "verified": true,
-      "createdAt": "2025-12-07T04:19:32.881Z",
-      "updatedAt": "2026-01-27T22:16:12.283Z"
+      "createdAt": "2025-12-07T04:46:26.938Z",
+      "updatedAt": "2026-01-27T22:43:06.340Z"
     },
     {
       "id": 87,
@@ -4728,8 +4728,8 @@
       "images": [],
       "helpful": 30,
       "verified": true,
-      "createdAt": "2025-12-10T19:13:20.917Z",
-      "updatedAt": "2026-01-28T00:53:17.075Z"
+      "createdAt": "2025-12-10T19:40:14.974Z",
+      "updatedAt": "2026-01-28T01:20:11.132Z"
     },
     {
       "id": 88,
@@ -4742,8 +4742,8 @@
       ],
       "helpful": 40,
       "verified": true,
-      "createdAt": "2026-01-18T09:00:23.442Z",
-      "updatedAt": "2026-01-28T06:46:35.785Z"
+      "createdAt": "2026-01-18T09:27:17.499Z",
+      "updatedAt": "2026-01-28T07:13:29.842Z"
     },
     {
       "id": 89,
@@ -4754,8 +4754,8 @@
       "images": [],
       "helpful": 13,
       "verified": true,
-      "createdAt": "2025-11-18T01:54:40.977Z",
-      "updatedAt": "2026-01-27T10:40:58.458Z"
+      "createdAt": "2025-11-18T02:21:35.034Z",
+      "updatedAt": "2026-01-27T11:07:52.515Z"
     },
     {
       "id": 90,
@@ -4766,8 +4766,8 @@
       "images": [],
       "helpful": 42,
       "verified": true,
-      "createdAt": "2025-02-10T23:58:12.015Z",
-      "updatedAt": "2026-01-28T04:03:26.523Z"
+      "createdAt": "2025-02-11T00:25:06.072Z",
+      "updatedAt": "2026-01-28T04:30:20.580Z"
     },
     {
       "id": 91,
@@ -4781,8 +4781,8 @@
       ],
       "helpful": 15,
       "verified": true,
-      "createdAt": "2025-05-08T04:12:05.801Z",
-      "updatedAt": "2026-01-27T19:40:47.766Z"
+      "createdAt": "2025-05-08T04:38:59.858Z",
+      "updatedAt": "2026-01-27T20:07:41.823Z"
     },
     {
       "id": 92,
@@ -4796,8 +4796,8 @@
       ],
       "helpful": 45,
       "verified": true,
-      "createdAt": "2026-01-03T22:50:50.967Z",
-      "updatedAt": "2026-01-27T12:23:13.152Z"
+      "createdAt": "2026-01-03T23:17:45.024Z",
+      "updatedAt": "2026-01-27T12:50:07.209Z"
     },
     {
       "id": 93,
@@ -4808,8 +4808,8 @@
       "images": [],
       "helpful": 8,
       "verified": false,
-      "createdAt": "2025-04-27T15:59:00.202Z",
-      "updatedAt": "2026-01-28T05:13:17.213Z"
+      "createdAt": "2025-04-27T16:25:54.259Z",
+      "updatedAt": "2026-01-28T05:40:11.270Z"
     },
     {
       "id": 94,
@@ -4820,8 +4820,8 @@
       "images": [],
       "helpful": 28,
       "verified": true,
-      "createdAt": "2025-03-07T22:31:54.002Z",
-      "updatedAt": "2026-01-27T15:25:23.322Z"
+      "createdAt": "2025-03-07T22:58:48.059Z",
+      "updatedAt": "2026-01-27T15:52:17.379Z"
     },
     {
       "id": 95,
@@ -4832,8 +4832,8 @@
       "images": [],
       "helpful": 18,
       "verified": true,
-      "createdAt": "2025-03-04T04:05:29.549Z",
-      "updatedAt": "2026-01-28T06:35:08.921Z"
+      "createdAt": "2025-03-04T04:32:23.606Z",
+      "updatedAt": "2026-01-28T07:02:02.978Z"
     },
     {
       "id": 96,
@@ -4846,8 +4846,8 @@
       ],
       "helpful": 31,
       "verified": true,
-      "createdAt": "2025-08-08T17:33:56.848Z",
-      "updatedAt": "2026-01-28T05:35:40.303Z"
+      "createdAt": "2025-08-08T18:00:50.905Z",
+      "updatedAt": "2026-01-28T06:02:34.360Z"
     },
     {
       "id": 97,
@@ -4862,8 +4862,8 @@
       ],
       "helpful": 45,
       "verified": true,
-      "createdAt": "2025-05-07T00:38:59.898Z",
-      "updatedAt": "2026-01-28T06:16:31.625Z"
+      "createdAt": "2025-05-07T01:05:53.955Z",
+      "updatedAt": "2026-01-28T06:43:25.682Z"
     },
     {
       "id": 98,
@@ -4874,8 +4874,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-11-11T01:13:29.286Z",
-      "updatedAt": "2026-01-27T12:02:10.733Z"
+      "createdAt": "2025-11-11T01:40:23.343Z",
+      "updatedAt": "2026-01-27T12:29:04.790Z"
     },
     {
       "id": 99,
@@ -4886,8 +4886,8 @@
       "images": [],
       "helpful": 40,
       "verified": true,
-      "createdAt": "2025-06-01T21:20:05.442Z",
-      "updatedAt": "2026-01-27T13:41:26.965Z"
+      "createdAt": "2025-06-01T21:46:59.499Z",
+      "updatedAt": "2026-01-27T14:08:21.022Z"
     },
     {
       "id": 100,
@@ -4898,8 +4898,8 @@
       "images": [],
       "helpful": 18,
       "verified": true,
-      "createdAt": "2025-12-08T00:53:45.222Z",
-      "updatedAt": "2026-01-28T00:19:54.687Z"
+      "createdAt": "2025-12-08T01:20:39.279Z",
+      "updatedAt": "2026-01-28T00:46:48.744Z"
     },
     {
       "id": 101,
@@ -4913,8 +4913,8 @@
       ],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-09-28T18:18:11.652Z",
-      "updatedAt": "2026-01-27T19:58:44.511Z"
+      "createdAt": "2025-09-28T18:45:05.709Z",
+      "updatedAt": "2026-01-27T20:25:38.568Z"
     },
     {
       "id": 102,
@@ -4925,8 +4925,8 @@
       "images": [],
       "helpful": 19,
       "verified": false,
-      "createdAt": "2025-11-23T14:13:07.027Z",
-      "updatedAt": "2026-01-27T18:55:02.326Z"
+      "createdAt": "2025-11-23T14:40:01.084Z",
+      "updatedAt": "2026-01-27T19:21:56.383Z"
     },
     {
       "id": 103,
@@ -4937,8 +4937,8 @@
       "images": [],
       "helpful": 37,
       "verified": true,
-      "createdAt": "2025-03-12T07:23:06.346Z",
-      "updatedAt": "2026-01-28T02:00:30.461Z"
+      "createdAt": "2025-03-12T07:50:00.403Z",
+      "updatedAt": "2026-01-28T02:27:24.518Z"
     },
     {
       "id": 104,
@@ -4953,8 +4953,8 @@
       ],
       "helpful": 7,
       "verified": true,
-      "createdAt": "2025-05-11T07:31:31.430Z",
-      "updatedAt": "2026-01-27T14:05:06.682Z"
+      "createdAt": "2025-05-11T07:58:25.487Z",
+      "updatedAt": "2026-01-27T14:32:00.739Z"
     },
     {
       "id": 105,
@@ -4969,8 +4969,8 @@
       ],
       "helpful": 38,
       "verified": false,
-      "createdAt": "2025-02-09T06:00:10.097Z",
-      "updatedAt": "2026-01-28T01:20:06.670Z"
+      "createdAt": "2025-02-09T06:27:04.154Z",
+      "updatedAt": "2026-01-28T01:47:00.727Z"
     },
     {
       "id": 106,
@@ -4981,8 +4981,8 @@
       "images": [],
       "helpful": 2,
       "verified": false,
-      "createdAt": "2025-03-12T20:07:10.820Z",
-      "updatedAt": "2026-01-28T05:56:29.481Z"
+      "createdAt": "2025-03-12T20:34:04.877Z",
+      "updatedAt": "2026-01-28T06:23:23.538Z"
     },
     {
       "id": 107,
@@ -4993,8 +4993,8 @@
       "images": [],
       "helpful": 22,
       "verified": true,
-      "createdAt": "2025-04-30T21:53:46.538Z",
-      "updatedAt": "2026-01-27T21:43:13.441Z"
+      "createdAt": "2025-04-30T22:20:40.595Z",
+      "updatedAt": "2026-01-27T22:10:07.498Z"
     },
     {
       "id": 108,
@@ -5005,8 +5005,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-06-08T19:59:13.050Z",
-      "updatedAt": "2026-01-27T21:36:02.789Z"
+      "createdAt": "2025-06-08T20:26:07.107Z",
+      "updatedAt": "2026-01-27T22:02:56.846Z"
     },
     {
       "id": 109,
@@ -5017,8 +5017,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-05-21T07:29:33.983Z",
-      "updatedAt": "2026-01-27T18:30:14.258Z"
+      "createdAt": "2025-05-21T07:56:28.040Z",
+      "updatedAt": "2026-01-27T18:57:08.315Z"
     },
     {
       "id": 110,
@@ -5029,8 +5029,8 @@
       "images": [],
       "helpful": 42,
       "verified": true,
-      "createdAt": "2025-11-21T06:46:50.337Z",
-      "updatedAt": "2026-01-28T05:07:19.778Z"
+      "createdAt": "2025-11-21T07:13:44.394Z",
+      "updatedAt": "2026-01-28T05:34:13.835Z"
     },
     {
       "id": 111,
@@ -5041,8 +5041,8 @@
       "images": [],
       "helpful": 45,
       "verified": false,
-      "createdAt": "2025-05-07T12:20:21.900Z",
-      "updatedAt": "2026-01-27T22:51:55.499Z"
+      "createdAt": "2025-05-07T12:47:15.957Z",
+      "updatedAt": "2026-01-27T23:18:49.556Z"
     },
     {
       "id": 112,
@@ -5053,8 +5053,8 @@
       "images": [],
       "helpful": 38,
       "verified": true,
-      "createdAt": "2025-01-28T09:55:52.621Z",
-      "updatedAt": "2026-01-27T15:02:36.836Z"
+      "createdAt": "2025-01-28T10:22:46.678Z",
+      "updatedAt": "2026-01-27T15:29:30.893Z"
     },
     {
       "id": 113,
@@ -5065,8 +5065,8 @@
       "images": [],
       "helpful": 45,
       "verified": true,
-      "createdAt": "2025-03-23T10:52:40.523Z",
-      "updatedAt": "2026-01-27T15:54:57.169Z"
+      "createdAt": "2025-03-23T11:19:34.580Z",
+      "updatedAt": "2026-01-27T16:21:51.226Z"
     },
     {
       "id": 114,
@@ -5077,8 +5077,8 @@
       "images": [],
       "helpful": 13,
       "verified": true,
-      "createdAt": "2025-12-12T09:52:19.957Z",
-      "updatedAt": "2026-01-28T07:36:15.434Z"
+      "createdAt": "2025-12-12T10:19:14.014Z",
+      "updatedAt": "2026-01-28T08:03:09.491Z"
     },
     {
       "id": 115,
@@ -5089,8 +5089,8 @@
       "images": [],
       "helpful": 3,
       "verified": true,
-      "createdAt": "2025-05-15T21:15:21.333Z",
-      "updatedAt": "2026-01-27T10:54:06.077Z"
+      "createdAt": "2025-05-15T21:42:15.390Z",
+      "updatedAt": "2026-01-27T11:21:00.134Z"
     },
     {
       "id": 116,
@@ -5101,8 +5101,8 @@
       "images": [],
       "helpful": 35,
       "verified": true,
-      "createdAt": "2025-07-23T09:15:05.577Z",
-      "updatedAt": "2026-01-28T06:13:49.166Z"
+      "createdAt": "2025-07-23T09:41:59.634Z",
+      "updatedAt": "2026-01-28T06:40:43.223Z"
     },
     {
       "id": 117,
@@ -5116,8 +5116,8 @@
       ],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-12-06T18:13:18.550Z",
-      "updatedAt": "2026-01-27T20:01:38.748Z"
+      "createdAt": "2025-12-06T18:40:12.607Z",
+      "updatedAt": "2026-01-27T20:28:32.805Z"
     },
     {
       "id": 118,
@@ -5131,8 +5131,8 @@
       ],
       "helpful": 9,
       "verified": true,
-      "createdAt": "2025-11-10T19:31:17.053Z",
-      "updatedAt": "2026-01-28T04:21:32.089Z"
+      "createdAt": "2025-11-10T19:58:11.110Z",
+      "updatedAt": "2026-01-28T04:48:26.146Z"
     },
     {
       "id": 119,
@@ -5143,8 +5143,8 @@
       "images": [],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-09-21T14:59:48.054Z",
-      "updatedAt": "2026-01-27T21:48:12.351Z"
+      "createdAt": "2025-09-21T15:26:42.111Z",
+      "updatedAt": "2026-01-27T22:15:06.408Z"
     },
     {
       "id": 120,
@@ -5155,8 +5155,8 @@
       "images": [],
       "helpful": 42,
       "verified": true,
-      "createdAt": "2025-04-13T03:57:18.436Z",
-      "updatedAt": "2026-01-27T12:53:20.827Z"
+      "createdAt": "2025-04-13T04:24:12.493Z",
+      "updatedAt": "2026-01-27T13:20:14.884Z"
     },
     {
       "id": 121,
@@ -5170,8 +5170,8 @@
       ],
       "helpful": 0,
       "verified": true,
-      "createdAt": "2025-02-07T14:24:08.759Z",
-      "updatedAt": "2026-01-27T23:32:09.797Z"
+      "createdAt": "2025-02-07T14:51:02.816Z",
+      "updatedAt": "2026-01-27T23:59:03.854Z"
     },
     {
       "id": 122,
@@ -5182,8 +5182,8 @@
       "images": [],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-02-14T09:01:27.180Z",
-      "updatedAt": "2026-01-27T09:02:32.888Z"
+      "createdAt": "2025-02-14T09:28:21.237Z",
+      "updatedAt": "2026-01-27T09:29:26.945Z"
     },
     {
       "id": 123,
@@ -5194,8 +5194,8 @@
       "images": [],
       "helpful": 34,
       "verified": true,
-      "createdAt": "2026-01-24T10:30:53.522Z",
-      "updatedAt": "2026-01-28T00:35:20.692Z"
+      "createdAt": "2026-01-24T10:57:47.579Z",
+      "updatedAt": "2026-01-28T01:02:14.749Z"
     },
     {
       "id": 124,
@@ -5210,8 +5210,8 @@
       ],
       "helpful": 13,
       "verified": true,
-      "createdAt": "2025-07-19T08:33:46.213Z",
-      "updatedAt": "2026-01-28T00:41:44.867Z"
+      "createdAt": "2025-07-19T09:00:40.270Z",
+      "updatedAt": "2026-01-28T01:08:38.924Z"
     },
     {
       "id": 125,
@@ -5222,8 +5222,8 @@
       "images": [],
       "helpful": 15,
       "verified": true,
-      "createdAt": "2025-06-28T03:24:01.865Z",
-      "updatedAt": "2026-01-27T15:53:10.110Z"
+      "createdAt": "2025-06-28T03:50:55.922Z",
+      "updatedAt": "2026-01-27T16:20:04.167Z"
     },
     {
       "id": 126,
@@ -5234,8 +5234,8 @@
       "images": [],
       "helpful": 16,
       "verified": true,
-      "createdAt": "2025-04-21T04:48:33.399Z",
-      "updatedAt": "2026-01-28T06:48:27.436Z"
+      "createdAt": "2025-04-21T05:15:27.456Z",
+      "updatedAt": "2026-01-28T07:15:21.493Z"
     },
     {
       "id": 127,
@@ -5250,8 +5250,8 @@
       ],
       "helpful": 17,
       "verified": true,
-      "createdAt": "2025-08-08T00:40:52.371Z",
-      "updatedAt": "2026-01-27T18:48:58.419Z"
+      "createdAt": "2025-08-08T01:07:46.428Z",
+      "updatedAt": "2026-01-27T19:15:52.476Z"
     },
     {
       "id": 128,
@@ -5262,8 +5262,8 @@
       "images": [],
       "helpful": 45,
       "verified": true,
-      "createdAt": "2025-11-08T10:16:31.180Z",
-      "updatedAt": "2026-01-28T00:43:03.178Z"
+      "createdAt": "2025-11-08T10:43:25.237Z",
+      "updatedAt": "2026-01-28T01:09:57.235Z"
     },
     {
       "id": 129,
@@ -5274,8 +5274,8 @@
       "images": [],
       "helpful": 2,
       "verified": false,
-      "createdAt": "2025-12-03T05:20:19.700Z",
-      "updatedAt": "2026-01-28T07:13:08.119Z"
+      "createdAt": "2025-12-03T05:47:13.757Z",
+      "updatedAt": "2026-01-28T07:40:02.176Z"
     },
     {
       "id": 130,
@@ -5286,8 +5286,8 @@
       "images": [],
       "helpful": 1,
       "verified": false,
-      "createdAt": "2025-04-29T01:08:14.856Z",
-      "updatedAt": "2026-01-27T19:54:09.751Z"
+      "createdAt": "2025-04-29T01:35:08.913Z",
+      "updatedAt": "2026-01-27T20:21:03.808Z"
     },
     {
       "id": 131,
@@ -5300,8 +5300,8 @@
       ],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-11-24T08:57:37.923Z",
-      "updatedAt": "2026-01-28T02:05:26.941Z"
+      "createdAt": "2025-11-24T09:24:31.980Z",
+      "updatedAt": "2026-01-28T02:32:20.998Z"
     },
     {
       "id": 132,
@@ -5316,8 +5316,8 @@
       ],
       "helpful": 30,
       "verified": true,
-      "createdAt": "2025-04-17T14:44:38.133Z",
-      "updatedAt": "2026-01-27T17:22:46.002Z"
+      "createdAt": "2025-04-17T15:11:32.190Z",
+      "updatedAt": "2026-01-27T17:49:40.059Z"
     },
     {
       "id": 133,
@@ -5332,8 +5332,8 @@
       ],
       "helpful": 32,
       "verified": true,
-      "createdAt": "2025-06-14T15:37:07.717Z",
-      "updatedAt": "2026-01-27T10:01:10.437Z"
+      "createdAt": "2025-06-14T16:04:01.774Z",
+      "updatedAt": "2026-01-27T10:28:04.494Z"
     },
     {
       "id": 134,
@@ -5344,8 +5344,8 @@
       "images": [],
       "helpful": 33,
       "verified": false,
-      "createdAt": "2025-09-17T14:03:07.381Z",
-      "updatedAt": "2026-01-27T08:53:15.146Z"
+      "createdAt": "2025-09-17T14:30:01.438Z",
+      "updatedAt": "2026-01-27T09:20:09.203Z"
     },
     {
       "id": 135,
@@ -5356,8 +5356,8 @@
       "images": [],
       "helpful": 20,
       "verified": true,
-      "createdAt": "2025-11-22T23:57:05.230Z",
-      "updatedAt": "2026-01-28T01:26:55.830Z"
+      "createdAt": "2025-11-23T00:23:59.287Z",
+      "updatedAt": "2026-01-28T01:53:49.887Z"
     },
     {
       "id": 136,
@@ -5368,8 +5368,8 @@
       "images": [],
       "helpful": 8,
       "verified": true,
-      "createdAt": "2025-05-08T11:42:45.304Z",
-      "updatedAt": "2026-01-28T05:38:11.202Z"
+      "createdAt": "2025-05-08T12:09:39.361Z",
+      "updatedAt": "2026-01-28T06:05:05.259Z"
     },
     {
       "id": 137,
@@ -5380,8 +5380,8 @@
       "images": [],
       "helpful": 48,
       "verified": true,
-      "createdAt": "2025-03-11T22:22:20.964Z",
-      "updatedAt": "2026-01-28T05:47:48.064Z"
+      "createdAt": "2025-03-11T22:49:15.021Z",
+      "updatedAt": "2026-01-28T06:14:42.121Z"
     },
     {
       "id": 138,
@@ -5392,8 +5392,8 @@
       "images": [],
       "helpful": 16,
       "verified": false,
-      "createdAt": "2025-06-26T17:36:48.918Z",
-      "updatedAt": "2026-01-28T02:52:17.092Z"
+      "createdAt": "2025-06-26T18:03:42.975Z",
+      "updatedAt": "2026-01-28T03:19:11.149Z"
     },
     {
       "id": 139,
@@ -5404,8 +5404,8 @@
       "images": [],
       "helpful": 44,
       "verified": true,
-      "createdAt": "2025-11-18T02:13:29.471Z",
-      "updatedAt": "2026-01-28T08:43:29.479Z"
+      "createdAt": "2025-11-18T02:40:23.528Z",
+      "updatedAt": "2026-01-28T09:10:23.536Z"
     },
     {
       "id": 140,
@@ -5420,8 +5420,8 @@
       ],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-12-08T16:01:09.866Z",
-      "updatedAt": "2026-01-27T22:36:08.911Z"
+      "createdAt": "2025-12-08T16:28:03.923Z",
+      "updatedAt": "2026-01-27T23:03:02.968Z"
     },
     {
       "id": 141,
@@ -5432,8 +5432,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-06-05T01:52:19.202Z",
-      "updatedAt": "2026-01-27T22:48:02.406Z"
+      "createdAt": "2025-06-05T02:19:13.259Z",
+      "updatedAt": "2026-01-27T23:14:56.463Z"
     },
     {
       "id": 142,
@@ -5444,8 +5444,8 @@
       "images": [],
       "helpful": 21,
       "verified": true,
-      "createdAt": "2025-04-08T09:06:30.173Z",
-      "updatedAt": "2026-01-27T13:35:05.044Z"
+      "createdAt": "2025-04-08T09:33:24.230Z",
+      "updatedAt": "2026-01-27T14:01:59.101Z"
     },
     {
       "id": 143,
@@ -5456,8 +5456,8 @@
       "images": [],
       "helpful": 1,
       "verified": true,
-      "createdAt": "2025-08-11T18:01:22.739Z",
-      "updatedAt": "2026-01-27T11:58:57.676Z"
+      "createdAt": "2025-08-11T18:28:16.796Z",
+      "updatedAt": "2026-01-27T12:25:51.733Z"
     },
     {
       "id": 144,
@@ -5470,8 +5470,8 @@
       ],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-06-26T20:46:15.586Z",
-      "updatedAt": "2026-01-28T03:15:26.532Z"
+      "createdAt": "2025-06-26T21:13:09.643Z",
+      "updatedAt": "2026-01-28T03:42:20.589Z"
     },
     {
       "id": 145,
@@ -5482,8 +5482,8 @@
       "images": [],
       "helpful": 5,
       "verified": false,
-      "createdAt": "2025-07-25T18:11:14.361Z",
-      "updatedAt": "2026-01-27T10:14:03.202Z"
+      "createdAt": "2025-07-25T18:38:08.418Z",
+      "updatedAt": "2026-01-27T10:40:57.259Z"
     },
     {
       "id": 146,
@@ -5496,8 +5496,8 @@
       ],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-02-15T02:13:44.483Z",
-      "updatedAt": "2026-01-27T14:47:01.599Z"
+      "createdAt": "2025-02-15T02:40:38.540Z",
+      "updatedAt": "2026-01-27T15:13:55.656Z"
     },
     {
       "id": 147,
@@ -5508,8 +5508,8 @@
       "images": [],
       "helpful": 25,
       "verified": true,
-      "createdAt": "2025-03-12T18:01:04.959Z",
-      "updatedAt": "2026-01-27T11:45:42.972Z"
+      "createdAt": "2025-03-12T18:27:59.016Z",
+      "updatedAt": "2026-01-27T12:12:37.029Z"
     },
     {
       "id": 148,
@@ -5520,8 +5520,8 @@
       "images": [],
       "helpful": 20,
       "verified": true,
-      "createdAt": "2025-09-28T00:14:42.681Z",
-      "updatedAt": "2026-01-28T03:32:59.338Z"
+      "createdAt": "2025-09-28T00:41:36.738Z",
+      "updatedAt": "2026-01-28T03:59:53.395Z"
     },
     {
       "id": 149,
@@ -5536,8 +5536,8 @@
       ],
       "helpful": 5,
       "verified": true,
-      "createdAt": "2025-12-05T22:07:50.828Z",
-      "updatedAt": "2026-01-27T12:37:36.599Z"
+      "createdAt": "2025-12-05T22:34:44.885Z",
+      "updatedAt": "2026-01-27T13:04:30.656Z"
     },
     {
       "id": 150,
@@ -5548,8 +5548,8 @@
       "images": [],
       "helpful": 28,
       "verified": false,
-      "createdAt": "2025-04-28T22:08:10.175Z",
-      "updatedAt": "2026-01-28T02:05:16.629Z"
+      "createdAt": "2025-04-28T22:35:04.232Z",
+      "updatedAt": "2026-01-28T02:32:10.686Z"
     },
     {
       "id": 151,
@@ -5563,8 +5563,8 @@
       ],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-08-31T13:08:38.001Z",
-      "updatedAt": "2026-01-27T13:25:34.519Z"
+      "createdAt": "2025-08-31T13:35:32.058Z",
+      "updatedAt": "2026-01-27T13:52:28.576Z"
     },
     {
       "id": 152,
@@ -5575,8 +5575,8 @@
       "images": [],
       "helpful": 20,
       "verified": true,
-      "createdAt": "2025-09-13T21:00:05.912Z",
-      "updatedAt": "2026-01-28T05:47:05.657Z"
+      "createdAt": "2025-09-13T21:26:59.969Z",
+      "updatedAt": "2026-01-28T06:13:59.714Z"
     },
     {
       "id": 153,
@@ -5587,8 +5587,8 @@
       "images": [],
       "helpful": 4,
       "verified": true,
-      "createdAt": "2025-09-28T02:59:57.274Z",
-      "updatedAt": "2026-01-28T00:25:29.934Z"
+      "createdAt": "2025-09-28T03:26:51.331Z",
+      "updatedAt": "2026-01-28T00:52:23.991Z"
     },
     {
       "id": 154,
@@ -5599,8 +5599,8 @@
       "images": [],
       "helpful": 41,
       "verified": true,
-      "createdAt": "2025-02-05T18:56:54.923Z",
-      "updatedAt": "2026-01-28T01:34:38.359Z"
+      "createdAt": "2025-02-05T19:23:48.980Z",
+      "updatedAt": "2026-01-28T02:01:32.416Z"
     },
     {
       "id": 155,
@@ -5611,8 +5611,8 @@
       "images": [],
       "helpful": 19,
       "verified": true,
-      "createdAt": "2025-10-15T12:01:31.057Z",
-      "updatedAt": "2026-01-27T15:15:06.675Z"
+      "createdAt": "2025-10-15T12:28:25.114Z",
+      "updatedAt": "2026-01-27T15:42:00.732Z"
     },
     {
       "id": 156,
@@ -5623,8 +5623,8 @@
       "images": [],
       "helpful": 14,
       "verified": false,
-      "createdAt": "2025-09-18T08:18:32.224Z",
-      "updatedAt": "2026-01-27T08:58:48.529Z"
+      "createdAt": "2025-09-18T08:45:26.281Z",
+      "updatedAt": "2026-01-27T09:25:42.586Z"
     },
     {
       "id": 157,
@@ -5635,8 +5635,8 @@
       "images": [],
       "helpful": 25,
       "verified": true,
-      "createdAt": "2025-12-16T15:31:00.088Z",
-      "updatedAt": "2026-01-27T19:41:17.949Z"
+      "createdAt": "2025-12-16T15:57:54.145Z",
+      "updatedAt": "2026-01-27T20:08:12.006Z"
     },
     {
       "id": 158,
@@ -5650,8 +5650,8 @@
       ],
       "helpful": 40,
       "verified": true,
-      "createdAt": "2026-01-24T10:59:21.285Z",
-      "updatedAt": "2026-01-27T17:22:40.424Z"
+      "createdAt": "2026-01-24T11:26:15.342Z",
+      "updatedAt": "2026-01-27T17:49:34.481Z"
     },
     {
       "id": 159,
@@ -5662,8 +5662,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-08-15T12:45:10.078Z",
-      "updatedAt": "2026-01-28T00:11:23.530Z"
+      "createdAt": "2025-08-15T13:12:04.135Z",
+      "updatedAt": "2026-01-28T00:38:17.587Z"
     },
     {
       "id": 160,
@@ -5674,8 +5674,8 @@
       "images": [],
       "helpful": 28,
       "verified": false,
-      "createdAt": "2026-01-17T15:57:39.708Z",
-      "updatedAt": "2026-01-27T09:10:00.657Z"
+      "createdAt": "2026-01-17T16:24:33.765Z",
+      "updatedAt": "2026-01-27T09:36:54.714Z"
     },
     {
       "id": 161,
@@ -5686,8 +5686,8 @@
       "images": [],
       "helpful": 14,
       "verified": true,
-      "createdAt": "2025-04-29T19:48:05.311Z",
-      "updatedAt": "2026-01-27T23:44:51.514Z"
+      "createdAt": "2025-04-29T20:14:59.368Z",
+      "updatedAt": "2026-01-28T00:11:45.571Z"
     },
     {
       "id": 162,
@@ -5702,8 +5702,8 @@
       ],
       "helpful": 30,
       "verified": true,
-      "createdAt": "2025-09-12T21:18:07.677Z",
-      "updatedAt": "2026-01-27T16:56:13.655Z"
+      "createdAt": "2025-09-12T21:45:01.734Z",
+      "updatedAt": "2026-01-27T17:23:07.712Z"
     },
     {
       "id": 163,
@@ -5716,8 +5716,8 @@
       ],
       "helpful": 38,
       "verified": true,
-      "createdAt": "2025-09-10T10:46:16.104Z",
-      "updatedAt": "2026-01-27T16:32:49.427Z"
+      "createdAt": "2025-09-10T11:13:10.161Z",
+      "updatedAt": "2026-01-27T16:59:43.484Z"
     },
     {
       "id": 164,
@@ -5728,8 +5728,8 @@
       "images": [],
       "helpful": 10,
       "verified": true,
-      "createdAt": "2025-11-23T01:06:07.477Z",
-      "updatedAt": "2026-01-27T22:50:47.136Z"
+      "createdAt": "2025-11-23T01:33:01.534Z",
+      "updatedAt": "2026-01-27T23:17:41.193Z"
     },
     {
       "id": 165,
@@ -5740,8 +5740,8 @@
       "images": [],
       "helpful": 5,
       "verified": true,
-      "createdAt": "2025-08-25T22:14:39.360Z",
-      "updatedAt": "2026-01-28T00:37:39.085Z"
+      "createdAt": "2025-08-25T22:41:33.417Z",
+      "updatedAt": "2026-01-28T01:04:33.142Z"
     },
     {
       "id": 166,
@@ -5756,8 +5756,8 @@
       ],
       "helpful": 43,
       "verified": true,
-      "createdAt": "2025-04-29T10:58:04.912Z",
-      "updatedAt": "2026-01-28T03:33:13.410Z"
+      "createdAt": "2025-04-29T11:24:58.969Z",
+      "updatedAt": "2026-01-28T04:00:07.467Z"
     },
     {
       "id": 167,
@@ -5768,8 +5768,8 @@
       "images": [],
       "helpful": 41,
       "verified": true,
-      "createdAt": "2025-11-21T03:28:41.377Z",
-      "updatedAt": "2026-01-28T02:37:28.813Z"
+      "createdAt": "2025-11-21T03:55:35.434Z",
+      "updatedAt": "2026-01-28T03:04:22.870Z"
     },
     {
       "id": 168,
@@ -5780,8 +5780,8 @@
       "images": [],
       "helpful": 12,
       "verified": true,
-      "createdAt": "2025-02-05T14:16:24.816Z",
-      "updatedAt": "2026-01-27T22:01:59.235Z"
+      "createdAt": "2025-02-05T14:43:18.873Z",
+      "updatedAt": "2026-01-27T22:28:53.292Z"
     },
     {
       "id": 169,
@@ -5792,8 +5792,8 @@
       "images": [],
       "helpful": 4,
       "verified": true,
-      "createdAt": "2025-08-27T16:58:52.826Z",
-      "updatedAt": "2026-01-28T04:14:59.589Z"
+      "createdAt": "2025-08-27T17:25:46.883Z",
+      "updatedAt": "2026-01-28T04:41:53.646Z"
     },
     {
       "id": 170,
@@ -5804,8 +5804,8 @@
       "images": [],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-06-26T17:47:49.676Z",
-      "updatedAt": "2026-01-27T23:03:56.158Z"
+      "createdAt": "2025-06-26T18:14:43.733Z",
+      "updatedAt": "2026-01-27T23:30:50.215Z"
     },
     {
       "id": 171,
@@ -5820,8 +5820,8 @@
       ],
       "helpful": 36,
       "verified": true,
-      "createdAt": "2025-08-09T08:47:00.428Z",
-      "updatedAt": "2026-01-28T05:18:20.848Z"
+      "createdAt": "2025-08-09T09:13:54.485Z",
+      "updatedAt": "2026-01-28T05:45:14.905Z"
     },
     {
       "id": 172,
@@ -5835,8 +5835,8 @@
       ],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-09-25T13:54:38.973Z",
-      "updatedAt": "2026-01-28T03:24:25.281Z"
+      "createdAt": "2025-09-25T14:21:33.030Z",
+      "updatedAt": "2026-01-28T03:51:19.338Z"
     },
     {
       "id": 173,
@@ -5849,8 +5849,8 @@
       ],
       "helpful": 2,
       "verified": false,
-      "createdAt": "2025-04-27T12:56:00.279Z",
-      "updatedAt": "2026-01-27T22:41:06.164Z"
+      "createdAt": "2025-04-27T13:22:54.336Z",
+      "updatedAt": "2026-01-27T23:08:00.221Z"
     },
     {
       "id": 174,
@@ -5863,8 +5863,8 @@
       ],
       "helpful": 1,
       "verified": true,
-      "createdAt": "2026-01-12T16:04:27.875Z",
-      "updatedAt": "2026-01-27T11:24:34.802Z"
+      "createdAt": "2026-01-12T16:31:21.932Z",
+      "updatedAt": "2026-01-27T11:51:28.859Z"
     },
     {
       "id": 175,
@@ -5878,8 +5878,8 @@
       ],
       "helpful": 19,
       "verified": false,
-      "createdAt": "2025-12-27T09:36:35.776Z",
-      "updatedAt": "2026-01-27T17:48:39.924Z"
+      "createdAt": "2025-12-27T10:03:29.833Z",
+      "updatedAt": "2026-01-27T18:15:33.981Z"
     },
     {
       "id": 176,
@@ -5890,8 +5890,8 @@
       "images": [],
       "helpful": 38,
       "verified": false,
-      "createdAt": "2026-01-12T23:25:56.348Z",
-      "updatedAt": "2026-01-27T19:24:31.839Z"
+      "createdAt": "2026-01-12T23:52:50.405Z",
+      "updatedAt": "2026-01-27T19:51:25.896Z"
     },
     {
       "id": 177,
@@ -5906,8 +5906,8 @@
       ],
       "helpful": 33,
       "verified": true,
-      "createdAt": "2025-11-08T04:17:23.672Z",
-      "updatedAt": "2026-01-27T14:51:05.038Z"
+      "createdAt": "2025-11-08T04:44:17.729Z",
+      "updatedAt": "2026-01-27T15:17:59.095Z"
     },
     {
       "id": 178,
@@ -5921,8 +5921,8 @@
       ],
       "helpful": 9,
       "verified": true,
-      "createdAt": "2025-12-12T21:35:52.285Z",
-      "updatedAt": "2026-01-27T20:09:01.503Z"
+      "createdAt": "2025-12-12T22:02:46.342Z",
+      "updatedAt": "2026-01-27T20:35:55.560Z"
     },
     {
       "id": 179,
@@ -5933,8 +5933,8 @@
       "images": [],
       "helpful": 22,
       "verified": true,
-      "createdAt": "2026-01-06T17:40:02.846Z",
-      "updatedAt": "2026-01-27T19:03:28.850Z"
+      "createdAt": "2026-01-06T18:06:56.903Z",
+      "updatedAt": "2026-01-27T19:30:22.907Z"
     },
     {
       "id": 180,
@@ -5948,8 +5948,8 @@
       ],
       "helpful": 3,
       "verified": false,
-      "createdAt": "2026-01-10T17:44:12.666Z",
-      "updatedAt": "2026-01-28T03:35:45.015Z"
+      "createdAt": "2026-01-10T18:11:06.723Z",
+      "updatedAt": "2026-01-28T04:02:39.072Z"
     },
     {
       "id": 181,
@@ -5962,8 +5962,8 @@
       ],
       "helpful": 3,
       "verified": true,
-      "createdAt": "2025-11-21T20:03:39.885Z",
-      "updatedAt": "2026-01-27T22:46:17.957Z"
+      "createdAt": "2025-11-21T20:30:33.942Z",
+      "updatedAt": "2026-01-27T23:13:12.014Z"
     },
     {
       "id": 182,
@@ -5974,8 +5974,8 @@
       "images": [],
       "helpful": 23,
       "verified": true,
-      "createdAt": "2025-02-28T20:07:37.420Z",
-      "updatedAt": "2026-01-28T00:19:02.909Z"
+      "createdAt": "2025-02-28T20:34:31.477Z",
+      "updatedAt": "2026-01-28T00:45:56.966Z"
     },
     {
       "id": 183,
@@ -5989,8 +5989,8 @@
       ],
       "helpful": 50,
       "verified": false,
-      "createdAt": "2025-02-01T09:52:44.018Z",
-      "updatedAt": "2026-01-27T09:06:11.781Z"
+      "createdAt": "2025-02-01T10:19:38.075Z",
+      "updatedAt": "2026-01-27T09:33:05.838Z"
     },
     {
       "id": 184,
@@ -6004,8 +6004,8 @@
       ],
       "helpful": 2,
       "verified": true,
-      "createdAt": "2025-07-25T19:49:35.718Z",
-      "updatedAt": "2026-01-27T19:20:59.524Z"
+      "createdAt": "2025-07-25T20:16:29.775Z",
+      "updatedAt": "2026-01-27T19:47:53.581Z"
     },
     {
       "id": 185,
@@ -6016,8 +6016,8 @@
       "images": [],
       "helpful": 46,
       "verified": true,
-      "createdAt": "2025-10-30T00:03:29.853Z",
-      "updatedAt": "2026-01-27T22:22:04.898Z"
+      "createdAt": "2025-10-30T00:30:23.910Z",
+      "updatedAt": "2026-01-27T22:48:58.955Z"
     },
     {
       "id": 186,
@@ -6030,8 +6030,8 @@
       ],
       "helpful": 45,
       "verified": true,
-      "createdAt": "2025-03-07T19:34:34.959Z",
-      "updatedAt": "2026-01-27T14:20:28.339Z"
+      "createdAt": "2025-03-07T20:01:29.016Z",
+      "updatedAt": "2026-01-27T14:47:22.396Z"
     },
     {
       "id": 187,
@@ -6042,8 +6042,8 @@
       "images": [],
       "helpful": 48,
       "verified": true,
-      "createdAt": "2025-10-08T15:16:23.858Z",
-      "updatedAt": "2026-01-27T17:36:49.529Z"
+      "createdAt": "2025-10-08T15:43:17.915Z",
+      "updatedAt": "2026-01-27T18:03:43.586Z"
     },
     {
       "id": 188,
@@ -6054,8 +6054,8 @@
       "images": [],
       "helpful": 47,
       "verified": true,
-      "createdAt": "2025-07-30T18:59:38.943Z",
-      "updatedAt": "2026-01-27T14:13:09.495Z"
+      "createdAt": "2025-07-30T19:26:33.000Z",
+      "updatedAt": "2026-01-27T14:40:03.552Z"
     },
     {
       "id": 189,
@@ -6066,8 +6066,8 @@
       "images": [],
       "helpful": 32,
       "verified": true,
-      "createdAt": "2025-10-11T16:54:05.715Z",
-      "updatedAt": "2026-01-28T06:48:53.528Z"
+      "createdAt": "2025-10-11T17:20:59.772Z",
+      "updatedAt": "2026-01-28T07:15:47.585Z"
     },
     {
       "id": 190,
@@ -6081,8 +6081,8 @@
       ],
       "helpful": 13,
       "verified": true,
-      "createdAt": "2025-09-12T09:20:28.130Z",
-      "updatedAt": "2026-01-27T13:45:15.799Z"
+      "createdAt": "2025-09-12T09:47:22.187Z",
+      "updatedAt": "2026-01-27T14:12:09.856Z"
     },
     {
       "id": 191,
@@ -6093,8 +6093,8 @@
       "images": [],
       "helpful": 0,
       "verified": true,
-      "createdAt": "2025-12-26T21:54:09.648Z",
-      "updatedAt": "2026-01-28T03:12:50.739Z"
+      "createdAt": "2025-12-26T22:21:03.705Z",
+      "updatedAt": "2026-01-28T03:39:44.796Z"
     },
     {
       "id": 192,
@@ -6105,8 +6105,8 @@
       "images": [],
       "helpful": 3,
       "verified": true,
-      "createdAt": "2025-12-24T20:17:26.587Z",
-      "updatedAt": "2026-01-28T07:22:38.609Z"
+      "createdAt": "2025-12-24T20:44:20.644Z",
+      "updatedAt": "2026-01-28T07:49:32.666Z"
     },
     {
       "id": 193,
@@ -6117,8 +6117,8 @@
       "images": [],
       "helpful": 25,
       "verified": true,
-      "createdAt": "2025-05-31T07:00:49.685Z",
-      "updatedAt": "2026-01-28T04:44:19.427Z"
+      "createdAt": "2025-05-31T07:27:43.742Z",
+      "updatedAt": "2026-01-28T05:11:13.484Z"
     },
     {
       "id": 194,
@@ -6129,8 +6129,8 @@
       "images": [],
       "helpful": 3,
       "verified": true,
-      "createdAt": "2025-03-27T04:31:55.605Z",
-      "updatedAt": "2026-01-27T16:32:13.205Z"
+      "createdAt": "2025-03-27T04:58:49.662Z",
+      "updatedAt": "2026-01-27T16:59:07.262Z"
     },
     {
       "id": 195,
@@ -6145,8 +6145,8 @@
       ],
       "helpful": 26,
       "verified": true,
-      "createdAt": "2025-10-19T11:52:13.270Z",
-      "updatedAt": "2026-01-28T05:20:11.322Z"
+      "createdAt": "2025-10-19T12:19:07.327Z",
+      "updatedAt": "2026-01-28T05:47:05.379Z"
     },
     {
       "id": 196,
@@ -6159,8 +6159,8 @@
       ],
       "helpful": 40,
       "verified": true,
-      "createdAt": "2025-08-16T21:38:28.506Z",
-      "updatedAt": "2026-01-28T07:08:44.749Z"
+      "createdAt": "2025-08-16T22:05:22.563Z",
+      "updatedAt": "2026-01-28T07:35:38.806Z"
     },
     {
       "id": 197,
@@ -6171,8 +6171,8 @@
       "images": [],
       "helpful": 50,
       "verified": true,
-      "createdAt": "2025-10-05T07:24:31.671Z",
-      "updatedAt": "2026-01-27T13:05:06.296Z"
+      "createdAt": "2025-10-05T07:51:25.728Z",
+      "updatedAt": "2026-01-27T13:32:00.353Z"
     },
     {
       "id": 198,
@@ -6183,8 +6183,8 @@
       "images": [],
       "helpful": 45,
       "verified": false,
-      "createdAt": "2025-10-17T22:30:44.751Z",
-      "updatedAt": "2026-01-28T05:22:27.169Z"
+      "createdAt": "2025-10-17T22:57:38.808Z",
+      "updatedAt": "2026-01-28T05:49:21.226Z"
     },
     {
       "id": 199,
@@ -6197,8 +6197,8 @@
       ],
       "helpful": 1,
       "verified": true,
-      "createdAt": "2025-02-07T04:53:48.087Z",
-      "updatedAt": "2026-01-27T18:03:22.873Z"
+      "createdAt": "2025-02-07T05:20:42.144Z",
+      "updatedAt": "2026-01-27T18:30:16.930Z"
     },
     {
       "id": 200,
@@ -6213,8 +6213,8 @@
       ],
       "helpful": 20,
       "verified": true,
-      "createdAt": "2025-11-10T21:29:03.350Z",
-      "updatedAt": "2026-01-28T04:14:26.906Z"
+      "createdAt": "2025-11-10T21:55:57.407Z",
+      "updatedAt": "2026-01-28T04:41:20.963Z"
     }
   ],
   "flashSales": [
@@ -6222,8 +6222,8 @@
       "id": 1,
       "name": "Flash Sale Giữa tuần",
       "description": "Giảm giá sốc đến 53%",
-      "startDate": "2026-01-30T23:23:43.557Z",
-      "endDate": "2026-01-31T21:23:43.557Z",
+      "startDate": "2026-01-30T23:50:37.614Z",
+      "endDate": "2026-01-31T21:50:37.614Z",
       "products": [
         {
           "productId": 28,
@@ -6262,8 +6262,8 @@
       "id": 2,
       "name": "Flash Sale Cuối tuần",
       "description": "Giảm giá sốc đến 35%",
-      "startDate": "2026-01-30T07:48:27.830Z",
-      "endDate": "2026-01-30T18:48:27.830Z",
+      "startDate": "2026-01-30T08:15:21.887Z",
+      "endDate": "2026-01-30T19:15:21.887Z",
       "products": [
         {
           "productId": 22,
@@ -6332,8 +6332,8 @@
       "id": 3,
       "name": "Flash Sale Cuối tuần",
       "description": "Giảm giá sốc đến 65%",
-      "startDate": "2026-01-28T09:09:10.261Z",
-      "endDate": "2026-01-28T14:09:10.261Z",
+      "startDate": "2026-01-28T09:36:04.317Z",
+      "endDate": "2026-01-28T14:36:04.317Z",
       "products": [
         {
           "productId": 1,
@@ -6390,8 +6390,8 @@
       "id": 4,
       "name": "Flash Sale Siêu sale",
       "description": "Giảm giá sốc đến 53%",
-      "startDate": "2026-02-03T13:33:55.108Z",
-      "endDate": "2026-02-04T02:33:55.108Z",
+      "startDate": "2026-02-03T14:00:49.164Z",
+      "endDate": "2026-02-04T03:00:49.164Z",
       "products": [
         {
           "productId": 32,
@@ -6454,8 +6454,8 @@
       "id": 5,
       "name": "Flash Sale Giữa tuần",
       "description": "Giảm giá sốc đến 46%",
-      "startDate": "2026-01-31T13:20:12.715Z",
-      "endDate": "2026-02-01T09:20:12.715Z",
+      "startDate": "2026-01-31T13:47:06.771Z",
+      "endDate": "2026-02-01T09:47:06.771Z",
       "products": [
         {
           "productId": 7,
@@ -6482,8 +6482,8 @@
       "id": 6,
       "name": "Flash Sale Cuối tuần",
       "description": "Giảm giá sốc đến 46%",
-      "startDate": "2026-02-01T00:52:35.161Z",
-      "endDate": "2026-02-01T16:52:35.161Z",
+      "startDate": "2026-02-01T01:19:29.217Z",
+      "endDate": "2026-02-01T17:19:29.217Z",
       "products": [
         {
           "productId": 27,
@@ -6552,8 +6552,8 @@
       "id": 7,
       "name": "Flash Sale Cuối tuần",
       "description": "Giảm giá sốc đến 66%",
-      "startDate": "2026-02-03T13:09:35.280Z",
-      "endDate": "2026-02-04T10:09:35.280Z",
+      "startDate": "2026-02-03T13:36:29.336Z",
+      "endDate": "2026-02-04T10:36:29.336Z",
       "products": [
         {
           "productId": 5,
@@ -6580,8 +6580,8 @@
       "id": 8,
       "name": "Flash Sale Siêu sale",
       "description": "Giảm giá sốc đến 62%",
-      "startDate": "2026-01-30T14:27:32.780Z",
-      "endDate": "2026-01-31T02:27:32.780Z",
+      "startDate": "2026-01-30T14:54:26.836Z",
+      "endDate": "2026-01-31T02:54:26.836Z",
       "products": [
         {
           "productId": 28,
@@ -6632,8 +6632,8 @@
       "id": 9,
       "name": "Flash Sale Đặc biệt",
       "description": "Giảm giá sốc đến 50%",
-      "startDate": "2026-01-31T19:35:21.921Z",
-      "endDate": "2026-02-01T02:35:21.921Z",
+      "startDate": "2026-01-31T20:02:15.977Z",
+      "endDate": "2026-02-01T03:02:15.977Z",
       "products": [
         {
           "productId": 12,
@@ -6672,8 +6672,8 @@
       "id": 10,
       "name": "Flash Sale Cuối tuần",
       "description": "Giảm giá sốc đến 30%",
-      "startDate": "2026-02-01T01:52:53.226Z",
-      "endDate": "2026-02-01T11:52:53.226Z",
+      "startDate": "2026-02-01T02:19:47.282Z",
+      "endDate": "2026-02-01T12:19:47.282Z",
       "products": [
         {
           "productId": 21,
@@ -6718,8 +6718,8 @@
       "id": 11,
       "name": "Flash Sale Siêu sale",
       "description": "Giảm giá sốc đến 54%",
-      "startDate": "2026-02-02T06:06:33.881Z",
-      "endDate": "2026-02-03T03:06:33.881Z",
+      "startDate": "2026-02-02T06:33:27.937Z",
+      "endDate": "2026-02-03T03:33:27.937Z",
       "products": [
         {
           "productId": 1,
@@ -6746,8 +6746,8 @@
       "id": 12,
       "name": "Flash Sale Đặc biệt",
       "description": "Giảm giá sốc đến 53%",
-      "startDate": "2026-02-01T00:49:26.553Z",
-      "endDate": "2026-02-01T03:49:26.553Z",
+      "startDate": "2026-02-01T01:16:20.609Z",
+      "endDate": "2026-02-01T04:16:20.609Z",
       "products": [
         {
           "productId": 32,
@@ -6792,8 +6792,8 @@
       "id": 13,
       "name": "Flash Sale Đặc biệt",
       "description": "Giảm giá sốc đến 63%",
-      "startDate": "2026-02-04T04:08:58.920Z",
-      "endDate": "2026-02-04T14:08:58.920Z",
+      "startDate": "2026-02-04T04:35:52.976Z",
+      "endDate": "2026-02-04T14:35:52.976Z",
       "products": [
         {
           "productId": 34,
@@ -6844,8 +6844,8 @@
       "id": 14,
       "name": "Flash Sale Giữa tuần",
       "description": "Giảm giá sốc đến 50%",
-      "startDate": "2026-01-31T16:01:04.498Z",
-      "endDate": "2026-02-01T03:01:04.498Z",
+      "startDate": "2026-01-31T16:27:58.554Z",
+      "endDate": "2026-02-01T03:27:58.554Z",
       "products": [
         {
           "productId": 35,
@@ -6902,8 +6902,8 @@
       "id": 15,
       "name": "Flash Sale Siêu sale",
       "description": "Giảm giá sốc đến 34%",
-      "startDate": "2026-01-28T16:00:57.584Z",
-      "endDate": "2026-01-29T15:00:57.584Z",
+      "startDate": "2026-01-28T16:27:51.640Z",
+      "endDate": "2026-01-29T15:27:51.640Z",
       "products": [
         {
           "productId": 7,
@@ -6976,6 +6976,28 @@
       "id": "3",
       "imageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-3.jpeg",
       "mobileImageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-3.jpeg",
+      "link": "/shipping-policy",
+      "type": "announcement",
+      "position": "home_top",
+      "priority": 3,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "imageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-4.jpeg",
+      "mobileImageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-4.jpeg",
+      "link": "/shipping-policy",
+      "type": "announcement",
+      "position": "home_top",
+      "priority": 4,
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "imageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-5.jpeg",
+      "mobileImageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-5.jpeg",
       "link": "/shipping-policy",
       "type": "announcement",
       "position": "home_top",
