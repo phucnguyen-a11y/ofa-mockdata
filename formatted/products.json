@@ -5,10 +5,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/vang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/do.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/den.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/1-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/1-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/1-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/1-4.png"
     ],
     "name": "VENTO S",
     "price": 30000000,
@@ -60,7 +60,7 @@
       ]
     ],
     "slug": "vento-s",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+S/vang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/1-1.png",
     "originalPrice": 32967033,
     "discount": 9,
     "rating": 4.1,
@@ -84,10 +84,10 @@
     "brand": "Vinfast",
     "brandImage": "assets/images/brands/vinfast.png",
     "images": [
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/vang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/trang.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/xam.png",
-      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/den.png"
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/2-1.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/2-2.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/2-3.png",
+      "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/2-4.png"
     ],
     "name": "VENTO NEO",
     "price": 32000000,
@@ -140,7 +140,7 @@
       ]
     ],
     "slug": "vento-neo",
-    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/vinfast/Vento+Neo/vang.png",
+    "thumbnail": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/products/2-1.png",
     "originalPrice": 47761194,
     "discount": 33,
     "rating": 4.5,

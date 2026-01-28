@@ -1,0 +1,89 @@
+stages:
+  - build
+  - deploy
+
+variables:
+  AWS_REGION: ap-southeast-1  # Singapore region
+
+# ==========================================
+# BUILD STAGE
+# ==========================================
+build:
+  stage: build
+  image: node:18-alpine
+  script:
+    - echo "📦 Installing dependencies..."
+    - npm ci
+    
+    - echo "🎨 Generating mock data..."
+    - npm run mock:generate
+    
+    - echo "✅ Build completed!"
+  artifacts:
+    paths:
+      - node_modules/
+      - mock/db.json
+      - formatted/
+      - scripts/
+      - lambda.js
+      - serverless.yml
+      - package*.json
+    expire_in: 1 hour
+  only:
+    - main
+    - develop
+
+# ==========================================
+# DEPLOY TO AWS LAMBDA
+# ==========================================
+deploy:lambda:
+  stage: deploy
+  image: node:18-alpine
+  before_script:
+    - echo "🔧 Installing Serverless Framework..."
+    - npm install -g serverless
+    
+    - echo "🔐 Configuring AWS credentials..."
+    - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
+    - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
+  script:
+    - echo "🚀 Deploying to AWS Lambda..."
+    - serverless deploy --stage prod --region $AWS_REGION --verbose
+    
+    - echo "✅ Deployment completed!"
+    - echo "📍 Check pipeline output for API endpoint"
+  after_script:
+    - echo "================================================"
+    - echo "🎉 Lambda deployment finished!"
+    - echo "📊 View logs: AWS Console → CloudWatch"
+    - echo "📍 API Endpoint shown in deployment output above"
+    - echo "================================================"
+  only:
+    - main
+  dependencies:
+    - build
+  environment:
+    name: production
+    url: https://xxxxx.execute-api.ap-southeast-1.amazonaws.com/prod
+
+# ==========================================
+# DEPLOY TO STAGING (Optional)
+# ==========================================
+deploy:staging:
+  stage: deploy
+  image: node:18-alpine
+  before_script:
+    - npm install -g serverless
+    - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY_ID
+    - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_ACCESS_KEY
+  script:
+    - echo "🧪 Deploying to staging..."
+    - serverless deploy --stage staging --region $AWS_REGION
+  only:
+    - develop
+  dependencies:
+    - build
+  environment:
+    name: staging
+    url: https://xxxxx.execute-api.ap-southeast-1.amazonaws.com/staging
+  when: manual  # Manual trigger for staging

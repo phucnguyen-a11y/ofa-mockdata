@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "imageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-1.jpeg",
+        "mobileImageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-1.jpeg",
+        "position": "home_top",
+        "priority": 1,
+        "createdAt": "2026-01-15T10:00:00Z",
+        "updatedAt": "2026-01-20T15:30:00Z"
+    },
+    {
+        "id": "2",
+        "imageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-2.jpeg",
+        "mobileImageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-2.jpeg",
+        "link": "/collections/new-arrivals",
+        "type": "collection",
+        "position": "home_middle",
+        "priority": 2,
+        "createdAt": "2026-01-10T08:00:00Z",
+        "updatedAt": "2026-01-18T12:00:00Z"
+    },
+    {
+        "id": "3",
+        "imageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-3.jpeg",
+        "mobileImageUrl": "https://s3.ap-northeast-2.amazonaws.com/okxe.new.test/demo/banners/banner-3.jpeg",
+        "link": "/shipping-policy",
+        "type": "announcement",
+        "position": "home_top",
+        "priority": 3,
+        "createdAt": "2026-01-01T00:00:00Z",
+        "updatedAt": "2026-01-01T00:00:00Z"
+    }
+]

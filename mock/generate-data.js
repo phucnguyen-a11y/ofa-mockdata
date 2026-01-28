@@ -16,6 +16,7 @@ const formattedCategories = require('../formatted/categories.json');
 const formattedUsers = require('../formatted/users.json');
 const formattedStoresData = require('../formatted/stores.json');
 const formattedPosts = require('../formatted/posts.json');
+const formattedBanners = require('../formatted/banners.json');
 
 // Extract stores and branches
 const formattedStores = formattedStoresData.stores || formattedStoresData;
@@ -26,6 +27,7 @@ console.log(`✅ Loaded ${formattedCategories.length} categories from formatted/
 console.log(`✅ Loaded ${formattedUsers.length} users from formatted/users.json`);
 console.log(`✅ Loaded ${formattedStores.length} stores from formatted/stores.json`);
 console.log(`✅ Loaded ${formattedPosts.length} posts from formatted/posts.json`);
+console.log(`✅ Loaded ${formattedBanners.length} banners from formatted/banners.json`);
 
 // ============================================
 // GENERATE ADDITIONAL DATA
@@ -94,44 +96,15 @@ function generateFlashSales(count = 10) {
     return flashSales;
 }
 
-// Generate Banners
-function generateBanners(count = 5) {
-    const banners = [];
-
-    for (let i = 0; i < count; i++) {
-        banners.push({
-            id: i + 1,
-            title: faker.helpers.arrayElement([
-                'Sale cuối năm - Giảm đến 50%',
-                'Xe máy điện Vinfast - Ưu đãi khủng',
-                'Mua ngay - Trả góp 0%',
-                'Freeship toàn quốc',
-                'Black Friday - Deal HOT'
-            ]),
-            image: `https://picsum.photos/seed/banner${i}/1200/400`,
-            link: `/products?sale=true`,
-            position: faker.helpers.arrayElement(['hero', 'sidebar', 'middle', 'footer']),
-            order: i + 1,
-            isActive: faker.datatype.boolean(0.8),
-            createdAt: faker.date.past({ years: 1 }),
-            updatedAt: faker.date.recent()
-        });
-    }
-
-    return banners;
-}
-
 // ============================================
 // GENERATE ALL DATA
 // ============================================
 
 const reviews = generateReviews(200);
 const flashSales = generateFlashSales(15);
-const banners = generateBanners(6);
 
 console.log(`✅ Generated ${reviews.length} reviews`);
-console.log(`✅ Generated ${flashSales.length} flash sales`);
-console.log(`✅ Generated ${banners.length} banners\n`);
+console.log(`✅ Generated ${flashSales.length} flash sales\n`);
 
 // ============================================
 // CREATE DATABASE OBJECT
@@ -146,7 +119,7 @@ const db = {
     posts: formattedPosts,
     reviews: reviews,
     flashSales: flashSales,
-    banners: banners,
+    banners: formattedBanners,
     feedbacks: [] // Empty array for feedback form
 };
 
